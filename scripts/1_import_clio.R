@@ -99,3 +99,4 @@ write_csv(clio_long, "data/processed/clio_production_long.csv")
 saveRDS(clio_long, "data/processed/clio_production_long.rds")
 
 message("\n1_import_clio.R exécuté avec succès")
+
