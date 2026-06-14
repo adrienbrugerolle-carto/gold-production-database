@@ -1,0 +1,29 @@
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Fichiers temporaires
+*.lock*
+*.~lock*
+*.tmp
+*.log
+
+# Données brutes trop lourdes (optionnel)
+DATA/*.csv
+DATA/*.xlsx
+data/raw/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Bibliothèque personnelle (si ce n'est pas des données publiques)
+Biblio/
+
+# Fichiers de verrouillage
+*.~
+# 
+
