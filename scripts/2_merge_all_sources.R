@@ -1,39 +1,69 @@
 # ============================================================================
-# scripts/2_merge_all_sources.R
-# Fusion de Craig (USA), Castaneda (monde) et CLIO (monde historique)
+# scripts/2_merge_all_sources_CORRECTED.R
+# Version avec unités cohérentes
 # ============================================================================
 
 source("scripts/0_setup.R")
 
 # ----------------------------------------------------------------------------
-# 1. Chargement des trois sources
+# 1. Chargement avec unités correctes
 # ----------------------------------------------------------------------------
 
-# CLIO
+# CLIO (tonnes) - déjà bon
 clio_data <- readRDS("data/processed/clio_production_long.rds") %>%
   rename(country = country_name) %>%
   mutate(source = "CLIO", source_priority = 1)
 
-# Craig : production USA (déjà en tonnes dans craig_total_tonnes)
-craig_usa <- craig_total_tonnes %>%
-  mutate(country = "United States", source = "Craig", source_priority = 3)
+# Craig (onces -> tonnes) - déjà bon
+craig_total <- readRDS("data/processed/total_us.rds")
+craig_usa <- craig_total %>%
+  mutate(
+    production_tonnes = production_oz / 32150.7,
+    source = "Craig",
+    source_priority = 5,
+    country = "United States"
+  ) %>%
+  select(year, country, production_tonnes, source, source_priority)
 
-# Castaneda : production mondiale
-castaneda_world <- castaneda_prod %>%
-  mutate(country = "World", source = "Castaneda", source_priority = 2)
+# Castaneda (tonnes) - déjà bon
+castaneda <- read_csv("data/processed/castaneda_world_production.csv", show_col_types = FALSE)
+castaneda_world <- castaneda %>%
+  filter(!is.na(production_tonnes)) %>%
+  select(year, production_tonnes) %>%
+  mutate(
+    country = "World",
+    source = "Castaneda",
+    source_priority = 2
+  )
+
+# Soetbeer (tonnes) - NE PAS DIVISER
+soetbeer_data <- readRDS("data/processed/soetbeer_production.rds") %>%
+  mutate(
+    country = "World",
+    source = "Soetbeer",
+    source_priority = 3
+  )
+
+# TePaske (kg -> tonnes) - CORRIGÉ
+tepaske_data <- readRDS("data/processed/tepaske_by_country.rds") %>%
+  mutate(
+    production_tonnes = production_tonnes / 1000,  # kg -> tonnes
+    source = "TePaske",
+    source_priority = 4
+  )
 
 # ----------------------------------------------------------------------------
-# 2. Fusion avec priorité
+# 2. Fusion
 # ----------------------------------------------------------------------------
 
-# Union de toutes les sources
 all_sources <- bind_rows(
   clio_data %>% select(year, country, production_tonnes, source, source_priority),
-  craig_usa %>% select(year, country, production_tonnes, source, source_priority),
-  castaneda_world %>% select(year, country, production_tonnes, source, source_priority)
+  craig_usa,
+  castaneda_world,
+  soetbeer_data,
+  tepaske_data
 )
 
-# Règle de priorité : Craig (USA, priorité 3) > Castaneda (monde, 2) > CLIO (1)
 final_production <- all_sources %>%
   group_by(country, year) %>%
   slice_max(order_by = source_priority, n = 1, with_ties = FALSE) %>%
@@ -41,30 +71,27 @@ final_production <- all_sources %>%
   arrange(country, year)
 
 # ----------------------------------------------------------------------------
-# 3. Statistiques et vérifications
+# 3. Top 10 réaliste (production totale par pays)
 # ----------------------------------------------------------------------------
 
-cat("\n=== STATISTIQUES FINALES ===\n")
-cat("Nombre de pays :", n_distinct(final_production$country), "\n")
-cat("Période couverte :", range(final_production$year, na.rm = TRUE), "\n")
-cat("Nombre total d'observations :", nrow(final_production), "\n")
+cat("\n=== TOP 10 PRODUCTEURS (production totale corrigée en tonnes) ===\n")
+top10_corrected <- final_production %>%
+  group_by(country) %>%
+  summarise(
+    total_production = sum(production_tonnes, na.rm = TRUE),
+    n_years = n_distinct(year),
+    annual_avg = total_production / n_years
+  ) %>%
+  arrange(desc(total_production)) %>%
+  head(10)
 
-cat("\nRépartition par source :\n")
-print(table(final_production$source))
-
-# Vérifier les USA (comparaison Craig vs CLIO)
-usa_comparison <- final_production %>%
-  filter(country == "United States", year >= 1800, year <= 1900) %>%
-  select(year, production_tonnes, source)
-
-cat("\nUSA - comparaison des sources (1800-1900) :\n")
-print(head(usa_comparison, 20))
+print(top10_corrected)
 
 # ----------------------------------------------------------------------------
 # 4. Sauvegarde
 # ----------------------------------------------------------------------------
 
-write_csv(final_production, "data/processed/gold_production_final.csv")
-saveRDS(final_production, "data/processed/gold_production_final.rds")
+write_csv(final_production, "data/processed/gold_production_final_corrected.csv")
+saveRDS(final_production, "data/processed/gold_production_final_corrected.rds")
 
-message("\n2_merge_all_sources.R exécuté avec succès")
+cat("\n✅ Fichier sauvegardé : gold_production_final_corrected.csv\n")

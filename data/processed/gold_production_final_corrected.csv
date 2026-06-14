@@ -505,7 +505,7 @@ year,country,production_tonnes,source,source_priority
 1693,Brazil,1.5,CLIO,1
 1694,Brazil,1.5,CLIO,1
 1695,Brazil,1.5,CLIO,1
-1696,Brazil,8654,TePaske,4
+1696,Brazil,8.654,TePaske,4
 1697,Brazil,1.5,CLIO,1
 1698,Brazil,1.5,CLIO,1
 1699,Brazil,1.5,CLIO,1
@@ -515,7 +515,7 @@ year,country,production_tonnes,source,source_priority
 1703,Brazil,2.8,CLIO,1
 1704,Brazil,2.8,CLIO,1
 1705,Brazil,2.8,CLIO,1
-1706,Brazil,86540,TePaske,4
+1706,Brazil,86.54,TePaske,4
 1707,Brazil,2.8,CLIO,1
 1708,Brazil,2.8,CLIO,1
 1709,Brazil,2.8,CLIO,1
@@ -525,7 +525,7 @@ year,country,production_tonnes,source,source_priority
 1713,Brazil,2.8,CLIO,1
 1714,Brazil,2.8,CLIO,1
 1715,Brazil,2.8,CLIO,1
-1716,Brazil,93126,TePaske,4
+1716,Brazil,93.126,TePaske,4
 1717,Brazil,2.8,CLIO,1
 1718,Brazil,2.8,CLIO,1
 1719,Brazil,2.8,CLIO,1
@@ -535,7 +535,7 @@ year,country,production_tonnes,source,source_priority
 1723,Brazil,8.9,CLIO,1
 1724,Brazil,8.9,CLIO,1
 1725,Brazil,8.9,CLIO,1
-1726,Brazil,206630,TePaske,4
+1726,Brazil,206.63,TePaske,4
 1727,Brazil,8.9,CLIO,1
 1728,Brazil,8.9,CLIO,1
 1729,Brazil,8.9,CLIO,1
@@ -545,7 +545,7 @@ year,country,production_tonnes,source,source_priority
 1733,Brazil,8.9,CLIO,1
 1734,Brazil,8.9,CLIO,1
 1735,Brazil,8.9,CLIO,1
-1736,Brazil,275860,TePaske,4
+1736,Brazil,275.86,TePaske,4
 1737,Brazil,8.9,CLIO,1
 1738,Brazil,8.9,CLIO,1
 1739,Brazil,8.9,CLIO,1
@@ -555,7 +555,7 @@ year,country,production_tonnes,source,source_priority
 1743,Brazil,14.6,CLIO,1
 1744,Brazil,14.6,CLIO,1
 1745,Brazil,14.6,CLIO,1
-1746,Brazil,290860,TePaske,4
+1746,Brazil,290.86,TePaske,4
 1747,Brazil,14.6,CLIO,1
 1748,Brazil,14.6,CLIO,1
 1749,Brazil,14.6,CLIO,1
@@ -565,7 +565,7 @@ year,country,production_tonnes,source,source_priority
 1753,Brazil,14.6,CLIO,1
 1754,Brazil,14.6,CLIO,1
 1755,Brazil,14.6,CLIO,1
-1756,Brazil,223360,TePaske,4
+1756,Brazil,223.36,TePaske,4
 1757,Brazil,14.6,CLIO,1
 1758,Brazil,14.6,CLIO,1
 1759,Brazil,14.6,CLIO,1
@@ -575,7 +575,7 @@ year,country,production_tonnes,source,source_priority
 1763,Brazil,10.4,CLIO,1
 1764,Brazil,10.4,CLIO,1
 1765,Brazil,10.4,CLIO,1
-1766,Brazil,215860,TePaske,4
+1766,Brazil,215.86,TePaske,4
 1767,Brazil,10.4,CLIO,1
 1768,Brazil,10.4,CLIO,1
 1769,Brazil,10.4,CLIO,1
@@ -585,7 +585,7 @@ year,country,production_tonnes,source,source_priority
 1773,Brazil,10.4,CLIO,1
 1774,Brazil,10.4,CLIO,1
 1775,Brazil,10.4,CLIO,1
-1776,Brazil,215860,TePaske,4
+1776,Brazil,215.86,TePaske,4
 1777,Brazil,10.4,CLIO,1
 1778,Brazil,10.4,CLIO,1
 1779,Brazil,10.4,CLIO,1
@@ -595,7 +595,7 @@ year,country,production_tonnes,source,source_priority
 1783,Brazil,5.5,CLIO,1
 1784,Brazil,5.5,CLIO,1
 1785,Brazil,5.5,CLIO,1
-1786,Brazil,185860,TePaske,4
+1786,Brazil,185.86,TePaske,4
 1787,Brazil,5.5,CLIO,1
 1788,Brazil,5.5,CLIO,1
 1789,Brazil,5.5,CLIO,1
@@ -605,7 +605,7 @@ year,country,production_tonnes,source,source_priority
 1793,Brazil,5.5,CLIO,1
 1794,Brazil,5.5,CLIO,1
 1795,Brazil,5.5,CLIO,1
-1796,Brazil,140860,TePaske,4
+1796,Brazil,140.86,TePaske,4
 1797,Brazil,5.5,CLIO,1
 1798,Brazil,5.5,CLIO,1
 1799,Brazil,5.5,CLIO,1
@@ -615,7 +615,7 @@ year,country,production_tonnes,source,source_priority
 1803,Brazil,3.8,CLIO,1
 1804,Brazil,3.8,CLIO,1
 1805,Brazil,3.8,CLIO,1
-1806,Brazil,44758,TePaske,4
+1806,Brazil,44.758,TePaske,4
 1807,Brazil,3.8,CLIO,1
 1808,Brazil,3.8,CLIO,1
 1809,Brazil,3.8,CLIO,1
@@ -1150,28 +1150,28 @@ year,country,production_tonnes,source,source_priority
 1995,Central African Republic,0.1,CLIO,1
 1996,Central African Republic,0.1,CLIO,1
 1997,Central African Republic,0.1,CLIO,1
-1546,Chile,3102,TePaske,4
-1556,Chile,4653,TePaske,4
-1566,Chile,159,TePaske,4
-1576,Chile,4873,TePaske,4
-1586,Chile,1551,TePaske,4
-1596,Chile,776,TePaske,4
-1606,Chile,155,TePaske,4
-1616,Chile,71,TePaske,4
-1626,Chile,23,TePaske,4
-1636,Chile,19,TePaske,4
-1696,Chile,60,TePaske,4
-1706,Chile,15,TePaske,4
-1716,Chile,188,TePaske,4
-1726,Chile,254,TePaske,4
-1736,Chile,426,TePaske,4
-1746,Chile,709,TePaske,4
-1756,Chile,1108,TePaske,4
-1766,Chile,6673,TePaske,4
-1776,Chile,9134,TePaske,4
-1786,Chile,9243,TePaske,4
-1796,Chile,9137,TePaske,4
-1806,Chile,11560,TePaske,4
+1546,Chile,3.102,TePaske,4
+1556,Chile,4.653,TePaske,4
+1566,Chile,0.159,TePaske,4
+1576,Chile,4.873,TePaske,4
+1586,Chile,1.551,TePaske,4
+1596,Chile,0.776,TePaske,4
+1606,Chile,0.155,TePaske,4
+1616,Chile,0.071,TePaske,4
+1626,Chile,0.023,TePaske,4
+1636,Chile,0.019,TePaske,4
+1696,Chile,0.06,TePaske,4
+1706,Chile,0.015,TePaske,4
+1716,Chile,0.188,TePaske,4
+1726,Chile,0.254,TePaske,4
+1736,Chile,0.426,TePaske,4
+1746,Chile,0.709,TePaske,4
+1756,Chile,1.108,TePaske,4
+1766,Chile,6.673,TePaske,4
+1776,Chile,9.134,TePaske,4
+1786,Chile,9.243,TePaske,4
+1796,Chile,9.137,TePaske,4
+1806,Chile,11.56,TePaske,4
 1883,Chile,0.1,CLIO,1
 1884,Chile,0.1,CLIO,1
 1885,Chile,0.1,CLIO,1
@@ -1414,27 +1414,12 @@ year,country,production_tonnes,source,source_priority
 2010,China,350,CLIO,1
 2011,China,360.96,CLIO,1
 2012,China,403.05,CLIO,1
-1536,Colombia,2264,TePaske,4
-1546,Colombia,2089,TePaske,4
-1556,Colombia,5593,TePaske,4
-1566,Colombia,7604,TePaske,4
-1576,Colombia,7977,TePaske,4
-1586,Colombia,6728,TePaske,4
-1596,Colombia,12541,TePaske,4
-1606,Colombia,13934,TePaske,4
-1616,Colombia,11153,TePaske,4
-1626,Colombia,8951,TePaske,4
-1636,Colombia,3548,TePaske,4
-1646,Colombia,7885,TePaske,4
-1656,Colombia,7540,TePaske,4
-1666,Colombia,4105,TePaske,4
-1676,Colombia,4406,TePaske,4
 1681,Colombia,4,CLIO,1
 1682,Colombia,4,CLIO,1
 1683,Colombia,4,CLIO,1
 1684,Colombia,4,CLIO,1
 1685,Colombia,4,CLIO,1
-1686,Colombia,6437,TePaske,4
+1686,Colombia,4,CLIO,1
 1687,Colombia,4,CLIO,1
 1688,Colombia,4,CLIO,1
 1689,Colombia,4,CLIO,1
@@ -1444,7 +1429,7 @@ year,country,production_tonnes,source,source_priority
 1693,Colombia,4,CLIO,1
 1694,Colombia,4,CLIO,1
 1695,Colombia,4,CLIO,1
-1696,Colombia,4950,TePaske,4
+1696,Colombia,4,CLIO,1
 1697,Colombia,4,CLIO,1
 1698,Colombia,4,CLIO,1
 1699,Colombia,4,CLIO,1
@@ -1454,7 +1439,7 @@ year,country,production_tonnes,source,source_priority
 1703,Colombia,5,CLIO,1
 1704,Colombia,5,CLIO,1
 1705,Colombia,5,CLIO,1
-1706,Colombia,5140,TePaske,4
+1706,Colombia,5,CLIO,1
 1707,Colombia,5,CLIO,1
 1708,Colombia,5,CLIO,1
 1709,Colombia,5,CLIO,1
@@ -1464,7 +1449,7 @@ year,country,production_tonnes,source,source_priority
 1713,Colombia,5,CLIO,1
 1714,Colombia,5,CLIO,1
 1715,Colombia,5,CLIO,1
-1716,Colombia,7499,TePaske,4
+1716,Colombia,5,CLIO,1
 1717,Colombia,5,CLIO,1
 1718,Colombia,5,CLIO,1
 1719,Colombia,5,CLIO,1
@@ -1474,7 +1459,7 @@ year,country,production_tonnes,source,source_priority
 1723,Colombia,5,CLIO,1
 1724,Colombia,5,CLIO,1
 1725,Colombia,5,CLIO,1
-1726,Colombia,8570,TePaske,4
+1726,Colombia,5,CLIO,1
 1727,Colombia,5,CLIO,1
 1728,Colombia,5,CLIO,1
 1729,Colombia,5,CLIO,1
@@ -1484,7 +1469,7 @@ year,country,production_tonnes,source,source_priority
 1733,Colombia,5,CLIO,1
 1734,Colombia,5,CLIO,1
 1735,Colombia,5,CLIO,1
-1736,Colombia,10210,TePaske,4
+1736,Colombia,5,CLIO,1
 1737,Colombia,5,CLIO,1
 1738,Colombia,5,CLIO,1
 1739,Colombia,5,CLIO,1
@@ -1494,7 +1479,7 @@ year,country,production_tonnes,source,source_priority
 1743,Colombia,5,CLIO,1
 1744,Colombia,5,CLIO,1
 1745,Colombia,5,CLIO,1
-1746,Colombia,14793,TePaske,4
+1746,Colombia,5,CLIO,1
 1747,Colombia,5,CLIO,1
 1748,Colombia,5,CLIO,1
 1749,Colombia,5,CLIO,1
@@ -1504,7 +1489,7 @@ year,country,production_tonnes,source,source_priority
 1753,Colombia,5,CLIO,1
 1754,Colombia,5,CLIO,1
 1755,Colombia,5,CLIO,1
-1756,Colombia,17759,TePaske,4
+1756,Colombia,5,CLIO,1
 1757,Colombia,5,CLIO,1
 1758,Colombia,5,CLIO,1
 1759,Colombia,5,CLIO,1
@@ -1514,7 +1499,7 @@ year,country,production_tonnes,source,source_priority
 1763,Colombia,4,CLIO,1
 1764,Colombia,4,CLIO,1
 1765,Colombia,4,CLIO,1
-1766,Colombia,20501,TePaske,4
+1766,Colombia,4,CLIO,1
 1767,Colombia,4,CLIO,1
 1768,Colombia,4,CLIO,1
 1769,Colombia,4,CLIO,1
@@ -1524,7 +1509,7 @@ year,country,production_tonnes,source,source_priority
 1773,Colombia,4,CLIO,1
 1774,Colombia,4,CLIO,1
 1775,Colombia,4,CLIO,1
-1776,Colombia,22681,TePaske,4
+1776,Colombia,4,CLIO,1
 1777,Colombia,4,CLIO,1
 1778,Colombia,4,CLIO,1
 1779,Colombia,4,CLIO,1
@@ -1534,7 +1519,7 @@ year,country,production_tonnes,source,source_priority
 1783,Colombia,4.5,CLIO,1
 1784,Colombia,4.5,CLIO,1
 1785,Colombia,4.5,CLIO,1
-1786,Colombia,27869,TePaske,4
+1786,Colombia,4.5,CLIO,1
 1787,Colombia,4.5,CLIO,1
 1788,Colombia,4.5,CLIO,1
 1789,Colombia,4.5,CLIO,1
@@ -1544,7 +1529,7 @@ year,country,production_tonnes,source,source_priority
 1793,Colombia,4.5,CLIO,1
 1794,Colombia,4.5,CLIO,1
 1795,Colombia,4.5,CLIO,1
-1796,Colombia,33130,TePaske,4
+1796,Colombia,4.5,CLIO,1
 1797,Colombia,4.5,CLIO,1
 1798,Colombia,4.5,CLIO,1
 1799,Colombia,4.5,CLIO,1
@@ -1554,7 +1539,7 @@ year,country,production_tonnes,source,source_priority
 1803,Colombia,5,CLIO,1
 1804,Colombia,5,CLIO,1
 1805,Colombia,5,CLIO,1
-1806,Colombia,34535,TePaske,4
+1806,Colombia,5,CLIO,1
 1807,Colombia,5,CLIO,1
 1808,Colombia,5,CLIO,1
 1809,Colombia,5,CLIO,1
@@ -1970,10 +1955,10 @@ year,country,production_tonnes,source,source_priority
 2010,Cote d'Ivoire,5.316,CLIO,1
 2011,Cote d'Ivoire,10.685,CLIO,1
 2012,Cote d'Ivoire,9.831,CLIO,1
-1516,Cuba,1799,TePaske,4
-1526,Cuba,807,TePaske,4
-1536,Cuba,473,TePaske,4
-1546,Cuba,119,TePaske,4
+1516,Cuba,1.799,TePaske,4
+1526,Cuba,0.807,TePaske,4
+1536,Cuba,0.473,TePaske,4
+1546,Cuba,0.119,TePaske,4
 1939,Cuba,0.109174013458,CLIO,1
 1940,Cuba,0.0354652533981,CLIO,1
 1941,Cuba,0.0172081605217,CLIO,1
@@ -2009,13 +1994,6 @@ year,country,production_tonnes,source,source_priority
 2004,Cuba,0.5,CLIO,1
 1993,Czech Republic,0.512,CLIO,1
 1994,Czech Republic,0.075,CLIO,1
-1496,Dominican Republic,1086,TePaske,4
-1506,Dominican Republic,12020,TePaske,4
-1516,Dominican Republic,7135,TePaske,4
-1526,Dominican Republic,1152,TePaske,4
-1536,Dominican Republic,1087,TePaske,4
-1546,Dominican Republic,855,TePaske,4
-1553,Dominican Republic,53,TePaske,4
 1934,Dominican Republic,0.150592666707,CLIO,1
 1935,Dominican Republic,0.214123947974,CLIO,1
 1936,Dominican Republic,0.252339105113,CLIO,1
@@ -2070,34 +2048,34 @@ year,country,production_tonnes,source,source_priority
 2010,Dominican Republic,0.533,CLIO,1
 2011,Dominican Republic,0.495,CLIO,1
 2012,Dominican Republic,4.106,CLIO,1
-1536,Ecuador,257,TePaske,4
-1546,Ecuador,868,TePaske,4
-1556,Ecuador,2549,TePaske,4
-1566,Ecuador,3226,TePaske,4
-1576,Ecuador,6143,TePaske,4
-1586,Ecuador,6442,TePaske,4
-1596,Ecuador,3486,TePaske,4
-1606,Ecuador,2076,TePaske,4
-1616,Ecuador,927,TePaske,4
-1626,Ecuador,1985,TePaske,4
-1636,Ecuador,635,TePaske,4
-1646,Ecuador,131,TePaske,4
-1656,Ecuador,202,TePaske,4
-1666,Ecuador,233,TePaske,4
-1676,Ecuador,194,TePaske,4
-1686,Ecuador,194,TePaske,4
-1696,Ecuador,339,TePaske,4
-1706,Ecuador,291,TePaske,4
-1716,Ecuador,339,TePaske,4
-1726,Ecuador,144,TePaske,4
-1736,Ecuador,96,TePaske,4
-1746,Ecuador,48,TePaske,4
-1756,Ecuador,2012,TePaske,4
-1766,Ecuador,1676,TePaske,4
-1776,Ecuador,1789,TePaske,4
-1786,Ecuador,4049,TePaske,4
-1796,Ecuador,4846,TePaske,4
-1806,Ecuador,914,TePaske,4
+1536,Ecuador,0.257,TePaske,4
+1546,Ecuador,0.868,TePaske,4
+1556,Ecuador,2.549,TePaske,4
+1566,Ecuador,3.226,TePaske,4
+1576,Ecuador,6.143,TePaske,4
+1586,Ecuador,6.442,TePaske,4
+1596,Ecuador,3.486,TePaske,4
+1606,Ecuador,2.076,TePaske,4
+1616,Ecuador,0.927,TePaske,4
+1626,Ecuador,1.985,TePaske,4
+1636,Ecuador,0.635,TePaske,4
+1646,Ecuador,0.131,TePaske,4
+1656,Ecuador,0.202,TePaske,4
+1666,Ecuador,0.233,TePaske,4
+1676,Ecuador,0.194,TePaske,4
+1686,Ecuador,0.194,TePaske,4
+1696,Ecuador,0.339,TePaske,4
+1706,Ecuador,0.291,TePaske,4
+1716,Ecuador,0.339,TePaske,4
+1726,Ecuador,0.144,TePaske,4
+1736,Ecuador,0.096,TePaske,4
+1746,Ecuador,0.048,TePaske,4
+1756,Ecuador,2.012,TePaske,4
+1766,Ecuador,1.676,TePaske,4
+1776,Ecuador,1.789,TePaske,4
+1786,Ecuador,4.049,TePaske,4
+1796,Ecuador,4.846,TePaske,4
+1806,Ecuador,0.914,TePaske,4
 1913,Ecuador,0.6,CLIO,1
 1914,Ecuador,0.5,CLIO,1
 1915,Ecuador,0.8,CLIO,1
@@ -3128,6 +3106,13 @@ year,country,production_tonnes,source,source_priority
 1969,Haiti,0.0850485693,CLIO,1
 1970,Haiti,0.09,CLIO,1
 1971,Haiti,0.09,CLIO,1
+1496,Hispaniola,1.086,TePaske,4
+1506,Hispaniola,12.02,TePaske,4
+1516,Hispaniola,7.135,TePaske,4
+1526,Hispaniola,1.152,TePaske,4
+1536,Hispaniola,1.087,TePaske,4
+1546,Hispaniola,0.855,TePaske,4
+1553,Hispaniola,0.053,TePaske,4
 1930,Honduras,0.382661862804,CLIO,1
 1931,Honduras,0.448914698289,CLIO,1
 1932,Honduras,0.381981474249,CLIO,1
@@ -4210,28 +4195,28 @@ year,country,production_tonnes,source,source_priority
 2010,Mauritania,8.326,CLIO,1
 2011,Mauritania,8.211,CLIO,1
 2012,Mauritania,7.647,CLIO,1
-1526,Mexico,2358,TePaske,4
-1536,Mexico,3769,TePaske,4
-1546,Mexico,1256,TePaske,4
-1556,Mexico,124,TePaske,4
-1566,Mexico,124,TePaske,4
-1576,Mexico,78,TePaske,4
-1586,Mexico,82,TePaske,4
-1596,Mexico,1483,TePaske,4
-1606,Mexico,3535,TePaske,4
-1616,Mexico,4010,TePaske,4
-1626,Mexico,4428,TePaske,4
-1636,Mexico,3924,TePaske,4
-1646,Mexico,2427,TePaske,4
-1656,Mexico,2687,TePaske,4
-1666,Mexico,2943,TePaske,4
-1676,Mexico,2372,TePaske,4
+1526,Mexico,2.358,TePaske,4
+1536,Mexico,3.769,TePaske,4
+1546,Mexico,1.256,TePaske,4
+1556,Mexico,0.124,TePaske,4
+1566,Mexico,0.124,TePaske,4
+1576,Mexico,0.078,TePaske,4
+1586,Mexico,0.082,TePaske,4
+1596,Mexico,1.483,TePaske,4
+1606,Mexico,3.535,TePaske,4
+1616,Mexico,4.01,TePaske,4
+1626,Mexico,4.428,TePaske,4
+1636,Mexico,3.924,TePaske,4
+1646,Mexico,2.427,TePaske,4
+1656,Mexico,2.687,TePaske,4
+1666,Mexico,2.943,TePaske,4
+1676,Mexico,2.372,TePaske,4
 1681,Mexico,0.4,CLIO,1
 1682,Mexico,0.4,CLIO,1
 1683,Mexico,0.4,CLIO,1
 1684,Mexico,0.4,CLIO,1
 1685,Mexico,0.4,CLIO,1
-1686,Mexico,2186,TePaske,4
+1686,Mexico,2.186,TePaske,4
 1687,Mexico,0.4,CLIO,1
 1688,Mexico,0.4,CLIO,1
 1689,Mexico,0.4,CLIO,1
@@ -4241,7 +4226,7 @@ year,country,production_tonnes,source,source_priority
 1693,Mexico,0.4,CLIO,1
 1694,Mexico,0.4,CLIO,1
 1695,Mexico,0.4,CLIO,1
-1696,Mexico,2740,TePaske,4
+1696,Mexico,2.74,TePaske,4
 1697,Mexico,0.4,CLIO,1
 1698,Mexico,0.4,CLIO,1
 1699,Mexico,0.4,CLIO,1
@@ -4251,7 +4236,7 @@ year,country,production_tonnes,source,source_priority
 1703,Mexico,0.5,CLIO,1
 1704,Mexico,0.5,CLIO,1
 1705,Mexico,0.5,CLIO,1
-1706,Mexico,2212,TePaske,4
+1706,Mexico,2.212,TePaske,4
 1707,Mexico,0.5,CLIO,1
 1708,Mexico,0.5,CLIO,1
 1709,Mexico,0.5,CLIO,1
@@ -4261,7 +4246,7 @@ year,country,production_tonnes,source,source_priority
 1713,Mexico,0.5,CLIO,1
 1714,Mexico,0.5,CLIO,1
 1715,Mexico,0.5,CLIO,1
-1716,Mexico,2498,TePaske,4
+1716,Mexico,2.498,TePaske,4
 1717,Mexico,0.5,CLIO,1
 1718,Mexico,0.5,CLIO,1
 1719,Mexico,0.5,CLIO,1
@@ -4271,7 +4256,7 @@ year,country,production_tonnes,source,source_priority
 1723,Mexico,0.7,CLIO,1
 1724,Mexico,0.7,CLIO,1
 1725,Mexico,0.7,CLIO,1
-1726,Mexico,2555,TePaske,4
+1726,Mexico,2.555,TePaske,4
 1727,Mexico,0.7,CLIO,1
 1728,Mexico,0.7,CLIO,1
 1729,Mexico,0.7,CLIO,1
@@ -4281,7 +4266,7 @@ year,country,production_tonnes,source,source_priority
 1733,Mexico,0.7,CLIO,1
 1734,Mexico,0.7,CLIO,1
 1735,Mexico,0.7,CLIO,1
-1736,Mexico,4816,TePaske,4
+1736,Mexico,4.816,TePaske,4
 1737,Mexico,0.7,CLIO,1
 1738,Mexico,0.7,CLIO,1
 1739,Mexico,0.7,CLIO,1
@@ -4291,7 +4276,7 @@ year,country,production_tonnes,source,source_priority
 1743,Mexico,0.8,CLIO,1
 1744,Mexico,0.8,CLIO,1
 1745,Mexico,0.8,CLIO,1
-1746,Mexico,7411,TePaske,4
+1746,Mexico,7.411,TePaske,4
 1747,Mexico,0.8,CLIO,1
 1748,Mexico,0.8,CLIO,1
 1749,Mexico,0.8,CLIO,1
@@ -4301,7 +4286,7 @@ year,country,production_tonnes,source,source_priority
 1753,Mexico,0.8,CLIO,1
 1754,Mexico,0.8,CLIO,1
 1755,Mexico,0.8,CLIO,1
-1756,Mexico,7493,TePaske,4
+1756,Mexico,7.493,TePaske,4
 1757,Mexico,0.8,CLIO,1
 1758,Mexico,0.8,CLIO,1
 1759,Mexico,0.8,CLIO,1
@@ -4311,7 +4296,7 @@ year,country,production_tonnes,source,source_priority
 1763,Mexico,1.3,CLIO,1
 1764,Mexico,1.3,CLIO,1
 1765,Mexico,1.3,CLIO,1
-1766,Mexico,9897,TePaske,4
+1766,Mexico,9.897,TePaske,4
 1767,Mexico,1.3,CLIO,1
 1768,Mexico,1.3,CLIO,1
 1769,Mexico,1.3,CLIO,1
@@ -4321,7 +4306,7 @@ year,country,production_tonnes,source,source_priority
 1773,Mexico,1.3,CLIO,1
 1774,Mexico,1.3,CLIO,1
 1775,Mexico,1.3,CLIO,1
-1776,Mexico,12220,TePaske,4
+1776,Mexico,12.22,TePaske,4
 1777,Mexico,1.3,CLIO,1
 1778,Mexico,1.3,CLIO,1
 1779,Mexico,1.3,CLIO,1
@@ -4331,7 +4316,7 @@ year,country,production_tonnes,source,source_priority
 1783,Mexico,1.2,CLIO,1
 1784,Mexico,1.2,CLIO,1
 1785,Mexico,1.2,CLIO,1
-1786,Mexico,8738,TePaske,4
+1786,Mexico,8.738,TePaske,4
 1787,Mexico,1.2,CLIO,1
 1788,Mexico,1.2,CLIO,1
 1789,Mexico,1.2,CLIO,1
@@ -4341,7 +4326,7 @@ year,country,production_tonnes,source,source_priority
 1793,Mexico,1.2,CLIO,1
 1794,Mexico,1.2,CLIO,1
 1795,Mexico,1.2,CLIO,1
-1796,Mexico,15422,TePaske,4
+1796,Mexico,15.422,TePaske,4
 1797,Mexico,1.2,CLIO,1
 1798,Mexico,1.2,CLIO,1
 1799,Mexico,1.2,CLIO,1
@@ -4351,7 +4336,7 @@ year,country,production_tonnes,source,source_priority
 1803,Mexico,1.8,CLIO,1
 1804,Mexico,1.8,CLIO,1
 1805,Mexico,1.8,CLIO,1
-1806,Mexico,23843,TePaske,4
+1806,Mexico,23.843,TePaske,4
 1807,Mexico,1.8,CLIO,1
 1808,Mexico,1.8,CLIO,1
 1809,Mexico,1.8,CLIO,1
@@ -4804,6 +4789,34 @@ year,country,production_tonnes,source,source_priority
 2010,Namibia,1.929,CLIO,1
 2011,Namibia,1.453,CLIO,1
 2012,Namibia,1.549,CLIO,1
+1536,New Granada,2.264,TePaske,4
+1546,New Granada,2.089,TePaske,4
+1556,New Granada,5.593,TePaske,4
+1566,New Granada,7.604,TePaske,4
+1576,New Granada,7.977,TePaske,4
+1586,New Granada,6.728,TePaske,4
+1596,New Granada,12.541,TePaske,4
+1606,New Granada,13.934,TePaske,4
+1616,New Granada,11.153,TePaske,4
+1626,New Granada,8.951,TePaske,4
+1636,New Granada,3.548,TePaske,4
+1646,New Granada,7.885,TePaske,4
+1656,New Granada,7.54,TePaske,4
+1666,New Granada,4.105,TePaske,4
+1676,New Granada,4.406,TePaske,4
+1686,New Granada,6.437,TePaske,4
+1696,New Granada,4.95,TePaske,4
+1706,New Granada,5.14,TePaske,4
+1716,New Granada,7.499,TePaske,4
+1726,New Granada,8.57,TePaske,4
+1736,New Granada,10.21,TePaske,4
+1746,New Granada,14.793,TePaske,4
+1756,New Granada,17.759,TePaske,4
+1766,New Granada,20.501,TePaske,4
+1776,New Granada,22.681,TePaske,4
+1786,New Granada,27.869,TePaske,4
+1796,New Granada,33.13,TePaske,4
+1806,New Granada,34.535,TePaske,4
 1857,New Zealand,0.3,CLIO,1
 1858,New Zealand,0.4,CLIO,1
 1859,New Zealand,0.2,CLIO,1
@@ -5305,36 +5318,36 @@ year,country,production_tonnes,source,source_priority
 2010,Papua New Guinea,66.901,CLIO,1
 2011,Papua New Guinea,62.271,CLIO,1
 2012,Papua New Guinea,55.839,CLIO,1
-1536,Peru,8541,TePaske,4
-1546,Peru,4827,TePaske,4
-1556,Peru,3533,TePaske,4
-1566,Peru,1183,TePaske,4
-1576,Peru,1104,TePaske,4
-1586,Peru,1002,TePaske,4
-1596,Peru,161,TePaske,4
-1606,Peru,80,TePaske,4
-1616,Peru,1,TePaske,4
-1656,Peru,2,TePaske,4
-1666,Peru,70,TePaske,4
-1676,Peru,80,TePaske,4
-1686,Peru,267,TePaske,4
-1696,Peru,550,TePaske,4
-1706,Peru,620,TePaske,4
-1716,Peru,404,TePaske,4
-1726,Peru,332,TePaske,4
-1736,Peru,286,TePaske,4
-1746,Peru,257,TePaske,4
-1756,Peru,191,TePaske,4
-1766,Peru,1299,TePaske,4
-1776,Peru,5844,TePaske,4
-1786,Peru,11758,TePaske,4
-1796,Peru,15725,TePaske,4
+1536,Peru,8.541,TePaske,4
+1546,Peru,4.827,TePaske,4
+1556,Peru,3.533,TePaske,4
+1566,Peru,1.183,TePaske,4
+1576,Peru,1.104,TePaske,4
+1586,Peru,1.002,TePaske,4
+1596,Peru,0.161,TePaske,4
+1606,Peru,0.08,TePaske,4
+1616,Peru,0.001,TePaske,4
+1656,Peru,0.002,TePaske,4
+1666,Peru,0.07,TePaske,4
+1676,Peru,0.08,TePaske,4
+1686,Peru,0.267,TePaske,4
+1696,Peru,0.55,TePaske,4
+1706,Peru,0.62,TePaske,4
+1716,Peru,0.404,TePaske,4
+1726,Peru,0.332,TePaske,4
+1736,Peru,0.286,TePaske,4
+1746,Peru,0.257,TePaske,4
+1756,Peru,0.191,TePaske,4
+1766,Peru,1.299,TePaske,4
+1776,Peru,5.844,TePaske,4
+1786,Peru,11.758,TePaske,4
+1796,Peru,15.725,TePaske,4
 1801,Peru,0.1,CLIO,1
 1802,Peru,0.1,CLIO,1
 1803,Peru,0.1,CLIO,1
 1804,Peru,0.1,CLIO,1
 1805,Peru,0.1,CLIO,1
-1806,Peru,11747,TePaske,4
+1806,Peru,11.747,TePaske,4
 1807,Peru,0.1,CLIO,1
 1808,Peru,0.1,CLIO,1
 1809,Peru,0.1,CLIO,1
@@ -5683,11 +5696,11 @@ year,country,production_tonnes,source,source_priority
 1992,Portugal,0.149,CLIO,1
 1993,Portugal,0.15,CLIO,1
 1994,Portugal,0.4,CLIO,1
-1506,Puerto Rico,118,TePaske,4
-1516,Puerto Rico,1777,TePaske,4
-1526,Puerto Rico,1450,TePaske,4
-1536,Puerto Rico,689,TePaske,4
-1546,Puerto Rico,341,TePaske,4
+1506,Puerto Rico,0.118,TePaske,4
+1516,Puerto Rico,1.777,TePaske,4
+1526,Puerto Rico,1.45,TePaske,4
+1536,Puerto Rico,0.689,TePaske,4
+1546,Puerto Rico,0.341,TePaske,4
 1920,Romania,0.7,CLIO,1
 1921,Romania,1.1,CLIO,1
 1922,Romania,1.3,CLIO,1
@@ -7027,6 +7040,11 @@ year,country,production_tonnes,source,source_priority
 2010,Thailand,4.1,CLIO,1
 2011,Thailand,5.568,CLIO,1
 2012,Thailand,9.245,CLIO,1
+1506,Tierra Firme,0.62,TePaske,4
+1516,Tierra Firme,0.465,TePaske,4
+1526,Tierra Firme,0.31,TePaske,4
+1536,Tierra Firme,0.155,TePaske,4
+1546,Tierra Firme,0.078,TePaske,4
 1913,Turkey,6.803885544e-4,CLIO,1
 1914,Turkey,6.520390313e-4,CLIO,1
 1915,Turkey,6.520390313e-4,CLIO,1
@@ -7436,11 +7454,6 @@ year,country,production_tonnes,source,source_priority
 2010,Uzbekistan,73,CLIO,1
 2011,Uzbekistan,73,CLIO,1
 2012,Uzbekistan,73,CLIO,1
-1506,Venezuela,620,TePaske,4
-1516,Venezuela,465,TePaske,4
-1526,Venezuela,310,TePaske,4
-1536,Venezuela,155,TePaske,4
-1546,Venezuela,78,TePaske,4
 1910,Venezuela,0.6,CLIO,1
 1911,Venezuela,1.3,CLIO,1
 1912,Venezuela,0.9,CLIO,1

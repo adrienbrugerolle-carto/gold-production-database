@@ -1,0 +1,509 @@
+year,country,production_tonnes,source
+1696,minas_gerais,4327,TePaske_Brazil
+1706,minas_gerais,43270,TePaske_Brazil
+1716,minas_gerais,43270,TePaske_Brazil
+1716,mato_grosso-goais,2378,TePaske_Brazil
+1716,sao_paulo-bahia-ceara,915,TePaske_Brazil
+1726,minas_gerais,70385,TePaske_Brazil
+1726,mato_grosso-goais,23780,TePaske_Brazil
+1726,sao_paulo-bahia-ceara,9150,TePaske_Brazil
+1736,minas_gerais,105000,TePaske_Brazil
+1736,mato_grosso-goais,23780,TePaske_Brazil
+1736,sao_paulo-bahia-ceara,9150,TePaske_Brazil
+1746,minas_gerais,112500,TePaske_Brazil
+1746,mato_grosso-goais,23780,TePaske_Brazil
+1746,sao_paulo-bahia-ceara,9150,TePaske_Brazil
+1756,minas_gerais,78750,TePaske_Brazil
+1756,mato_grosso-goais,23780,TePaske_Brazil
+1756,sao_paulo-bahia-ceara,9150,TePaske_Brazil
+1766,minas_gerais,75000,TePaske_Brazil
+1766,mato_grosso-goais,23780,TePaske_Brazil
+1766,sao_paulo-bahia-ceara,9150,TePaske_Brazil
+1776,minas_gerais,75000,TePaske_Brazil
+1776,mato_grosso-goais,23780,TePaske_Brazil
+1776,sao_paulo-bahia-ceara,9150,TePaske_Brazil
+1786,minas_gerais,60000,TePaske_Brazil
+1786,mato_grosso-goais,23780,TePaske_Brazil
+1786,sao_paulo-bahia-ceara,9150,TePaske_Brazil
+1796,minas_gerais,37500,TePaske_Brazil
+1796,mato_grosso-goais,23780,TePaske_Brazil
+1796,sao_paulo-bahia-ceara,9150,TePaske_Brazil
+1806,minas_gerais,3750,TePaske_Brazil
+1806,mato_grosso-goais,2378,TePaske_Brazil
+1806,sao_paulo-bahia-ceara,915,TePaske_Brazil
+1496,espanola,1086,TePaske_Caribbean
+1506,espanola,12020,TePaske_Caribbean
+1506,puerto rico,118,TePaske_Caribbean
+1506,tierra firme,620,TePaske_Caribbean
+1516,espanola,7135,TePaske_Caribbean
+1516,puerto rico,1777,TePaske_Caribbean
+1516,cuba,1799,TePaske_Caribbean
+1516,tierra firme,465,TePaske_Caribbean
+1526,espanola,1152,TePaske_Caribbean
+1526,puerto rico,1450,TePaske_Caribbean
+1526,cuba,807,TePaske_Caribbean
+1526,tierra firme,310,TePaske_Caribbean
+1536,espanola,1087,TePaske_Caribbean
+1536,puerto rico,689,TePaske_Caribbean
+1536,cuba,473,TePaske_Caribbean
+1536,tierra firme,155,TePaske_Caribbean
+1546,espanola,855,TePaske_Caribbean
+1546,puerto rico,341,TePaske_Caribbean
+1546,cuba,119,TePaske_Caribbean
+1546,tierra firme,78,TePaske_Caribbean
+1553,espanola,53,TePaske_Caribbean
+1496,carribean,1086,TePaske_LatinAmerica
+1506,carribean,2718,TePaske_LatinAmerica
+1516,carribean,1177,TePaske_LatinAmerica
+1526,carribean,3719,TePaske_LatinAmerica
+1526,mexico,2358,TePaske_LatinAmerica
+1536,carribean,2404,TePaske_LatinAmerica
+1536,mexico,3769,TePaske_LatinAmerica
+1536,peru,8541,TePaske_LatinAmerica
+1536,new granada,2264,TePaske_LatinAmerica
+1536,ecuador,257,TePaske_LatinAmerica
+1546,carribean,1393,TePaske_LatinAmerica
+1546,mexico,1256,TePaske_LatinAmerica
+1546,peru,4827,TePaske_LatinAmerica
+1546,new granada,2089,TePaske_LatinAmerica
+1546,ecuador,868,TePaske_LatinAmerica
+1546,chile,3102,TePaske_LatinAmerica
+1556,carribean,53,TePaske_LatinAmerica
+1556,mexico,124,TePaske_LatinAmerica
+1556,peru,3533,TePaske_LatinAmerica
+1556,new granada,5593,TePaske_LatinAmerica
+1556,ecuador,2549,TePaske_LatinAmerica
+1556,chile,4653,TePaske_LatinAmerica
+1566,mexico,124,TePaske_LatinAmerica
+1566,peru,1183,TePaske_LatinAmerica
+1566,new granada,7604,TePaske_LatinAmerica
+1566,ecuador,3226,TePaske_LatinAmerica
+1566,chile,1590,TePaske_LatinAmerica
+1576,mexico,78,TePaske_LatinAmerica
+1576,peru,1104,TePaske_LatinAmerica
+1576,new granada,7977,TePaske_LatinAmerica
+1576,ecuador,6143,TePaske_LatinAmerica
+1576,chile,4873,TePaske_LatinAmerica
+1586,mexico,82,TePaske_LatinAmerica
+1586,peru,1002,TePaske_LatinAmerica
+1586,new granada,6728,TePaske_LatinAmerica
+1586,ecuador,6442,TePaske_LatinAmerica
+1586,chile,1551,TePaske_LatinAmerica
+1596,mexico,1483,TePaske_LatinAmerica
+1596,peru,161,TePaske_LatinAmerica
+1596,new granada,125411,TePaske_LatinAmerica
+1596,ecuador,3486,TePaske_LatinAmerica
+1596,chile,776,TePaske_LatinAmerica
+1606,mexico,3535,TePaske_LatinAmerica
+1606,peru,80,TePaske_LatinAmerica
+1606,new granada,139341,TePaske_LatinAmerica
+1606,ecuador,2076,TePaske_LatinAmerica
+1606,chile,155,TePaske_LatinAmerica
+1616,mexico,4010,TePaske_LatinAmerica
+1616,peru,1,TePaske_LatinAmerica
+1616,new granada,111531,TePaske_LatinAmerica
+1616,ecuador,927,TePaske_LatinAmerica
+1616,chile,71,TePaske_LatinAmerica
+1626,mexico,4428,TePaske_LatinAmerica
+1626,new granada,8951,TePaske_LatinAmerica
+1626,ecuador,1985,TePaske_LatinAmerica
+1626,chile,23,TePaske_LatinAmerica
+1636,mexico,3924,TePaske_LatinAmerica
+1636,new granada,3548,TePaske_LatinAmerica
+1636,ecuador,635,TePaske_LatinAmerica
+1636,chile,19,TePaske_LatinAmerica
+1646,mexico,2427,TePaske_LatinAmerica
+1646,new granada,7885,TePaske_LatinAmerica
+1646,ecuador,131,TePaske_LatinAmerica
+1656,mexico,2687,TePaske_LatinAmerica
+1656,peru,2,TePaske_LatinAmerica
+1656,new granada,7540,TePaske_LatinAmerica
+1656,ecuador,202,TePaske_LatinAmerica
+1666,mexico,2943,TePaske_LatinAmerica
+1666,peru,70,TePaske_LatinAmerica
+1666,new granada,4105,TePaske_LatinAmerica
+1666,ecuador,233,TePaske_LatinAmerica
+1676,mexico,2372,TePaske_LatinAmerica
+1676,peru,80,TePaske_LatinAmerica
+1676,new granada,4406,TePaske_LatinAmerica
+1676,ecuador,194,TePaske_LatinAmerica
+1686,mexico,2186,TePaske_LatinAmerica
+1686,peru,267,TePaske_LatinAmerica
+1686,new granada,6437,TePaske_LatinAmerica
+1686,ecuador,194,TePaske_LatinAmerica
+1696,mexico,2740,TePaske_LatinAmerica
+1696,peru,550,TePaske_LatinAmerica
+1696,new granada,4950,TePaske_LatinAmerica
+1696,ecuador,339,TePaske_LatinAmerica
+1696,chile,60,TePaske_LatinAmerica
+1696,brazil,4327,TePaske_LatinAmerica
+1706,mexico,2212,TePaske_LatinAmerica
+1706,peru,620,TePaske_LatinAmerica
+1706,new granada,5140,TePaske_LatinAmerica
+1706,ecuador,291,TePaske_LatinAmerica
+1706,chile,15,TePaske_LatinAmerica
+1706,brazil,43270,TePaske_LatinAmerica
+1716,mexico,2498,TePaske_LatinAmerica
+1716,peru,404,TePaske_LatinAmerica
+1716,new granada,7499,TePaske_LatinAmerica
+1716,ecuador,339,TePaske_LatinAmerica
+1716,chile,188,TePaske_LatinAmerica
+1716,brazil,46563,TePaske_LatinAmerica
+1726,mexico,2555,TePaske_LatinAmerica
+1726,peru,332,TePaske_LatinAmerica
+1726,new granada,8570,TePaske_LatinAmerica
+1726,ecuador,144,TePaske_LatinAmerica
+1726,chile,254,TePaske_LatinAmerica
+1726,brazil,103315,TePaske_LatinAmerica
+1736,mexico,4816,TePaske_LatinAmerica
+1736,peru,286,TePaske_LatinAmerica
+1736,new granada,102101,TePaske_LatinAmerica
+1736,ecuador,96,TePaske_LatinAmerica
+1736,chile,426,TePaske_LatinAmerica
+1736,brazil,137930,TePaske_LatinAmerica
+1746,mexico,7411,TePaske_LatinAmerica
+1746,peru,257,TePaske_LatinAmerica
+1746,new granada,147931,TePaske_LatinAmerica
+1746,ecuador,48,TePaske_LatinAmerica
+1746,chile,709,TePaske_LatinAmerica
+1746,brazil,145430,TePaske_LatinAmerica
+1756,mexico,7493,TePaske_LatinAmerica
+1756,peru,191,TePaske_LatinAmerica
+1756,new granada,177591,TePaske_LatinAmerica
+1756,ecuador,2012,TePaske_LatinAmerica
+1756,chile,1108,TePaske_LatinAmerica
+1756,brazil,111680,TePaske_LatinAmerica
+1766,mexico,9897,TePaske_LatinAmerica
+1766,peru,1299,TePaske_LatinAmerica
+1766,new granada,205012,TePaske_LatinAmerica
+1766,ecuador,1676,TePaske_LatinAmerica
+1766,chile,6673,TePaske_LatinAmerica
+1766,brazil,107930,TePaske_LatinAmerica
+1776,mexico,12220,TePaske_LatinAmerica
+1776,peru,5844,TePaske_LatinAmerica
+1776,new granada,226812,TePaske_LatinAmerica
+1776,ecuador,1789,TePaske_LatinAmerica
+1776,chile,9134,TePaske_LatinAmerica
+1776,brazil,107930,TePaske_LatinAmerica
+1776,other,128,TePaske_LatinAmerica
+1786,mexico,8738,TePaske_LatinAmerica
+1786,peru,11758,TePaske_LatinAmerica
+1786,new granada,278692,TePaske_LatinAmerica
+1786,ecuador,4049,TePaske_LatinAmerica
+1786,chile,9243,TePaske_LatinAmerica
+1786,brazil,92930,TePaske_LatinAmerica
+1786,other,592,TePaske_LatinAmerica
+1796,mexico,15422,TePaske_LatinAmerica
+1796,peru,15725,TePaske_LatinAmerica
+1796,new granada,331303,TePaske_LatinAmerica
+1796,ecuador,4846,TePaske_LatinAmerica
+1796,chile,9137,TePaske_LatinAmerica
+1796,brazil,70430,TePaske_LatinAmerica
+1796,other,802,TePaske_LatinAmerica
+1806,mexico,23843,TePaske_LatinAmerica
+1806,peru,11747,TePaske_LatinAmerica
+1806,new granada,345353,TePaske_LatinAmerica
+1806,ecuador,914,TePaske_LatinAmerica
+1806,chile,11560,TePaske_LatinAmerica
+1806,brazil,37715,TePaske_LatinAmerica
+1806,other,2590,TePaske_LatinAmerica
+1526,caja_mexico,2358,TePaske_Mexico
+1536,caja_mexico,3769,TePaske_Mexico
+1546,caja_mexico,1256,TePaske_Mexico
+1556,caja_mexico,124,TePaske_Mexico
+1566,caja_mexico,124,TePaske_Mexico
+1576,caja_mexico,78,TePaske_Mexico
+1586,caja_mexico,82,TePaske_Mexico
+1596,caja_mexico,1483,TePaske_Mexico
+1606,caja_mexico,3526,TePaske_Mexico
+1606,caja_durango,6,TePaske_Mexico
+1606,caja_zacatecas,3,TePaske_Mexico
+1616,caja_mexico,4010,TePaske_Mexico
+1626,caja_mexico,3260,TePaske_Mexico
+1626,caja_san luis potosi,1168,TePaske_Mexico
+1636,caja_mexico,143,TePaske_Mexico
+1636,caja_san luis potosi,3781,TePaske_Mexico
+1646,caja_mexico,65,TePaske_Mexico
+1646,caja_san luis potosi,2358,TePaske_Mexico
+1646,caja_guadaljara,4,TePaske_Mexico
+1656,caja_mexico,724,TePaske_Mexico
+1656,caja_durango,11,TePaske_Mexico
+1656,caja_san luis potosi,1936,TePaske_Mexico
+1656,caja_guadaljara,16,TePaske_Mexico
+1666,caja_mexico,517,TePaske_Mexico
+1666,caja_san luis potosi,2215,TePaske_Mexico
+1666,caja_guadaljara,98,TePaske_Mexico
+1666,caja_guanajuato,113,TePaske_Mexico
+1676,caja_mexico,49,TePaske_Mexico
+1676,caja_zacatecas,2,TePaske_Mexico
+1676,caja_san luis potosi,1532,TePaske_Mexico
+1676,caja_guadaljara,503,TePaske_Mexico
+1676,caja_guanajuato,286,TePaske_Mexico
+1686,caja_mexico,38,TePaske_Mexico
+1686,caja_san luis potosi,1494,TePaske_Mexico
+1686,caja_guadaljara,422,TePaske_Mexico
+1686,caja_guanajuato,232,TePaske_Mexico
+1696,caja_mexico,274,TePaske_Mexico
+1696,caja_san luis potosi,1736,TePaske_Mexico
+1696,caja_guadaljara,273,TePaske_Mexico
+1696,caja_guanajuato,457,TePaske_Mexico
+1706,caja_mexico,307,TePaske_Mexico
+1706,caja_san luis potosi,1677,TePaske_Mexico
+1706,caja_guadaljara,66,TePaske_Mexico
+1706,caja_guanajuato,162,TePaske_Mexico
+1716,caja_mexico,317,TePaske_Mexico
+1716,caja_san luis potosi,1955,TePaske_Mexico
+1716,caja_guadaljara,58,TePaske_Mexico
+1716,caja_guanajuato,168,TePaske_Mexico
+1726,caja_mexico,306,TePaske_Mexico
+1726,caja_san luis potosi,1736,TePaske_Mexico
+1726,caja_guadaljara,224,TePaske_Mexico
+1726,caja_guanajuato,284,TePaske_Mexico
+1726,caja_zimapan,5,TePaske_Mexico
+1736,caja_mexico,687,TePaske_Mexico
+1736,caja_zacatecas,5,TePaske_Mexico
+1736,caja_san luis potosi,1561,TePaske_Mexico
+1736,caja_guadaljara,370,TePaske_Mexico
+1736,caja_guanajuato,2182,TePaske_Mexico
+1736,caja_zimapan,6,TePaske_Mexico
+1736,caja_pachuca,5,TePaske_Mexico
+1746,caja_mexico,1001,TePaske_Mexico
+1746,caja_durango,584,TePaske_Mexico
+1746,caja_zacatecas,7,TePaske_Mexico
+1746,caja_san luis potosi,1243,TePaske_Mexico
+1746,caja_guadaljara,404,TePaske_Mexico
+1746,caja_guanajuato,3911,TePaske_Mexico
+1746,caja_zimapan,209,TePaske_Mexico
+1746,caja_pachuca,52,TePaske_Mexico
+1756,caja_mexico,910,TePaske_Mexico
+1756,caja_durango,2859,TePaske_Mexico
+1756,caja_zacatecas,18,TePaske_Mexico
+1756,caja_san luis potosi,904,TePaske_Mexico
+1756,caja_guadaljara,605,TePaske_Mexico
+1756,caja_guanajuato,1136,TePaske_Mexico
+1756,caja_zimapan,1024,TePaske_Mexico
+1756,caja_pachuca,37,TePaske_Mexico
+1766,caja_mexico,1312,TePaske_Mexico
+1766,caja_durango,3529,TePaske_Mexico
+1766,caja_zacatecas,73,TePaske_Mexico
+1766,caja_san luis potosi,1117,TePaske_Mexico
+1766,caja_guadaljara,1675,TePaske_Mexico
+1766,caja_guanajuato,1695,TePaske_Mexico
+1766,caja_zimapan,294,TePaske_Mexico
+1766,caja_pachuca,22,TePaske_Mexico
+1766,caja_rosario,180,TePaske_Mexico
+1776,caja_mexico,1649,TePaske_Mexico
+1776,caja_durango,1000,TePaske_Mexico
+1776,caja_zacatecas,106,TePaske_Mexico
+1776,caja_san luis potosi,1468,TePaske_Mexico
+1776,caja_guadaljara,537,TePaske_Mexico
+1776,caja_guanajuato,2461,TePaske_Mexico
+1776,caja_zimapan,239,TePaske_Mexico
+1776,caja_pachuca,21,TePaske_Mexico
+1776,caja_rosario,4739,TePaske_Mexico
+1786,caja_mexico,798,TePaske_Mexico
+1786,caja_durango,1289,TePaske_Mexico
+1786,caja_zacatecas,171,TePaske_Mexico
+1786,caja_san luis potosi,650,TePaske_Mexico
+1786,caja_guadaljara,634,TePaske_Mexico
+1786,caja_guanajuato,2111,TePaske_Mexico
+1786,caja_zimapan,134,TePaske_Mexico
+1786,caja_pachuca,32,TePaske_Mexico
+1786,caja_rosario,2901,TePaske_Mexico
+1786,caja_chihuahua,18,TePaske_Mexico
+1796,caja_mexico,2079,TePaske_Mexico
+1796,caja_durango,5428,TePaske_Mexico
+1796,caja_zacatecas,48,TePaske_Mexico
+1796,caja_san luis potosi,372,TePaske_Mexico
+1796,caja_guadaljara,490,TePaske_Mexico
+1796,caja_guanajuato,2384,TePaske_Mexico
+1796,caja_zimapan,60,TePaske_Mexico
+1796,caja_pachuca,18,TePaske_Mexico
+1796,caja_rosario,4279,TePaske_Mexico
+1796,caja_chihuahua,264,TePaske_Mexico
+1806,caja_mexico,3340,TePaske_Mexico
+1806,caja_durango,9797,TePaske_Mexico
+1806,caja_zacatecas,20,TePaske_Mexico
+1806,caja_san luis potosi,264,TePaske_Mexico
+1806,caja_guadaljara,357,TePaske_Mexico
+1806,caja_guanajuato,3727,TePaske_Mexico
+1806,caja_zimapan,45,TePaske_Mexico
+1806,caja_pachuca,27,TePaske_Mexico
+1806,caja_rosario,4849,TePaske_Mexico
+1806,caja_chihuahua,1417,TePaske_Mexico
+1536,caja_lima,8541,TePaske_Peru
+1546,caja_lima,4827,TePaske_Peru
+1556,caja_lima,3533,TePaske_Peru
+1566,caja_lima,1183,TePaske_Peru
+1576,caja_lima,1104,TePaske_Peru
+1586,caja_lima,299,TePaske_Peru
+1586,caja_cuzco,638,TePaske_Peru
+1586,caja_huancavelica,65,TePaske_Peru
+1596,caja_lima,56,TePaske_Peru
+1596,caja_cuzco,105,TePaske_Peru
+1606,caja_lima,25,TePaske_Peru
+1606,caja_cuzco,55,TePaske_Peru
+1616,caja_lima,1,TePaske_Peru
+1656,caja_trujillo,2,TePaske_Peru
+1666,caja_lima,70,TePaske_Peru
+1676,caja_lima,65,TePaske_Peru
+1676,caja_cuzco,11,TePaske_Peru
+1676,caja_la-paz,4,TePaske_Peru
+1686,caja_lima,1,TePaske_Peru
+1686,caja_cuzco,109,TePaske_Peru
+1686,caja_trujillo,105,TePaske_Peru
+1686,caja_la-paz,38,TePaske_Peru
+1686,caja_potosi,13,TePaske_Peru
+1686,caja_carabaya,1,TePaske_Peru
+1696,caja_lima,13,TePaske_Peru
+1696,caja_cuzco,80,TePaske_Peru
+1696,caja_trujillo,226,TePaske_Peru
+1696,caja_la-paz,12,TePaske_Peru
+1696,caja_potosi,7,TePaske_Peru
+1696,caja_oruro,212,TePaske_Peru
+1706,caja_lima,66,TePaske_Peru
+1706,caja_cuzco,82,TePaske_Peru
+1706,caja_trujillo,162,TePaske_Peru
+1706,caja_la-paz,43,TePaske_Peru
+1706,caja_potosi,25,TePaske_Peru
+1706,caja_carabaya,8,TePaske_Peru
+1706,caja_oruro,229,TePaske_Peru
+1706,caja_chucuito,5,TePaske_Peru
+1716,caja_cuzco,20,TePaske_Peru
+1716,caja_trujillo,69,TePaske_Peru
+1716,caja_la-paz,43,TePaske_Peru
+1716,caja_potosi,14,TePaske_Peru
+1716,caja_carabaya,8,TePaske_Peru
+1716,caja_oruro,229,TePaske_Peru
+1716,caja_chucuito,21,TePaske_Peru
+1726,caja_cuzco,17,TePaske_Peru
+1726,caja_trujillo,5,TePaske_Peru
+1726,caja_la-paz,9,TePaske_Peru
+1726,caja_carabaya,9,TePaske_Peru
+1726,caja_oruro,292,TePaske_Peru
+1736,caja_cuzco,39,TePaske_Peru
+1736,caja_trujillo,3,TePaske_Peru
+1736,caja_oruro,243,TePaske_Peru
+1736,caja_chucuito,1,TePaske_Peru
+1746,caja_cuzco,1,TePaske_Peru
+1746,caja_la-paz,1,TePaske_Peru
+1746,caja_oruro,255,TePaske_Peru
+1756,caja_la-paz,21,TePaske_Peru
+1756,caja_oruro,170,TePaske_Peru
+1766,caja_lima,1217,TePaske_Peru
+1766,caja_trujillo,14,TePaske_Peru
+1766,caja_oruro,68,TePaske_Peru
+1776,caja_lima,4252,TePaske_Peru
+1776,caja_trujillo,729,TePaske_Peru
+1776,caja_la-paz,685,TePaske_Peru
+1776,caja_potosi,178,TePaske_Peru
+1786,caja_lima,5904,TePaske_Peru
+1786,caja_cuzco,2,TePaske_Peru
+1786,caja_trujillo,2325,TePaske_Peru
+1786,caja_la-paz,2944,TePaske_Peru
+1786,caja_potosi,429,TePaske_Peru
+1786,caja_arequipa,57,TePaske_Peru
+1786,caja_arica,97,TePaske_Peru
+1796,caja_lima,4611,TePaske_Peru
+1796,caja_trujillo,5672,TePaske_Peru
+1796,caja_la-paz,3506,TePaske_Peru
+1796,caja_potosi,1674,TePaske_Peru
+1796,caja_chucuito,5,TePaske_Peru
+1796,caja_arequipa,254,TePaske_Peru
+1796,caja_arica,3,TePaske_Peru
+1806,caja_lima,2392,TePaske_Peru
+1806,caja_trujillo,3719,TePaske_Peru
+1806,caja_la-paz,4227,TePaske_Peru
+1806,caja_potosi,1160,TePaske_Peru
+1806,caja_arequipa,80,TePaske_Peru
+1806,caja_puno,169,TePaske_Peru
+1536,new-granada,2264,TePaske_SouthAmerica
+1536,ecuador,257,TePaske_SouthAmerica
+1546,new-granada,2089,TePaske_SouthAmerica
+1546,ecuador,868,TePaske_SouthAmerica
+1546,chile,3102,TePaske_SouthAmerica
+1556,new-granada,5593,TePaske_SouthAmerica
+1556,ecuador,2549,TePaske_SouthAmerica
+1556,chile,4653,TePaske_SouthAmerica
+1566,new-granada,7604,TePaske_SouthAmerica
+1566,ecuador,3226,TePaske_SouthAmerica
+1566,chile,159,TePaske_SouthAmerica
+1576,new-granada,7977,TePaske_SouthAmerica
+1576,ecuador,6143,TePaske_SouthAmerica
+1576,chile,4873,TePaske_SouthAmerica
+1586,new-granada,6728,TePaske_SouthAmerica
+1586,ecuador,6442,TePaske_SouthAmerica
+1586,chile,1551,TePaske_SouthAmerica
+1596,new-granada,12541,TePaske_SouthAmerica
+1596,ecuador,3486,TePaske_SouthAmerica
+1596,chile,776,TePaske_SouthAmerica
+1606,new-granada,13934,TePaske_SouthAmerica
+1606,ecuador,2076,TePaske_SouthAmerica
+1606,chile,155,TePaske_SouthAmerica
+1616,new-granada,11153,TePaske_SouthAmerica
+1616,ecuador,927,TePaske_SouthAmerica
+1616,chile,71,TePaske_SouthAmerica
+1626,new-granada,8951,TePaske_SouthAmerica
+1626,ecuador,1985,TePaske_SouthAmerica
+1626,chile,23,TePaske_SouthAmerica
+1636,new-granada,3548,TePaske_SouthAmerica
+1636,ecuador,635,TePaske_SouthAmerica
+1636,chile,19,TePaske_SouthAmerica
+1646,new-granada,7885,TePaske_SouthAmerica
+1646,ecuador,131,TePaske_SouthAmerica
+1656,new-granada,7540,TePaske_SouthAmerica
+1656,ecuador,202,TePaske_SouthAmerica
+1666,new-granada,4105,TePaske_SouthAmerica
+1666,ecuador,233,TePaske_SouthAmerica
+1676,new-granada,4406,TePaske_SouthAmerica
+1676,ecuador,194,TePaske_SouthAmerica
+1686,new-granada,6437,TePaske_SouthAmerica
+1686,ecuador,194,TePaske_SouthAmerica
+1696,new-granada,4950,TePaske_SouthAmerica
+1696,ecuador,339,TePaske_SouthAmerica
+1696,chile,60,TePaske_SouthAmerica
+1696,brazil,4327,TePaske_SouthAmerica
+1706,new-granada,5140,TePaske_SouthAmerica
+1706,ecuador,291,TePaske_SouthAmerica
+1706,chile,15,TePaske_SouthAmerica
+1706,brazil,43270,TePaske_SouthAmerica
+1716,new-granada,7499,TePaske_SouthAmerica
+1716,ecuador,339,TePaske_SouthAmerica
+1716,chile,188,TePaske_SouthAmerica
+1716,brazil,46563,TePaske_SouthAmerica
+1726,new-granada,8570,TePaske_SouthAmerica
+1726,ecuador,144,TePaske_SouthAmerica
+1726,chile,254,TePaske_SouthAmerica
+1726,brazil,103315,TePaske_SouthAmerica
+1736,new-granada,10210,TePaske_SouthAmerica
+1736,ecuador,96,TePaske_SouthAmerica
+1736,chile,426,TePaske_SouthAmerica
+1736,brazil,137930,TePaske_SouthAmerica
+1746,new-granada,14793,TePaske_SouthAmerica
+1746,ecuador,48,TePaske_SouthAmerica
+1746,chile,709,TePaske_SouthAmerica
+1746,brazil,145430,TePaske_SouthAmerica
+1756,new-granada,17759,TePaske_SouthAmerica
+1756,ecuador,2012,TePaske_SouthAmerica
+1756,chile,1108,TePaske_SouthAmerica
+1756,brazil,111680,TePaske_SouthAmerica
+1766,new-granada,20501,TePaske_SouthAmerica
+1766,ecuador,1676,TePaske_SouthAmerica
+1766,chile,6673,TePaske_SouthAmerica
+1766,brazil,107930,TePaske_SouthAmerica
+1776,new-granada,22681,TePaske_SouthAmerica
+1776,ecuador,1789,TePaske_SouthAmerica
+1776,chile,9134,TePaske_SouthAmerica
+1776,brazil,107930,TePaske_SouthAmerica
+1786,new-granada,27869,TePaske_SouthAmerica
+1786,ecuador,4049,TePaske_SouthAmerica
+1786,chile,9243,TePaske_SouthAmerica
+1786,brazil,92930,TePaske_SouthAmerica
+1796,new-granada,33130,TePaske_SouthAmerica
+1796,ecuador,4846,TePaske_SouthAmerica
+1796,chile,9137,TePaske_SouthAmerica
+1796,brazil,70430,TePaske_SouthAmerica
+1806,new-granada,34535,TePaske_SouthAmerica
+1806,ecuador,914,TePaske_SouthAmerica
+1806,chile,11560,TePaske_SouthAmerica
+1806,brazil,37715,TePaske_SouthAmerica

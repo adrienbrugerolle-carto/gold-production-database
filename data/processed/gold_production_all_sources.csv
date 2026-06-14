@@ -505,7 +505,7 @@ year,country,production_tonnes,source,source_priority
 1693,Brazil,1.5,CLIO,1
 1694,Brazil,1.5,CLIO,1
 1695,Brazil,1.5,CLIO,1
-1696,Brazil,8654,TePaske,4
+1696,Brazil,1.5,CLIO,1
 1697,Brazil,1.5,CLIO,1
 1698,Brazil,1.5,CLIO,1
 1699,Brazil,1.5,CLIO,1
@@ -515,7 +515,7 @@ year,country,production_tonnes,source,source_priority
 1703,Brazil,2.8,CLIO,1
 1704,Brazil,2.8,CLIO,1
 1705,Brazil,2.8,CLIO,1
-1706,Brazil,86540,TePaske,4
+1706,Brazil,2.8,CLIO,1
 1707,Brazil,2.8,CLIO,1
 1708,Brazil,2.8,CLIO,1
 1709,Brazil,2.8,CLIO,1
@@ -525,7 +525,7 @@ year,country,production_tonnes,source,source_priority
 1713,Brazil,2.8,CLIO,1
 1714,Brazil,2.8,CLIO,1
 1715,Brazil,2.8,CLIO,1
-1716,Brazil,93126,TePaske,4
+1716,Brazil,2.8,CLIO,1
 1717,Brazil,2.8,CLIO,1
 1718,Brazil,2.8,CLIO,1
 1719,Brazil,2.8,CLIO,1
@@ -535,7 +535,7 @@ year,country,production_tonnes,source,source_priority
 1723,Brazil,8.9,CLIO,1
 1724,Brazil,8.9,CLIO,1
 1725,Brazil,8.9,CLIO,1
-1726,Brazil,206630,TePaske,4
+1726,Brazil,8.9,CLIO,1
 1727,Brazil,8.9,CLIO,1
 1728,Brazil,8.9,CLIO,1
 1729,Brazil,8.9,CLIO,1
@@ -545,7 +545,7 @@ year,country,production_tonnes,source,source_priority
 1733,Brazil,8.9,CLIO,1
 1734,Brazil,8.9,CLIO,1
 1735,Brazil,8.9,CLIO,1
-1736,Brazil,275860,TePaske,4
+1736,Brazil,8.9,CLIO,1
 1737,Brazil,8.9,CLIO,1
 1738,Brazil,8.9,CLIO,1
 1739,Brazil,8.9,CLIO,1
@@ -555,7 +555,7 @@ year,country,production_tonnes,source,source_priority
 1743,Brazil,14.6,CLIO,1
 1744,Brazil,14.6,CLIO,1
 1745,Brazil,14.6,CLIO,1
-1746,Brazil,290860,TePaske,4
+1746,Brazil,14.6,CLIO,1
 1747,Brazil,14.6,CLIO,1
 1748,Brazil,14.6,CLIO,1
 1749,Brazil,14.6,CLIO,1
@@ -565,7 +565,7 @@ year,country,production_tonnes,source,source_priority
 1753,Brazil,14.6,CLIO,1
 1754,Brazil,14.6,CLIO,1
 1755,Brazil,14.6,CLIO,1
-1756,Brazil,223360,TePaske,4
+1756,Brazil,14.6,CLIO,1
 1757,Brazil,14.6,CLIO,1
 1758,Brazil,14.6,CLIO,1
 1759,Brazil,14.6,CLIO,1
@@ -575,7 +575,7 @@ year,country,production_tonnes,source,source_priority
 1763,Brazil,10.4,CLIO,1
 1764,Brazil,10.4,CLIO,1
 1765,Brazil,10.4,CLIO,1
-1766,Brazil,215860,TePaske,4
+1766,Brazil,10.4,CLIO,1
 1767,Brazil,10.4,CLIO,1
 1768,Brazil,10.4,CLIO,1
 1769,Brazil,10.4,CLIO,1
@@ -585,7 +585,7 @@ year,country,production_tonnes,source,source_priority
 1773,Brazil,10.4,CLIO,1
 1774,Brazil,10.4,CLIO,1
 1775,Brazil,10.4,CLIO,1
-1776,Brazil,215860,TePaske,4
+1776,Brazil,10.4,CLIO,1
 1777,Brazil,10.4,CLIO,1
 1778,Brazil,10.4,CLIO,1
 1779,Brazil,10.4,CLIO,1
@@ -595,7 +595,7 @@ year,country,production_tonnes,source,source_priority
 1783,Brazil,5.5,CLIO,1
 1784,Brazil,5.5,CLIO,1
 1785,Brazil,5.5,CLIO,1
-1786,Brazil,185860,TePaske,4
+1786,Brazil,5.5,CLIO,1
 1787,Brazil,5.5,CLIO,1
 1788,Brazil,5.5,CLIO,1
 1789,Brazil,5.5,CLIO,1
@@ -605,7 +605,7 @@ year,country,production_tonnes,source,source_priority
 1793,Brazil,5.5,CLIO,1
 1794,Brazil,5.5,CLIO,1
 1795,Brazil,5.5,CLIO,1
-1796,Brazil,140860,TePaske,4
+1796,Brazil,5.5,CLIO,1
 1797,Brazil,5.5,CLIO,1
 1798,Brazil,5.5,CLIO,1
 1799,Brazil,5.5,CLIO,1
@@ -615,7 +615,7 @@ year,country,production_tonnes,source,source_priority
 1803,Brazil,3.8,CLIO,1
 1804,Brazil,3.8,CLIO,1
 1805,Brazil,3.8,CLIO,1
-1806,Brazil,44758,TePaske,4
+1806,Brazil,3.8,CLIO,1
 1807,Brazil,3.8,CLIO,1
 1808,Brazil,3.8,CLIO,1
 1809,Brazil,3.8,CLIO,1
@@ -1150,28 +1150,6 @@ year,country,production_tonnes,source,source_priority
 1995,Central African Republic,0.1,CLIO,1
 1996,Central African Republic,0.1,CLIO,1
 1997,Central African Republic,0.1,CLIO,1
-1546,Chile,3102,TePaske,4
-1556,Chile,4653,TePaske,4
-1566,Chile,159,TePaske,4
-1576,Chile,4873,TePaske,4
-1586,Chile,1551,TePaske,4
-1596,Chile,776,TePaske,4
-1606,Chile,155,TePaske,4
-1616,Chile,71,TePaske,4
-1626,Chile,23,TePaske,4
-1636,Chile,19,TePaske,4
-1696,Chile,60,TePaske,4
-1706,Chile,15,TePaske,4
-1716,Chile,188,TePaske,4
-1726,Chile,254,TePaske,4
-1736,Chile,426,TePaske,4
-1746,Chile,709,TePaske,4
-1756,Chile,1108,TePaske,4
-1766,Chile,6673,TePaske,4
-1776,Chile,9134,TePaske,4
-1786,Chile,9243,TePaske,4
-1796,Chile,9137,TePaske,4
-1806,Chile,11560,TePaske,4
 1883,Chile,0.1,CLIO,1
 1884,Chile,0.1,CLIO,1
 1885,Chile,0.1,CLIO,1
@@ -1414,27 +1392,12 @@ year,country,production_tonnes,source,source_priority
 2010,China,350,CLIO,1
 2011,China,360.96,CLIO,1
 2012,China,403.05,CLIO,1
-1536,Colombia,2264,TePaske,4
-1546,Colombia,2089,TePaske,4
-1556,Colombia,5593,TePaske,4
-1566,Colombia,7604,TePaske,4
-1576,Colombia,7977,TePaske,4
-1586,Colombia,6728,TePaske,4
-1596,Colombia,12541,TePaske,4
-1606,Colombia,13934,TePaske,4
-1616,Colombia,11153,TePaske,4
-1626,Colombia,8951,TePaske,4
-1636,Colombia,3548,TePaske,4
-1646,Colombia,7885,TePaske,4
-1656,Colombia,7540,TePaske,4
-1666,Colombia,4105,TePaske,4
-1676,Colombia,4406,TePaske,4
 1681,Colombia,4,CLIO,1
 1682,Colombia,4,CLIO,1
 1683,Colombia,4,CLIO,1
 1684,Colombia,4,CLIO,1
 1685,Colombia,4,CLIO,1
-1686,Colombia,6437,TePaske,4
+1686,Colombia,4,CLIO,1
 1687,Colombia,4,CLIO,1
 1688,Colombia,4,CLIO,1
 1689,Colombia,4,CLIO,1
@@ -1444,7 +1407,7 @@ year,country,production_tonnes,source,source_priority
 1693,Colombia,4,CLIO,1
 1694,Colombia,4,CLIO,1
 1695,Colombia,4,CLIO,1
-1696,Colombia,4950,TePaske,4
+1696,Colombia,4,CLIO,1
 1697,Colombia,4,CLIO,1
 1698,Colombia,4,CLIO,1
 1699,Colombia,4,CLIO,1
@@ -1454,7 +1417,7 @@ year,country,production_tonnes,source,source_priority
 1703,Colombia,5,CLIO,1
 1704,Colombia,5,CLIO,1
 1705,Colombia,5,CLIO,1
-1706,Colombia,5140,TePaske,4
+1706,Colombia,5,CLIO,1
 1707,Colombia,5,CLIO,1
 1708,Colombia,5,CLIO,1
 1709,Colombia,5,CLIO,1
@@ -1464,7 +1427,7 @@ year,country,production_tonnes,source,source_priority
 1713,Colombia,5,CLIO,1
 1714,Colombia,5,CLIO,1
 1715,Colombia,5,CLIO,1
-1716,Colombia,7499,TePaske,4
+1716,Colombia,5,CLIO,1
 1717,Colombia,5,CLIO,1
 1718,Colombia,5,CLIO,1
 1719,Colombia,5,CLIO,1
@@ -1474,7 +1437,7 @@ year,country,production_tonnes,source,source_priority
 1723,Colombia,5,CLIO,1
 1724,Colombia,5,CLIO,1
 1725,Colombia,5,CLIO,1
-1726,Colombia,8570,TePaske,4
+1726,Colombia,5,CLIO,1
 1727,Colombia,5,CLIO,1
 1728,Colombia,5,CLIO,1
 1729,Colombia,5,CLIO,1
@@ -1484,7 +1447,7 @@ year,country,production_tonnes,source,source_priority
 1733,Colombia,5,CLIO,1
 1734,Colombia,5,CLIO,1
 1735,Colombia,5,CLIO,1
-1736,Colombia,10210,TePaske,4
+1736,Colombia,5,CLIO,1
 1737,Colombia,5,CLIO,1
 1738,Colombia,5,CLIO,1
 1739,Colombia,5,CLIO,1
@@ -1494,7 +1457,7 @@ year,country,production_tonnes,source,source_priority
 1743,Colombia,5,CLIO,1
 1744,Colombia,5,CLIO,1
 1745,Colombia,5,CLIO,1
-1746,Colombia,14793,TePaske,4
+1746,Colombia,5,CLIO,1
 1747,Colombia,5,CLIO,1
 1748,Colombia,5,CLIO,1
 1749,Colombia,5,CLIO,1
@@ -1504,7 +1467,7 @@ year,country,production_tonnes,source,source_priority
 1753,Colombia,5,CLIO,1
 1754,Colombia,5,CLIO,1
 1755,Colombia,5,CLIO,1
-1756,Colombia,17759,TePaske,4
+1756,Colombia,5,CLIO,1
 1757,Colombia,5,CLIO,1
 1758,Colombia,5,CLIO,1
 1759,Colombia,5,CLIO,1
@@ -1514,7 +1477,7 @@ year,country,production_tonnes,source,source_priority
 1763,Colombia,4,CLIO,1
 1764,Colombia,4,CLIO,1
 1765,Colombia,4,CLIO,1
-1766,Colombia,20501,TePaske,4
+1766,Colombia,4,CLIO,1
 1767,Colombia,4,CLIO,1
 1768,Colombia,4,CLIO,1
 1769,Colombia,4,CLIO,1
@@ -1524,7 +1487,7 @@ year,country,production_tonnes,source,source_priority
 1773,Colombia,4,CLIO,1
 1774,Colombia,4,CLIO,1
 1775,Colombia,4,CLIO,1
-1776,Colombia,22681,TePaske,4
+1776,Colombia,4,CLIO,1
 1777,Colombia,4,CLIO,1
 1778,Colombia,4,CLIO,1
 1779,Colombia,4,CLIO,1
@@ -1534,7 +1497,7 @@ year,country,production_tonnes,source,source_priority
 1783,Colombia,4.5,CLIO,1
 1784,Colombia,4.5,CLIO,1
 1785,Colombia,4.5,CLIO,1
-1786,Colombia,27869,TePaske,4
+1786,Colombia,4.5,CLIO,1
 1787,Colombia,4.5,CLIO,1
 1788,Colombia,4.5,CLIO,1
 1789,Colombia,4.5,CLIO,1
@@ -1544,7 +1507,7 @@ year,country,production_tonnes,source,source_priority
 1793,Colombia,4.5,CLIO,1
 1794,Colombia,4.5,CLIO,1
 1795,Colombia,4.5,CLIO,1
-1796,Colombia,33130,TePaske,4
+1796,Colombia,4.5,CLIO,1
 1797,Colombia,4.5,CLIO,1
 1798,Colombia,4.5,CLIO,1
 1799,Colombia,4.5,CLIO,1
@@ -1554,7 +1517,7 @@ year,country,production_tonnes,source,source_priority
 1803,Colombia,5,CLIO,1
 1804,Colombia,5,CLIO,1
 1805,Colombia,5,CLIO,1
-1806,Colombia,34535,TePaske,4
+1806,Colombia,5,CLIO,1
 1807,Colombia,5,CLIO,1
 1808,Colombia,5,CLIO,1
 1809,Colombia,5,CLIO,1
@@ -1970,10 +1933,6 @@ year,country,production_tonnes,source,source_priority
 2010,Cote d'Ivoire,5.316,CLIO,1
 2011,Cote d'Ivoire,10.685,CLIO,1
 2012,Cote d'Ivoire,9.831,CLIO,1
-1516,Cuba,1799,TePaske,4
-1526,Cuba,807,TePaske,4
-1536,Cuba,473,TePaske,4
-1546,Cuba,119,TePaske,4
 1939,Cuba,0.109174013458,CLIO,1
 1940,Cuba,0.0354652533981,CLIO,1
 1941,Cuba,0.0172081605217,CLIO,1
@@ -2009,13 +1968,6 @@ year,country,production_tonnes,source,source_priority
 2004,Cuba,0.5,CLIO,1
 1993,Czech Republic,0.512,CLIO,1
 1994,Czech Republic,0.075,CLIO,1
-1496,Dominican Republic,1086,TePaske,4
-1506,Dominican Republic,12020,TePaske,4
-1516,Dominican Republic,7135,TePaske,4
-1526,Dominican Republic,1152,TePaske,4
-1536,Dominican Republic,1087,TePaske,4
-1546,Dominican Republic,855,TePaske,4
-1553,Dominican Republic,53,TePaske,4
 1934,Dominican Republic,0.150592666707,CLIO,1
 1935,Dominican Republic,0.214123947974,CLIO,1
 1936,Dominican Republic,0.252339105113,CLIO,1
@@ -2070,34 +2022,6 @@ year,country,production_tonnes,source,source_priority
 2010,Dominican Republic,0.533,CLIO,1
 2011,Dominican Republic,0.495,CLIO,1
 2012,Dominican Republic,4.106,CLIO,1
-1536,Ecuador,257,TePaske,4
-1546,Ecuador,868,TePaske,4
-1556,Ecuador,2549,TePaske,4
-1566,Ecuador,3226,TePaske,4
-1576,Ecuador,6143,TePaske,4
-1586,Ecuador,6442,TePaske,4
-1596,Ecuador,3486,TePaske,4
-1606,Ecuador,2076,TePaske,4
-1616,Ecuador,927,TePaske,4
-1626,Ecuador,1985,TePaske,4
-1636,Ecuador,635,TePaske,4
-1646,Ecuador,131,TePaske,4
-1656,Ecuador,202,TePaske,4
-1666,Ecuador,233,TePaske,4
-1676,Ecuador,194,TePaske,4
-1686,Ecuador,194,TePaske,4
-1696,Ecuador,339,TePaske,4
-1706,Ecuador,291,TePaske,4
-1716,Ecuador,339,TePaske,4
-1726,Ecuador,144,TePaske,4
-1736,Ecuador,96,TePaske,4
-1746,Ecuador,48,TePaske,4
-1756,Ecuador,2012,TePaske,4
-1766,Ecuador,1676,TePaske,4
-1776,Ecuador,1789,TePaske,4
-1786,Ecuador,4049,TePaske,4
-1796,Ecuador,4846,TePaske,4
-1806,Ecuador,914,TePaske,4
 1913,Ecuador,0.6,CLIO,1
 1914,Ecuador,0.5,CLIO,1
 1915,Ecuador,0.8,CLIO,1
@@ -4210,28 +4134,12 @@ year,country,production_tonnes,source,source_priority
 2010,Mauritania,8.326,CLIO,1
 2011,Mauritania,8.211,CLIO,1
 2012,Mauritania,7.647,CLIO,1
-1526,Mexico,2358,TePaske,4
-1536,Mexico,3769,TePaske,4
-1546,Mexico,1256,TePaske,4
-1556,Mexico,124,TePaske,4
-1566,Mexico,124,TePaske,4
-1576,Mexico,78,TePaske,4
-1586,Mexico,82,TePaske,4
-1596,Mexico,1483,TePaske,4
-1606,Mexico,3535,TePaske,4
-1616,Mexico,4010,TePaske,4
-1626,Mexico,4428,TePaske,4
-1636,Mexico,3924,TePaske,4
-1646,Mexico,2427,TePaske,4
-1656,Mexico,2687,TePaske,4
-1666,Mexico,2943,TePaske,4
-1676,Mexico,2372,TePaske,4
 1681,Mexico,0.4,CLIO,1
 1682,Mexico,0.4,CLIO,1
 1683,Mexico,0.4,CLIO,1
 1684,Mexico,0.4,CLIO,1
 1685,Mexico,0.4,CLIO,1
-1686,Mexico,2186,TePaske,4
+1686,Mexico,0.4,CLIO,1
 1687,Mexico,0.4,CLIO,1
 1688,Mexico,0.4,CLIO,1
 1689,Mexico,0.4,CLIO,1
@@ -4241,7 +4149,7 @@ year,country,production_tonnes,source,source_priority
 1693,Mexico,0.4,CLIO,1
 1694,Mexico,0.4,CLIO,1
 1695,Mexico,0.4,CLIO,1
-1696,Mexico,2740,TePaske,4
+1696,Mexico,0.4,CLIO,1
 1697,Mexico,0.4,CLIO,1
 1698,Mexico,0.4,CLIO,1
 1699,Mexico,0.4,CLIO,1
@@ -4251,7 +4159,7 @@ year,country,production_tonnes,source,source_priority
 1703,Mexico,0.5,CLIO,1
 1704,Mexico,0.5,CLIO,1
 1705,Mexico,0.5,CLIO,1
-1706,Mexico,2212,TePaske,4
+1706,Mexico,0.5,CLIO,1
 1707,Mexico,0.5,CLIO,1
 1708,Mexico,0.5,CLIO,1
 1709,Mexico,0.5,CLIO,1
@@ -4261,7 +4169,7 @@ year,country,production_tonnes,source,source_priority
 1713,Mexico,0.5,CLIO,1
 1714,Mexico,0.5,CLIO,1
 1715,Mexico,0.5,CLIO,1
-1716,Mexico,2498,TePaske,4
+1716,Mexico,0.5,CLIO,1
 1717,Mexico,0.5,CLIO,1
 1718,Mexico,0.5,CLIO,1
 1719,Mexico,0.5,CLIO,1
@@ -4271,7 +4179,7 @@ year,country,production_tonnes,source,source_priority
 1723,Mexico,0.7,CLIO,1
 1724,Mexico,0.7,CLIO,1
 1725,Mexico,0.7,CLIO,1
-1726,Mexico,2555,TePaske,4
+1726,Mexico,0.7,CLIO,1
 1727,Mexico,0.7,CLIO,1
 1728,Mexico,0.7,CLIO,1
 1729,Mexico,0.7,CLIO,1
@@ -4281,7 +4189,7 @@ year,country,production_tonnes,source,source_priority
 1733,Mexico,0.7,CLIO,1
 1734,Mexico,0.7,CLIO,1
 1735,Mexico,0.7,CLIO,1
-1736,Mexico,4816,TePaske,4
+1736,Mexico,0.7,CLIO,1
 1737,Mexico,0.7,CLIO,1
 1738,Mexico,0.7,CLIO,1
 1739,Mexico,0.7,CLIO,1
@@ -4291,7 +4199,7 @@ year,country,production_tonnes,source,source_priority
 1743,Mexico,0.8,CLIO,1
 1744,Mexico,0.8,CLIO,1
 1745,Mexico,0.8,CLIO,1
-1746,Mexico,7411,TePaske,4
+1746,Mexico,0.8,CLIO,1
 1747,Mexico,0.8,CLIO,1
 1748,Mexico,0.8,CLIO,1
 1749,Mexico,0.8,CLIO,1
@@ -4301,7 +4209,7 @@ year,country,production_tonnes,source,source_priority
 1753,Mexico,0.8,CLIO,1
 1754,Mexico,0.8,CLIO,1
 1755,Mexico,0.8,CLIO,1
-1756,Mexico,7493,TePaske,4
+1756,Mexico,0.8,CLIO,1
 1757,Mexico,0.8,CLIO,1
 1758,Mexico,0.8,CLIO,1
 1759,Mexico,0.8,CLIO,1
@@ -4311,7 +4219,7 @@ year,country,production_tonnes,source,source_priority
 1763,Mexico,1.3,CLIO,1
 1764,Mexico,1.3,CLIO,1
 1765,Mexico,1.3,CLIO,1
-1766,Mexico,9897,TePaske,4
+1766,Mexico,1.3,CLIO,1
 1767,Mexico,1.3,CLIO,1
 1768,Mexico,1.3,CLIO,1
 1769,Mexico,1.3,CLIO,1
@@ -4321,7 +4229,7 @@ year,country,production_tonnes,source,source_priority
 1773,Mexico,1.3,CLIO,1
 1774,Mexico,1.3,CLIO,1
 1775,Mexico,1.3,CLIO,1
-1776,Mexico,12220,TePaske,4
+1776,Mexico,1.3,CLIO,1
 1777,Mexico,1.3,CLIO,1
 1778,Mexico,1.3,CLIO,1
 1779,Mexico,1.3,CLIO,1
@@ -4331,7 +4239,7 @@ year,country,production_tonnes,source,source_priority
 1783,Mexico,1.2,CLIO,1
 1784,Mexico,1.2,CLIO,1
 1785,Mexico,1.2,CLIO,1
-1786,Mexico,8738,TePaske,4
+1786,Mexico,1.2,CLIO,1
 1787,Mexico,1.2,CLIO,1
 1788,Mexico,1.2,CLIO,1
 1789,Mexico,1.2,CLIO,1
@@ -4341,7 +4249,7 @@ year,country,production_tonnes,source,source_priority
 1793,Mexico,1.2,CLIO,1
 1794,Mexico,1.2,CLIO,1
 1795,Mexico,1.2,CLIO,1
-1796,Mexico,15422,TePaske,4
+1796,Mexico,1.2,CLIO,1
 1797,Mexico,1.2,CLIO,1
 1798,Mexico,1.2,CLIO,1
 1799,Mexico,1.2,CLIO,1
@@ -4351,7 +4259,7 @@ year,country,production_tonnes,source,source_priority
 1803,Mexico,1.8,CLIO,1
 1804,Mexico,1.8,CLIO,1
 1805,Mexico,1.8,CLIO,1
-1806,Mexico,23843,TePaske,4
+1806,Mexico,1.8,CLIO,1
 1807,Mexico,1.8,CLIO,1
 1808,Mexico,1.8,CLIO,1
 1809,Mexico,1.8,CLIO,1
@@ -5305,36 +5213,12 @@ year,country,production_tonnes,source,source_priority
 2010,Papua New Guinea,66.901,CLIO,1
 2011,Papua New Guinea,62.271,CLIO,1
 2012,Papua New Guinea,55.839,CLIO,1
-1536,Peru,8541,TePaske,4
-1546,Peru,4827,TePaske,4
-1556,Peru,3533,TePaske,4
-1566,Peru,1183,TePaske,4
-1576,Peru,1104,TePaske,4
-1586,Peru,1002,TePaske,4
-1596,Peru,161,TePaske,4
-1606,Peru,80,TePaske,4
-1616,Peru,1,TePaske,4
-1656,Peru,2,TePaske,4
-1666,Peru,70,TePaske,4
-1676,Peru,80,TePaske,4
-1686,Peru,267,TePaske,4
-1696,Peru,550,TePaske,4
-1706,Peru,620,TePaske,4
-1716,Peru,404,TePaske,4
-1726,Peru,332,TePaske,4
-1736,Peru,286,TePaske,4
-1746,Peru,257,TePaske,4
-1756,Peru,191,TePaske,4
-1766,Peru,1299,TePaske,4
-1776,Peru,5844,TePaske,4
-1786,Peru,11758,TePaske,4
-1796,Peru,15725,TePaske,4
 1801,Peru,0.1,CLIO,1
 1802,Peru,0.1,CLIO,1
 1803,Peru,0.1,CLIO,1
 1804,Peru,0.1,CLIO,1
 1805,Peru,0.1,CLIO,1
-1806,Peru,11747,TePaske,4
+1806,Peru,0.1,CLIO,1
 1807,Peru,0.1,CLIO,1
 1808,Peru,0.1,CLIO,1
 1809,Peru,0.1,CLIO,1
@@ -5683,11 +5567,6 @@ year,country,production_tonnes,source,source_priority
 1992,Portugal,0.149,CLIO,1
 1993,Portugal,0.15,CLIO,1
 1994,Portugal,0.4,CLIO,1
-1506,Puerto Rico,118,TePaske,4
-1516,Puerto Rico,1777,TePaske,4
-1526,Puerto Rico,1450,TePaske,4
-1536,Puerto Rico,689,TePaske,4
-1546,Puerto Rico,341,TePaske,4
 1920,Romania,0.7,CLIO,1
 1921,Romania,1.1,CLIO,1
 1922,Romania,1.3,CLIO,1
@@ -7118,207 +6997,207 @@ year,country,production_tonnes,source,source_priority
 2010,United Kingdom,0.177,CLIO,1
 2011,United Kingdom,0.202,CLIO,1
 2012,United Kingdom,0.102,CLIO,1
-1795,United States,0,Craig,5
-1796,United States,0,Craig,5
-1797,United States,0,Craig,5
-1798,United States,0,Craig,5
-1799,United States,0,Craig,5
-1800,United States,0,Craig,5
-1801,United States,0,Craig,5
-1802,United States,0,Craig,5
-1803,United States,0,Craig,5
-1804,United States,0.0035458014911028376,Craig,5
-1805,United States,0.0035458014911028376,Craig,5
-1806,United States,0.0035458014911028376,Craig,5
-1807,United States,0.0035458014911028376,Craig,5
-1808,United States,0.0035458014911028376,Craig,5
-1809,United States,0.0035458014911028376,Craig,5
-1810,United States,0.0035458014911028376,Craig,5
-1811,United States,0.0035458014911028376,Craig,5
-1812,United States,0.0035458014911028376,Craig,5
-1813,United States,0.0035458014911028376,Craig,5
-1814,United States,0.0035458014911028376,Craig,5
-1815,United States,0.0035458014911028376,Craig,5
-1816,United States,0.0035458014911028376,Craig,5
-1817,United States,0.0035458014911028376,Craig,5
-1818,United States,0.0035458014911028376,Craig,5
-1819,United States,0.0035458014911028376,Craig,5
-1820,United States,0.0035458014911028376,Craig,5
-1821,United States,0.0035458014911028376,Craig,5
-1822,United States,0.0035458014911028376,Craig,5
-1823,United States,0.0035458014911028376,Craig,5
-1824,United States,0.007527052288130585,Craig,5
-1825,United States,0.025567094962162563,Craig,5
-1826,United States,0.03010820915252234,Craig,5
-1827,United States,0.031601178201407745,Craig,5
-1828,United States,0.06920533612020889,Craig,5
-1829,United States,0.21066415350210105,Craig,5
-1830,United States,0.701197796626512,Craig,5
-1831,United States,0.781942539353731,Craig,5
-1832,United States,1.020226620260212,Craig,5
-1833,United States,1.013601570105783,Craig,5
-1834,United States,1.351261403328699,Craig,5
-1835,United States,1.0319837515201846,Craig,5
-1836,United States,0.7027840762409527,Craig,5
-1837,United States,0.42437645214567643,Craig,5
-1838,United States,1.1064455828333442,Craig,5
-1839,United States,1.0849530492337647,Craig,5
-1840,United States,1.2389776894437756,Craig,5
-1841,United States,1.2209998538134472,Craig,5
-1842,United States,1.3136572454098978,Craig,5
-1843,United States,1.2305486350219434,Craig,5
-1844,United States,1.189771917874261,Craig,5
-1845,United States,1.1385133138625285,Craig,5
-1846,United States,1.0897429915989387,Craig,5
-1847,United States,1.087721262678573,Craig,5
-1848,United States,1.7566025001010863,Craig,5
-1849,United States,16.72371052574283,Craig,5
-1850,United States,63.19937046471772,Craig,5
-1851,United States,115.27030515665288,Craig,5
-1852,United States,125.94686896397279,Craig,5
-1853,United States,106.06444027657251,Craig,5
-1854,United States,108.55878721147596,Craig,5
-1855,United States,87.63280426242663,Craig,5
-1856,United States,90.62029753629004,Craig,5
-1857,United States,69.45724354368645,Craig,5
-1858,United States,78.79001079292208,Craig,5
-1859,United States,77.65796701160473,Craig,5
-1860,United States,75.64584907949127,Craig,5
-1861,United States,75.0833729903237,Craig,5
-1862,United States,74.34180282233358,Craig,5
-1863,United States,74.21972149906534,Craig,5
-1864,United States,86.43021769354944,Craig,5
-1865,United States,79.13003449380574,Craig,5
-1866,United States,87.76561630073373,Craig,5
-1867,United States,72.30190944520648,Craig,5
-1868,United States,73.6788312540629,Craig,5
-1869,United States,66.68433346707847,Craig,5
-1870,United States,64.6710647046565,Craig,5
-1871,United States,62.7558653466332,Craig,5
-1872,United States,52.26607818803323,Craig,5
-1873,United States,53.556781034316515,Craig,5
-1874,United States,54.644004640645456,Craig,5
-1875,United States,52.79741965182718,Craig,5
-1876,United States,59.170095829950824,Craig,5
-1877,United States,71.92854276889771,Craig,5
-1878,United States,79.2571234840921,Craig,5
-1879,United States,61.41698314500151,Craig,5
-1880,United States,57.24982659786568,Craig,5
-1881,United States,53.967285315716296,Craig,5
-1882,United States,49.494070113558955,Craig,5
-1883,United States,60.725582957758306,Craig,5
-1884,United States,46.31992460506303,Craig,5
-1885,United States,48.02626381385164,Craig,5
-1886,United States,52.525699284930035,Craig,5
-1887,United States,50.57725026204717,Craig,5
-1888,United States,48.69962395842081,Craig,5
-1889,United States,46.55251674147063,Craig,5
-1890,United States,48.966958728736856,Craig,5
-1891,United States,48.97902689521534,Craig,5
-1892,United States,50.70001586279614,Craig,5
-1893,United States,54.91227251661706,Craig,5
-1894,United States,64.34911214996873,Craig,5
-1895,United States,74.41038608801675,Craig,5
-1896,United States,84.18457451937283,Craig,5
-1897,United States,90.27069395067603,Craig,5
-1898,United States,97.60061211731004,Craig,5
-1899,United States,108.58681148466441,Craig,5
-1900,United States,119.70613392554439,Craig,5
-1901,United States,118.82242066269163,Craig,5
-1902,United States,120.81733834722105,Craig,5
-1903,United States,111.3547449977761,Craig,5
-1904,United States,121.27686177905925,Craig,5
-1905,United States,132.95592319918384,Craig,5
-1906,United States,145.52952190776563,Craig,5
-1907,United States,130.7135769983235,Craig,5
-1908,United States,138.50314301088312,Craig,5
-1909,United States,149.21538255776701,Craig,5
-1910,United States,142.55702053143477,Craig,5
-1911,United States,145.76379363435322,Craig,5
-1912,United States,138.91753523251438,Craig,5
-1913,United States,134.09406327078415,Craig,5
-1914,United States,137.42220231596824,Craig,5
-1915,United States,147.88094815976012,Craig,5
-1916,United States,137.38450484748387,Craig,5
-1917,United States,121.3103602720936,Craig,5
-1918,United States,99.92438733837832,Craig,5
-1919,United States,85.63651802293573,Craig,5
-1920,United States,74.11676884173595,Craig,5
-1921,United States,72.93806977764092,Craig,5
-1922,United States,71.32824479715838,Craig,5
-1923,United States,74.80123294360621,Craig,5
-1924,United States,76.0274270855689,Craig,5
-1925,United States,71.76745762922735,Craig,5
-1926,United States,69.44589075821055,Craig,5
-1927,United States,65.53686233892263,Craig,5
-1928,United States,66.81375522150373,Craig,5
-1929,United States,64.04255583859761,Craig,5
-1930,United States,66.48937659211153,Craig,5
-1931,United States,69.18331482673783,Craig,5
-1932,United States,72.45677388050649,Craig,5
-1933,United States,71.65352542868429,Craig,5
-1934,United States,86.43006217594018,Craig,5
-1935,United States,100.68054505811693,Craig,5
-1936,United States,117.65420348546066,Craig,5
-1937,United States,128.05565664200157,Craig,5
-1938,United States,132.64084452282532,Craig,5
-1939,United States,145.35671074035713,Craig,5
-1940,United States,151.47023237441175,Craig,5
-1941,United States,147.67056393795468,Craig,5
-1942,United States,104.86950517407085,Craig,5
-1943,United States,42.41944965428436,Craig,5
-1944,United States,31.053569595685317,Craig,5
-1945,United States,29.690830992793313,Craig,5
-1946,United States,48.974143642284616,Craig,5
-1947,United States,65.603517186251,Craig,5
-1948,United States,62.86768250769035,Craig,5
-1949,United States,61.95174599619915,Craig,5
-1950,United States,74.46889181261994,Craig,5
-1951,United States,61.605532694466994,Craig,5
-1952,United States,58.88630729657519,Craig,5
-1953,United States,60.41591629420199,Craig,5
-1954,United States,57.14687394053629,Craig,5
-1955,United States,58.47903778144799,Craig,5
-1956,United States,56.675748895047384,Craig,5
-1957,United States,55.78718348278576,Craig,5
-1958,United States,54.08370579800751,Craig,5
-1959,United States,49.6442690205812,Craig,5
-1960,United States,52.21161592127076,Craig,5
-1961,United States,48.15714743380393,Craig,5
-1962,United States,47.97643597184509,Craig,5
-1963,United States,45.20707169672822,Craig,5
-1964,United States,45.29070906698765,Craig,5
-1965,United States,53.0731523730432,Craig,5
-1966,United States,56.11196645796203,Craig,5
-1967,United States,49.296002886406825,Craig,5
-1968,United States,45.980989527444194,Craig,5
-1969,United States,53.90803310658866,Craig,5
-1970,United States,54.35595492477613,Craig,5
-1971,United States,47.17632897572992,Craig,5
-1972,United States,45.16486421757536,Craig,5
-1973,United States,36.84345908487218,Craig,5
-1974,United States,35.30918455896761,Craig,5
-1975,United States,32.75714059102912,Craig,5
-1976,United States,32.625230554855726,Craig,5
-1977,United States,35.197056362691946,Craig,5
-1978,United States,32.53854503945482,Craig,5
-1979,United States,29.332518421060815,Craig,5
-1980,United States,33.12416214888012,Craig,5
-1981,United States,47.35738257642913,Craig,5
-1982,United States,51.439533198344044,Craig,5
-1983,United States,68.30118784349952,Craig,5
-1984,United States,71.3450095954365,Craig,5
-1985,United States,82.0022892192083,Craig,5
-1986,United States,120.11477199563306,Craig,5
-1987,United States,157.89177218536454,Craig,5
-1988,United States,205.13198779497802,Craig,5
-1989,United States,269.65266697148115,Craig,5
-1990,United States,295.1217547362888,Craig,5
-1991,United States,295.6841375148908,Craig,5
-1992,United States,330.6942928147754,Craig,5
-1993,United States,333.7058602145521,Craig,5
-1994,United States,327.51314901386286,Craig,5
-1995,United States,321.29813658800583,Craig,5
+1795,United States,0.5,CLIO,1
+1796,United States,0.5,CLIO,1
+1797,United States,0.5,CLIO,1
+1798,United States,0.5,CLIO,1
+1799,United States,0.5,CLIO,1
+1800,United States,0.5,CLIO,1
+1801,United States,0.5,CLIO,1
+1802,United States,0.5,CLIO,1
+1803,United States,0.5,CLIO,1
+1804,United States,0.5,CLIO,1
+1805,United States,0.5,CLIO,1
+1806,United States,0.5,CLIO,1
+1807,United States,0.5,CLIO,1
+1808,United States,0.5,CLIO,1
+1809,United States,0.5,CLIO,1
+1810,United States,0.5,CLIO,1
+1811,United States,0.5,CLIO,1
+1812,United States,0.5,CLIO,1
+1813,United States,0.5,CLIO,1
+1814,United States,0.5,CLIO,1
+1815,United States,0.5,CLIO,1
+1816,United States,0.5,CLIO,1
+1817,United States,0.5,CLIO,1
+1818,United States,0.5,CLIO,1
+1819,United States,0.5,CLIO,1
+1820,United States,0.5,CLIO,1
+1821,United States,0.5,CLIO,1
+1822,United States,0.5,CLIO,1
+1823,United States,0.5,CLIO,1
+1824,United States,0.5,CLIO,1
+1825,United States,0.5,CLIO,1
+1826,United States,0.5,CLIO,1
+1827,United States,0.5,CLIO,1
+1828,United States,0.5,CLIO,1
+1829,United States,0.5,CLIO,1
+1830,United States,0.5,CLIO,1
+1831,United States,0.5,CLIO,1
+1832,United States,0.5,CLIO,1
+1833,United States,0.5,CLIO,1
+1834,United States,0.8,CLIO,1
+1835,United States,1.2,CLIO,1
+1836,United States,0.8,CLIO,1
+1837,United States,0.5,CLIO,1
+1838,United States,0.7,CLIO,1
+1839,United States,0.7,CLIO,1
+1840,United States,0.7,CLIO,1
+1841,United States,0.9,CLIO,1
+1842,United States,1.3,CLIO,1
+1843,United States,1.8,CLIO,1
+1844,United States,1.7,CLIO,1
+1845,United States,1.5,CLIO,1
+1846,United States,1.7,CLIO,1
+1847,United States,1.3,CLIO,1
+1848,United States,15,CLIO,1
+1849,United States,60.1,CLIO,1
+1850,United States,75.1,CLIO,1
+1851,United States,82.7,CLIO,1
+1852,United States,90.1,CLIO,1
+1853,United States,97.7,CLIO,1
+1854,United States,90.1,CLIO,1
+1855,United States,82.7,CLIO,1
+1856,United States,82.7,CLIO,1
+1857,United States,82.7,CLIO,1
+1858,United States,75.1,CLIO,1
+1859,United States,75.1,CLIO,1
+1860,United States,69.1,CLIO,1
+1861,United States,64.6,CLIO,1
+1862,United States,58.9,CLIO,1
+1863,United States,60.1,CLIO,1
+1864,United States,69.3,CLIO,1
+1865,United States,79.9,CLIO,1
+1866,United States,80.4,CLIO,1
+1867,United States,77.7,CLIO,1
+1868,United States,72.1,CLIO,1
+1869,United States,74.4,CLIO,1
+1870,United States,75.1,CLIO,1
+1871,United States,65.4,CLIO,1
+1872,United States,54.1,CLIO,1
+1873,United States,54.1,CLIO,1
+1874,United States,50.3,CLIO,1
+1875,United States,50.2,CLIO,1
+1876,United States,60,CLIO,1
+1877,United States,70.5,CLIO,1
+1878,United States,76.9,CLIO,1
+1879,United States,58.5,CLIO,1
+1880,United States,54.1,CLIO,1
+1881,United States,52.2,CLIO,1
+1882,United States,48.8,CLIO,1
+1883,United States,45.1,CLIO,1
+1884,United States,46.3,CLIO,1
+1885,United States,47.8,CLIO,1
+1886,United States,52.4,CLIO,1
+1887,United States,49.8,CLIO,1
+1888,United States,49.9,CLIO,1
+1889,United States,49.5,CLIO,1
+1890,United States,49.4,CLIO,1
+1891,United States,49.9,CLIO,1
+1892,United States,49.6,CLIO,1
+1893,United States,54,CLIO,1
+1894,United States,59.4,CLIO,1
+1895,United States,70,CLIO,1
+1896,United States,79.8,CLIO,1
+1897,United States,86.2,CLIO,1
+1898,United States,96.8,CLIO,1
+1899,United States,106.8,CLIO,1
+1900,United States,119,CLIO,1
+1901,United States,118.2,CLIO,1
+1902,United States,120.2,CLIO,1
+1903,United States,110.6,CLIO,1
+1904,United States,121.5,CLIO,1
+1905,United States,132.5,CLIO,1
+1906,United States,146.1,CLIO,1
+1907,United States,131.3,CLIO,1
+1908,United States,137.8,CLIO,1
+1909,United States,149,CLIO,1
+1910,United States,142.4,CLIO,1
+1911,United States,145.5,CLIO,1
+1912,United States,138.7,CLIO,1
+1913,United States,133.9,CLIO,1
+1914,United States,137.2,CLIO,1
+1915,United States,147.7,CLIO,1
+1916,United States,137.2,CLIO,1
+1917,United States,121.1,CLIO,1
+1918,United States,99.8,CLIO,1
+1919,United States,85.5,CLIO,1
+1920,United States,74,CLIO,1
+1921,United States,72.8,CLIO,1
+1922,United States,71.2,CLIO,1
+1923,United States,74.7,CLIO,1
+1924,United States,75.9,CLIO,1
+1925,United States,71.7,CLIO,1
+1926,United States,69.4,CLIO,1
+1927,United States,65.4,CLIO,1
+1928,United States,66.7,CLIO,1
+1929,United States,64,CLIO,1
+1930,United States,66.5,CLIO,1
+1931,United States,69.2,CLIO,1
+1932,United States,70.6,CLIO,1
+1933,United States,71.3,CLIO,1
+1934,United States,86.4,CLIO,1
+1935,United States,100.7,CLIO,1
+1936,United States,117.7,CLIO,1
+1937,United States,128,CLIO,1
+1938,United States,132.7,CLIO,1
+1939,United States,145.3,CLIO,1
+1940,United States,151.5,CLIO,1
+1941,United States,147.8,CLIO,1
+1942,United States,107.5,CLIO,1
+1943,United States,42.4,CLIO,1
+1944,United States,31,CLIO,1
+1945,United States,29.7,CLIO,1
+1946,United States,49,CLIO,1
+1947,United States,65.6,CLIO,1
+1948,United States,62.6,CLIO,1
+1949,United States,62,CLIO,1
+1950,United States,74.5,CLIO,1
+1951,United States,61.6,CLIO,1
+1952,United States,59,CLIO,1
+1953,United States,60.9,CLIO,1
+1954,United States,57.1,CLIO,1
+1955,United States,56,CLIO,1
+1956,United States,56.8,CLIO,1
+1957,United States,55.8,CLIO,1
+1958,United States,54.1,CLIO,1
+1959,United States,49.9,CLIO,1
+1960,United States,51.8,CLIO,1
+1961,United States,48.1,CLIO,1
+1962,United States,48,CLIO,1
+1963,United States,45.2,CLIO,1
+1964,United States,45.3,CLIO,1
+1965,United States,53,CLIO,1
+1966,United States,56.1,CLIO,1
+1967,United States,49.3,CLIO,1
+1968,United States,46,CLIO,1
+1969,United States,53.9,CLIO,1
+1970,United States,54.2,CLIO,1
+1971,United States,46.5,CLIO,1
+1972,United States,49.9,CLIO,1
+1973,United States,36.6,CLIO,1
+1974,United States,34.9,CLIO,1
+1975,United States,32.7,CLIO,1
+1976,United States,33,CLIO,1
+1977,United States,34,CLIO,1
+1978,United States,31,CLIO,1
+1979,United States,30,CLIO,1
+1980,United States,30,CLIO,1
+1981,United States,43,CLIO,1
+1982,United States,46,CLIO,1
+1983,United States,62,CLIO,1
+1984,United States,65,CLIO,1
+1985,United States,75,CLIO,1
+1986,United States,116,CLIO,1
+1987,United States,154,CLIO,1
+1988,United States,201,CLIO,1
+1989,United States,266,CLIO,1
+1990,United States,294,CLIO,1
+1991,United States,296,CLIO,1
+1992,United States,329,CLIO,1
+1993,United States,331,CLIO,1
+1994,United States,326.221,CLIO,1
+1995,United States,317,CLIO,1
 1996,United States,326,CLIO,1
 1997,United States,362,CLIO,1
 1998,United States,366,CLIO,1
@@ -7436,11 +7315,6 @@ year,country,production_tonnes,source,source_priority
 2010,Uzbekistan,73,CLIO,1
 2011,Uzbekistan,73,CLIO,1
 2012,Uzbekistan,73,CLIO,1
-1506,Venezuela,620,TePaske,4
-1516,Venezuela,465,TePaske,4
-1526,Venezuela,310,TePaske,4
-1536,Venezuela,155,TePaske,4
-1546,Venezuela,78,TePaske,4
 1910,Venezuela,0.6,CLIO,1
 1911,Venezuela,1.3,CLIO,1
 1912,Venezuela,0.9,CLIO,1
@@ -7560,526 +7434,6 @@ year,country,production_tonnes,source,source_priority
 2010,Vietnam,3,CLIO,1
 2011,Vietnam,3,CLIO,1
 2012,Vietnam,3,CLIO,1
-1493,World,5.8,Castaneda,2
-1494,World,5.8,Castaneda,2
-1495,World,5.8,Castaneda,2
-1496,World,46.4,Soetbeer,3
-1497,World,5.8,Castaneda,2
-1498,World,5.8,Castaneda,2
-1499,World,5.8,Castaneda,2
-1500,World,5.8,Castaneda,2
-1501,World,5.8,Castaneda,2
-1502,World,5.8,Castaneda,2
-1503,World,5.8,Castaneda,2
-1504,World,5.8,Castaneda,2
-1505,World,5.8,Castaneda,2
-1506,World,58,Soetbeer,3
-1507,World,5.8,Castaneda,2
-1508,World,5.8,Castaneda,2
-1509,World,5.8,Castaneda,2
-1510,World,5.8,Castaneda,2
-1511,World,5.8,Castaneda,2
-1512,World,5.8,Castaneda,2
-1513,World,5.8,Castaneda,2
-1514,World,5.8,Castaneda,2
-1515,World,5.8,Castaneda,2
-1516,World,58,Soetbeer,3
-1517,World,5.8,Castaneda,2
-1518,World,5.8,Castaneda,2
-1519,World,5.8,Castaneda,2
-1520,World,5.8,Castaneda,2
-1521,World,7.16,Castaneda,2
-1522,World,7.16,Castaneda,2
-1523,World,7.16,Castaneda,2
-1524,World,7.16,Castaneda,2
-1525,World,7.16,Castaneda,2
-1526,World,71.6,Soetbeer,3
-1527,World,7.16,Castaneda,2
-1528,World,7.16,Castaneda,2
-1529,World,7.16,Castaneda,2
-1530,World,7.16,Castaneda,2
-1531,World,7.16,Castaneda,2
-1532,World,7.16,Castaneda,2
-1533,World,7.16,Castaneda,2
-1534,World,7.16,Castaneda,2
-1535,World,7.16,Castaneda,2
-1536,World,71.6,Soetbeer,3
-1537,World,7.16,Castaneda,2
-1538,World,7.16,Castaneda,2
-1539,World,7.16,Castaneda,2
-1540,World,7.16,Castaneda,2
-1541,World,7.16,Castaneda,2
-1542,World,7.16,Castaneda,2
-1543,World,7.16,Castaneda,2
-1544,World,7.16,Castaneda,2
-1545,World,8.5,Castaneda,2
-1546,World,78.35,Soetbeer,3
-1547,World,8.5,Castaneda,2
-1548,World,8.5,Castaneda,2
-1549,World,8.5,Castaneda,2
-1550,World,8.5,Castaneda,2
-1551,World,8.5,Castaneda,2
-1552,World,8.5,Castaneda,2
-1553,World,8.5,Castaneda,2
-1554,World,8.5,Castaneda,2
-1555,World,8.5,Castaneda,2
-1556,World,85.1,Soetbeer,3
-1557,World,8.5,Castaneda,2
-1558,World,8.5,Castaneda,2
-1559,World,8.5,Castaneda,2
-1560,World,8.5,Castaneda,2
-1561,World,6.84,Castaneda,2
-1562,World,6.84,Castaneda,2
-1563,World,6.84,Castaneda,2
-1564,World,6.84,Castaneda,2
-1565,World,6.84,Castaneda,2
-1566,World,68.4,Soetbeer,3
-1567,World,6.84,Castaneda,2
-1568,World,6.84,Castaneda,2
-1569,World,6.84,Castaneda,2
-1570,World,6.84,Castaneda,2
-1571,World,6.84,Castaneda,2
-1572,World,6.84,Castaneda,2
-1573,World,6.84,Castaneda,2
-1574,World,6.84,Castaneda,2
-1575,World,6.84,Castaneda,2
-1576,World,68.4,Soetbeer,3
-1577,World,6.84,Castaneda,2
-1578,World,6.84,Castaneda,2
-1579,World,6.84,Castaneda,2
-1580,World,6.84,Castaneda,2
-1581,World,7.38,Castaneda,2
-1582,World,7.38,Castaneda,2
-1583,World,7.38,Castaneda,2
-1584,World,7.38,Castaneda,2
-1585,World,7.38,Castaneda,2
-1586,World,73.8,Soetbeer,3
-1587,World,7.38,Castaneda,2
-1588,World,7.38,Castaneda,2
-1589,World,7.38,Castaneda,2
-1590,World,7.38,Castaneda,2
-1591,World,7.38,Castaneda,2
-1592,World,7.38,Castaneda,2
-1593,World,7.38,Castaneda,2
-1594,World,7.38,Castaneda,2
-1595,World,7.38,Castaneda,2
-1596,World,73.8,Soetbeer,3
-1597,World,7.38,Castaneda,2
-1598,World,7.38,Castaneda,2
-1599,World,7.38,Castaneda,2
-1600,World,7.38,Castaneda,2
-1601,World,8.52,Castaneda,2
-1602,World,8.52,Castaneda,2
-1603,World,8.52,Castaneda,2
-1604,World,8.52,Castaneda,2
-1605,World,8.52,Castaneda,2
-1606,World,85.2,Soetbeer,3
-1607,World,8.52,Castaneda,2
-1608,World,8.52,Castaneda,2
-1609,World,8.52,Castaneda,2
-1610,World,8.52,Castaneda,2
-1611,World,8.52,Castaneda,2
-1612,World,8.52,Castaneda,2
-1613,World,8.52,Castaneda,2
-1614,World,8.52,Castaneda,2
-1615,World,8.52,Castaneda,2
-1616,World,85.2,Soetbeer,3
-1617,World,8.52,Castaneda,2
-1618,World,8.52,Castaneda,2
-1619,World,8.52,Castaneda,2
-1620,World,8.52,Castaneda,2
-1621,World,8.3,Castaneda,2
-1622,World,8.3,Castaneda,2
-1623,World,8.3,Castaneda,2
-1624,World,8.3,Castaneda,2
-1625,World,8.3,Castaneda,2
-1626,World,83,Soetbeer,3
-1627,World,8.3,Castaneda,2
-1628,World,8.3,Castaneda,2
-1629,World,8.3,Castaneda,2
-1630,World,8.3,Castaneda,2
-1631,World,8.3,Castaneda,2
-1632,World,8.3,Castaneda,2
-1633,World,8.3,Castaneda,2
-1634,World,8.3,Castaneda,2
-1635,World,8.3,Castaneda,2
-1636,World,83,Soetbeer,3
-1637,World,8.3,Castaneda,2
-1638,World,8.3,Castaneda,2
-1639,World,8.3,Castaneda,2
-1640,World,8.3,Castaneda,2
-1641,World,8.77,Castaneda,2
-1642,World,8.77,Castaneda,2
-1643,World,8.77,Castaneda,2
-1644,World,8.77,Castaneda,2
-1645,World,8.77,Castaneda,2
-1646,World,87.77,Soetbeer,3
-1647,World,8.77,Castaneda,2
-1648,World,8.77,Castaneda,2
-1649,World,8.77,Castaneda,2
-1650,World,8.77,Castaneda,2
-1651,World,8.77,Castaneda,2
-1652,World,8.77,Castaneda,2
-1653,World,8.77,Castaneda,2
-1654,World,8.77,Castaneda,2
-1655,World,8.77,Castaneda,2
-1656,World,87.77,Soetbeer,3
-1657,World,8.77,Castaneda,2
-1658,World,8.77,Castaneda,2
-1659,World,8.77,Castaneda,2
-1660,World,8.77,Castaneda,2
-1661,World,9.26,Castaneda,2
-1662,World,9.26,Castaneda,2
-1663,World,9.26,Castaneda,2
-1664,World,9.26,Castaneda,2
-1665,World,9.26,Castaneda,2
-1666,World,92.6,Soetbeer,3
-1667,World,9.26,Castaneda,2
-1668,World,9.26,Castaneda,2
-1669,World,9.26,Castaneda,2
-1670,World,9.26,Castaneda,2
-1671,World,9.26,Castaneda,2
-1672,World,9.26,Castaneda,2
-1673,World,9.26,Castaneda,2
-1674,World,9.26,Castaneda,2
-1675,World,9.26,Castaneda,2
-1676,World,92.6,Soetbeer,3
-1677,World,9.26,Castaneda,2
-1678,World,9.26,Castaneda,2
-1679,World,9.26,Castaneda,2
-1680,World,9.26,Castaneda,2
-1681,World,10.76,Castaneda,2
-1682,World,10.76,Castaneda,2
-1683,World,10.76,Castaneda,2
-1684,World,10.76,Castaneda,2
-1685,World,10.76,Castaneda,2
-1686,World,107.65,Soetbeer,3
-1687,World,10.76,Castaneda,2
-1688,World,10.76,Castaneda,2
-1689,World,10.76,Castaneda,2
-1690,World,10.76,Castaneda,2
-1691,World,10.76,Castaneda,2
-1692,World,10.76,Castaneda,2
-1693,World,10.76,Castaneda,2
-1694,World,10.76,Castaneda,2
-1695,World,10.76,Castaneda,2
-1696,World,107.65,Soetbeer,3
-1697,World,10.76,Castaneda,2
-1698,World,10.76,Castaneda,2
-1699,World,10.76,Castaneda,2
-1700,World,10.76,Castaneda,2
-1701,World,12.82,Castaneda,2
-1702,World,12.82,Castaneda,2
-1703,World,12.82,Castaneda,2
-1704,World,12.82,Castaneda,2
-1705,World,12.82,Castaneda,2
-1706,World,128.2,Soetbeer,3
-1707,World,12.82,Castaneda,2
-1708,World,12.82,Castaneda,2
-1709,World,12.82,Castaneda,2
-1710,World,12.82,Castaneda,2
-1711,World,12.82,Castaneda,2
-1712,World,12.82,Castaneda,2
-1713,World,12.82,Castaneda,2
-1714,World,12.82,Castaneda,2
-1715,World,12.82,Castaneda,2
-1716,World,128.2,Soetbeer,3
-1717,World,12.82,Castaneda,2
-1718,World,12.82,Castaneda,2
-1719,World,12.82,Castaneda,2
-1720,World,12.82,Castaneda,2
-1721,World,19.08,Castaneda,2
-1722,World,19.08,Castaneda,2
-1723,World,19.08,Castaneda,2
-1724,World,19.08,Castaneda,2
-1725,World,19.08,Castaneda,2
-1726,World,190.8,Soetbeer,3
-1727,World,19.08,Castaneda,2
-1728,World,19.08,Castaneda,2
-1729,World,19.08,Castaneda,2
-1730,World,19.08,Castaneda,2
-1731,World,19.08,Castaneda,2
-1732,World,19.08,Castaneda,2
-1733,World,19.08,Castaneda,2
-1734,World,19.08,Castaneda,2
-1735,World,19.08,Castaneda,2
-1736,World,190.8,Soetbeer,3
-1737,World,19.08,Castaneda,2
-1738,World,19.08,Castaneda,2
-1739,World,19.08,Castaneda,2
-1740,World,19.08,Castaneda,2
-1741,World,24.61,Castaneda,2
-1742,World,24.61,Castaneda,2
-1743,World,24.61,Castaneda,2
-1744,World,24.61,Castaneda,2
-1745,World,24.61,Castaneda,2
-1746,World,246.1,Soetbeer,3
-1747,World,24.61,Castaneda,2
-1748,World,24.61,Castaneda,2
-1749,World,24.61,Castaneda,2
-1750,World,24.61,Castaneda,2
-1751,World,24.61,Castaneda,2
-1752,World,24.61,Castaneda,2
-1753,World,24.61,Castaneda,2
-1754,World,24.61,Castaneda,2
-1755,World,24.61,Castaneda,2
-1756,World,246.1,Soetbeer,3
-1757,World,24.61,Castaneda,2
-1758,World,24.61,Castaneda,2
-1759,World,24.61,Castaneda,2
-1760,World,24.61,Castaneda,2
-1761,World,20.7,Castaneda,2
-1762,World,20.7,Castaneda,2
-1763,World,20.7,Castaneda,2
-1764,World,20.7,Castaneda,2
-1765,World,20.7,Castaneda,2
-1766,World,207.05,Soetbeer,3
-1767,World,20.7,Castaneda,2
-1768,World,20.7,Castaneda,2
-1769,World,20.7,Castaneda,2
-1770,World,20.7,Castaneda,2
-1771,World,20.7,Castaneda,2
-1772,World,20.7,Castaneda,2
-1773,World,20.7,Castaneda,2
-1774,World,20.7,Castaneda,2
-1775,World,20.7,Castaneda,2
-1776,World,207.05,Soetbeer,3
-1777,World,20.7,Castaneda,2
-1778,World,20.7,Castaneda,2
-1779,World,20.7,Castaneda,2
-1780,World,20.7,Castaneda,2
-1781,World,17.79,Castaneda,2
-1782,World,17.79,Castaneda,2
-1783,World,17.79,Castaneda,2
-1784,World,17.79,Castaneda,2
-1785,World,17.79,Castaneda,2
-1786,World,177.9,Soetbeer,3
-1787,World,17.79,Castaneda,2
-1788,World,17.79,Castaneda,2
-1789,World,17.79,Castaneda,2
-1790,World,17.79,Castaneda,2
-1791,World,17.79,Castaneda,2
-1792,World,17.79,Castaneda,2
-1793,World,17.79,Castaneda,2
-1794,World,17.79,Castaneda,2
-1795,World,17.79,Castaneda,2
-1796,World,177.9,Soetbeer,3
-1797,World,17.79,Castaneda,2
-1798,World,17.79,Castaneda,2
-1799,World,17.79,Castaneda,2
-1800,World,17.79,Castaneda,2
-1801,World,17.78,Castaneda,2
-1802,World,17.78,Castaneda,2
-1803,World,17.78,Castaneda,2
-1804,World,17.78,Castaneda,2
-1805,World,17.78,Castaneda,2
-1806,World,177.78,Soetbeer,3
-1807,World,17.78,Castaneda,2
-1808,World,17.78,Castaneda,2
-1809,World,17.78,Castaneda,2
-1810,World,17.78,Castaneda,2
-1811,World,11.44,Castaneda,2
-1812,World,11.44,Castaneda,2
-1813,World,11.44,Castaneda,2
-1814,World,11.44,Castaneda,2
-1815,World,11.44,Castaneda,2
-1816,World,11.44,Castaneda,2
-1817,World,11.44,Castaneda,2
-1818,World,11.44,Castaneda,2
-1819,World,11.44,Castaneda,2
-1820,World,11.44,Castaneda,2
-1821,World,14.22,Castaneda,2
-1822,World,14.22,Castaneda,2
-1823,World,14.22,Castaneda,2
-1824,World,14.22,Castaneda,2
-1825,World,14.22,Castaneda,2
-1826,World,14.22,Castaneda,2
-1827,World,14.22,Castaneda,2
-1828,World,14.22,Castaneda,2
-1829,World,14.22,Castaneda,2
-1830,World,14.22,Castaneda,2
-1831,World,20.29,Castaneda,2
-1832,World,20.29,Castaneda,2
-1833,World,20.29,Castaneda,2
-1834,World,20.29,Castaneda,2
-1835,World,20.29,Castaneda,2
-1836,World,20.29,Castaneda,2
-1837,World,20.29,Castaneda,2
-1838,World,20.29,Castaneda,2
-1839,World,20.29,Castaneda,2
-1840,World,20.29,Castaneda,2
-1841,World,54.76,Castaneda,2
-1842,World,54.76,Castaneda,2
-1843,World,54.76,Castaneda,2
-1844,World,54.76,Castaneda,2
-1845,World,54.76,Castaneda,2
-1846,World,54.76,Castaneda,2
-1847,World,54.76,Castaneda,2
-1848,World,54.76,Castaneda,2
-1849,World,54.76,Castaneda,2
-1850,World,54.76,Castaneda,2
-1851,World,199.39,Castaneda,2
-1852,World,199.39,Castaneda,2
-1853,World,199.39,Castaneda,2
-1854,World,199.39,Castaneda,2
-1855,World,199.39,Castaneda,2
-1856,World,201.75,Castaneda,2
-1857,World,201.75,Castaneda,2
-1858,World,201.75,Castaneda,2
-1859,World,201.75,Castaneda,2
-1860,World,201.75,Castaneda,2
-1861,World,185.06,Castaneda,2
-1862,World,185.06,Castaneda,2
-1863,World,185.06,Castaneda,2
-1864,World,185.06,Castaneda,2
-1865,World,185.06,Castaneda,2
-1866,World,195.03,Castaneda,2
-1867,World,195.03,Castaneda,2
-1868,World,195.03,Castaneda,2
-1869,World,195.03,Castaneda,2
-1870,World,195.03,Castaneda,2
-1871,World,173.9,Castaneda,2
-1872,World,173.9,Castaneda,2
-1873,World,173.9,Castaneda,2
-1874,World,173.9,Castaneda,2
-1875,World,173.9,Castaneda,2
-1876,World,165.96,Castaneda,2
-1877,World,179.44,Castaneda,2
-1878,World,185.85,Castaneda,2
-1879,World,167.31,Castaneda,2
-1880,World,163.51,Castaneda,2
-1881,World,160.68,Castaneda,2
-1882,World,153.82,Castaneda,2
-1883,World,148.58,Castaneda,2
-1884,World,155.75,Castaneda,2
-1885,World,155.97,Castaneda,2
-1886,World,159.74,Castaneda,2
-1887,World,159.15,Castaneda,2
-1888,World,165.81,Castaneda,2
-1889,World,185.81,Castaneda,2
-1890,World,178.82,Castaneda,2
-1891,World,196.58,Castaneda,2
-1892,World,220.66,Castaneda,2
-1893,World,236.97,Castaneda,2
-1894,World,272.6,Castaneda,2
-1895,World,299.07,Castaneda,2
-1896,World,304.31,Castaneda,2
-1897,World,355.2,Castaneda,2
-1898,World,417.41,Castaneda,2
-1899,World,461.51,Castaneda,2
-1900,World,383.04,Castaneda,2
-1901,World,392.7,Castaneda,2
-1902,World,446.48,Castaneda,2
-1903,World,493.07,Castaneda,2
-1904,World,522.67,Castaneda,2
-1905,World,572.19,Castaneda,2
-1906,World,605.88,Castaneda,2
-1907,World,621.43,Castaneda,2
-1908,World,666.79,Castaneda,2
-1909,World,682.99,Castaneda,2
-1910,World,684.94,Castaneda,2
-1911,World,695.3,Castaneda,2
-1912,World,701.14,Castaneda,2
-1913,World,713.45,Castaneda,2
-1914,World,679.1,Castaneda,2
-1915,World,710.86,Castaneda,2
-1916,World,677.81,Castaneda,2
-1917,World,638.93,Castaneda,2
-1918,World,575.42,Castaneda,2
-1919,World,535.25,Castaneda,2
-1920,World,501.55,Castaneda,2
-1921,World,497.02,Castaneda,2
-1922,World,488.59,Castaneda,2
-1923,World,570.24,Castaneda,2
-1924,World,598.75,Castaneda,2
-1925,World,602.64,Castaneda,2
-1926,World,601.99,Castaneda,2
-1927,World,604.58,Castaneda,2
-1928,World,603.29,Castaneda,2
-1929,World,618.84,Castaneda,2
-1930,World,648,Castaneda,2
-1931,World,696.6,Castaneda,2
-1932,World,756.86,Castaneda,2
-1933,World,1378.3,Castaneda,2
-1934,World,849.53,Castaneda,2
-1935,World,920.16,Castaneda,2
-1936,World,1031.62,Castaneda,2
-1937,World,1088.64,Castaneda,2
-1938,World,1164.46,Castaneda,2
-1939,World,1215,Castaneda,2
-1940,World,1273.97,Castaneda,2
-1941,World,1224.07,Castaneda,2
-1942,World,1071.14,Castaneda,2
-1943,World,828.79,Castaneda,2
-1944,World,745.2,Castaneda,2
-1945,World,716.69,Castaneda,2
-1946,World,726.41,Castaneda,2
-1947,World,732.24,Castaneda,2
-1948,World,753.62,Castaneda,2
-1949,World,774.36,Castaneda,2
-1950,World,800.93,Castaneda,2
-1951,World,784.08,Castaneda,2
-1952,World,806.76,Castaneda,2
-1953,World,803.52,Castaneda,2
-1954,World,850.18,Castaneda,2
-1955,World,891,Castaneda,2
-1956,World,928.58,Castaneda,2
-1957,World,965.52,Castaneda,2
-1958,World,995.98,Castaneda,2
-1959,World,1067.9,Castaneda,2
-1960,World,1116.5,Castaneda,2
-1961,World,1151.5,Castaneda,2
-1962,World,1231.85,Castaneda,2
-1963,World,1308.96,Castaneda,2
-1964,World,1352.38,Castaneda,2
-1965,World,1382.83,Castaneda,2
-1966,World,1383.48,Castaneda,2
-1967,World,1354.32,Castaneda,2
-1968,World,1355.62,Castaneda,2
-1969,World,1355.62,Castaneda,2
-1970,World,1393.2,Castaneda,2
-1971,World,1355.62,Castaneda,2
-1972,World,1382.83,Castaneda,2
-1973,World,1350,Castaneda,2
-1974,World,1250,Castaneda,2
-1975,World,1200,Castaneda,2
-1976,World,1210,Castaneda,2
-1977,World,1210,Castaneda,2
-1978,World,1210,Castaneda,2
-1979,World,1210,Castaneda,2
-1980,World,1220,Castaneda,2
-1981,World,1280,Castaneda,2
-1982,World,1340,Castaneda,2
-1983,World,1400,Castaneda,2
-1984,World,1460,Castaneda,2
-1985,World,1530,Castaneda,2
-1986,World,1610,Castaneda,2
-1987,World,1660,Castaneda,2
-1988,World,1870,Castaneda,2
-1989,World,2010,Castaneda,2
-1990,World,2180,Castaneda,2
-1991,World,2160,Castaneda,2
-1992,World,2260,Castaneda,2
-1993,World,2280,Castaneda,2
-1994,World,2260,Castaneda,2
-1995,World,2230,Castaneda,2
-1996,World,2290,Castaneda,2
-1997,World,2450,Castaneda,2
-1998,World,2500,Castaneda,2
-1999,World,2570,Castaneda,2
-2000,World,2590,Castaneda,2
-2001,World,2600,Castaneda,2
-2002,World,2550,Castaneda,2
-2003,World,2540,Castaneda,2
-2004,World,2420,Castaneda,2
-2005,World,2470,Castaneda,2
-2006,World,2370,Castaneda,2
-2007,World,2360,Castaneda,2
-2008,World,2290,Castaneda,2
-2009,World,2450,Castaneda,2
-2010,World,2586,Castaneda,2
-2011,World,2809,Castaneda,2
-2012,World,2847.7,Castaneda,2
 1913,Zambia,0.0060100988972,CLIO,1
 1914,Zambia,0.0270170955143,CLIO,1
 1915,Zambia,0.0237002013116,CLIO,1
@@ -8294,3 +7648,921 @@ year,country,production_tonnes,source,source_priority
 2010,Zimbabwe,9.62,CLIO,1
 2011,Zimbabwe,12.993,CLIO,1
 2012,Zimbabwe,8.112,CLIO,1
+1795,United States,0,Craig,5
+1796,United States,0,Craig,5
+1797,United States,0,Craig,5
+1798,United States,0,Craig,5
+1799,United States,0,Craig,5
+1800,United States,0,Craig,5
+1801,United States,0,Craig,5
+1802,United States,0,Craig,5
+1803,United States,0,Craig,5
+1804,United States,0.0035458014911028376,Craig,5
+1805,United States,0.0035458014911028376,Craig,5
+1806,United States,0.0035458014911028376,Craig,5
+1807,United States,0.0035458014911028376,Craig,5
+1808,United States,0.0035458014911028376,Craig,5
+1809,United States,0.0035458014911028376,Craig,5
+1810,United States,0.0035458014911028376,Craig,5
+1811,United States,0.0035458014911028376,Craig,5
+1812,United States,0.0035458014911028376,Craig,5
+1813,United States,0.0035458014911028376,Craig,5
+1814,United States,0.0035458014911028376,Craig,5
+1815,United States,0.0035458014911028376,Craig,5
+1816,United States,0.0035458014911028376,Craig,5
+1817,United States,0.0035458014911028376,Craig,5
+1818,United States,0.0035458014911028376,Craig,5
+1819,United States,0.0035458014911028376,Craig,5
+1820,United States,0.0035458014911028376,Craig,5
+1821,United States,0.0035458014911028376,Craig,5
+1822,United States,0.0035458014911028376,Craig,5
+1823,United States,0.0035458014911028376,Craig,5
+1824,United States,0.007527052288130585,Craig,5
+1825,United States,0.025567094962162563,Craig,5
+1826,United States,0.03010820915252234,Craig,5
+1827,United States,0.031601178201407745,Craig,5
+1828,United States,0.06920533612020889,Craig,5
+1829,United States,0.21066415350210105,Craig,5
+1830,United States,0.701197796626512,Craig,5
+1831,United States,0.781942539353731,Craig,5
+1832,United States,1.020226620260212,Craig,5
+1833,United States,1.013601570105783,Craig,5
+1834,United States,1.351261403328699,Craig,5
+1835,United States,1.0319837515201846,Craig,5
+1836,United States,0.7027840762409527,Craig,5
+1837,United States,0.42437645214567643,Craig,5
+1838,United States,1.1064455828333442,Craig,5
+1839,United States,1.0849530492337647,Craig,5
+1840,United States,1.2389776894437756,Craig,5
+1841,United States,1.2209998538134472,Craig,5
+1842,United States,1.3136572454098978,Craig,5
+1843,United States,1.2305486350219434,Craig,5
+1844,United States,1.189771917874261,Craig,5
+1845,United States,1.1385133138625285,Craig,5
+1846,United States,1.0897429915989387,Craig,5
+1847,United States,1.087721262678573,Craig,5
+1848,United States,1.7566025001010863,Craig,5
+1849,United States,16.72371052574283,Craig,5
+1850,United States,63.19937046471772,Craig,5
+1851,United States,115.27030515665288,Craig,5
+1852,United States,125.94686896397279,Craig,5
+1853,United States,106.06444027657251,Craig,5
+1854,United States,108.55878721147596,Craig,5
+1855,United States,87.63280426242663,Craig,5
+1856,United States,90.62029753629004,Craig,5
+1857,United States,69.45724354368645,Craig,5
+1858,United States,78.79001079292208,Craig,5
+1859,United States,77.65796701160473,Craig,5
+1860,United States,75.64584907949127,Craig,5
+1861,United States,75.0833729903237,Craig,5
+1862,United States,74.34180282233358,Craig,5
+1863,United States,74.21972149906534,Craig,5
+1864,United States,86.43021769354944,Craig,5
+1865,United States,79.13003449380574,Craig,5
+1866,United States,87.76561630073373,Craig,5
+1867,United States,72.30190944520648,Craig,5
+1868,United States,73.6788312540629,Craig,5
+1869,United States,66.68433346707847,Craig,5
+1870,United States,64.6710647046565,Craig,5
+1871,United States,62.7558653466332,Craig,5
+1872,United States,52.26607818803323,Craig,5
+1873,United States,53.556781034316515,Craig,5
+1874,United States,54.644004640645456,Craig,5
+1875,United States,52.79741965182718,Craig,5
+1876,United States,59.170095829950824,Craig,5
+1877,United States,71.92854276889771,Craig,5
+1878,United States,79.2571234840921,Craig,5
+1879,United States,61.41698314500151,Craig,5
+1880,United States,57.24982659786568,Craig,5
+1881,United States,53.967285315716296,Craig,5
+1882,United States,49.494070113558955,Craig,5
+1883,United States,60.725582957758306,Craig,5
+1884,United States,46.31992460506303,Craig,5
+1885,United States,48.02626381385164,Craig,5
+1886,United States,52.525699284930035,Craig,5
+1887,United States,50.57725026204717,Craig,5
+1888,United States,48.69962395842081,Craig,5
+1889,United States,46.55251674147063,Craig,5
+1890,United States,48.966958728736856,Craig,5
+1891,United States,48.97902689521534,Craig,5
+1892,United States,50.70001586279614,Craig,5
+1893,United States,54.91227251661706,Craig,5
+1894,United States,64.34911214996873,Craig,5
+1895,United States,74.41038608801675,Craig,5
+1896,United States,84.18457451937283,Craig,5
+1897,United States,90.27069395067603,Craig,5
+1898,United States,97.60061211731004,Craig,5
+1899,United States,108.58681148466441,Craig,5
+1900,United States,119.70613392554439,Craig,5
+1901,United States,118.82242066269163,Craig,5
+1902,United States,120.81733834722105,Craig,5
+1903,United States,111.3547449977761,Craig,5
+1904,United States,121.27686177905925,Craig,5
+1905,United States,132.95592319918384,Craig,5
+1906,United States,145.52952190776563,Craig,5
+1907,United States,130.7135769983235,Craig,5
+1908,United States,138.50314301088312,Craig,5
+1909,United States,149.21538255776701,Craig,5
+1910,United States,142.55702053143477,Craig,5
+1911,United States,145.76379363435322,Craig,5
+1912,United States,138.91753523251438,Craig,5
+1913,United States,134.09406327078415,Craig,5
+1914,United States,137.42220231596824,Craig,5
+1915,United States,147.88094815976012,Craig,5
+1916,United States,137.38450484748387,Craig,5
+1917,United States,121.3103602720936,Craig,5
+1918,United States,99.92438733837832,Craig,5
+1919,United States,85.63651802293573,Craig,5
+1920,United States,74.11676884173595,Craig,5
+1921,United States,72.93806977764092,Craig,5
+1922,United States,71.32824479715838,Craig,5
+1923,United States,74.80123294360621,Craig,5
+1924,United States,76.0274270855689,Craig,5
+1925,United States,71.76745762922735,Craig,5
+1926,United States,69.44589075821055,Craig,5
+1927,United States,65.53686233892263,Craig,5
+1928,United States,66.81375522150373,Craig,5
+1929,United States,64.04255583859761,Craig,5
+1930,United States,66.48937659211153,Craig,5
+1931,United States,69.18331482673783,Craig,5
+1932,United States,72.45677388050649,Craig,5
+1933,United States,71.65352542868429,Craig,5
+1934,United States,86.43006217594018,Craig,5
+1935,United States,100.68054505811693,Craig,5
+1936,United States,117.65420348546066,Craig,5
+1937,United States,128.05565664200157,Craig,5
+1938,United States,132.64084452282532,Craig,5
+1939,United States,145.35671074035713,Craig,5
+1940,United States,151.47023237441175,Craig,5
+1941,United States,147.67056393795468,Craig,5
+1942,United States,104.86950517407085,Craig,5
+1943,United States,42.41944965428436,Craig,5
+1944,United States,31.053569595685317,Craig,5
+1945,United States,29.690830992793313,Craig,5
+1946,United States,48.974143642284616,Craig,5
+1947,United States,65.603517186251,Craig,5
+1948,United States,62.86768250769035,Craig,5
+1949,United States,61.95174599619915,Craig,5
+1950,United States,74.46889181261994,Craig,5
+1951,United States,61.605532694466994,Craig,5
+1952,United States,58.88630729657519,Craig,5
+1953,United States,60.41591629420199,Craig,5
+1954,United States,57.14687394053629,Craig,5
+1955,United States,58.47903778144799,Craig,5
+1956,United States,56.675748895047384,Craig,5
+1957,United States,55.78718348278576,Craig,5
+1958,United States,54.08370579800751,Craig,5
+1959,United States,49.6442690205812,Craig,5
+1960,United States,52.21161592127076,Craig,5
+1961,United States,48.15714743380393,Craig,5
+1962,United States,47.97643597184509,Craig,5
+1963,United States,45.20707169672822,Craig,5
+1964,United States,45.29070906698765,Craig,5
+1965,United States,53.0731523730432,Craig,5
+1966,United States,56.11196645796203,Craig,5
+1967,United States,49.296002886406825,Craig,5
+1968,United States,45.980989527444194,Craig,5
+1969,United States,53.90803310658866,Craig,5
+1970,United States,54.35595492477613,Craig,5
+1971,United States,47.17632897572992,Craig,5
+1972,United States,45.16486421757536,Craig,5
+1973,United States,36.84345908487218,Craig,5
+1974,United States,35.30918455896761,Craig,5
+1975,United States,32.75714059102912,Craig,5
+1976,United States,32.625230554855726,Craig,5
+1977,United States,35.197056362691946,Craig,5
+1978,United States,32.53854503945482,Craig,5
+1979,United States,29.332518421060815,Craig,5
+1980,United States,33.12416214888012,Craig,5
+1981,United States,47.35738257642913,Craig,5
+1982,United States,51.439533198344044,Craig,5
+1983,United States,68.30118784349952,Craig,5
+1984,United States,71.3450095954365,Craig,5
+1985,United States,82.0022892192083,Craig,5
+1986,United States,120.11477199563306,Craig,5
+1987,United States,157.89177218536454,Craig,5
+1988,United States,205.13198779497802,Craig,5
+1989,United States,269.65266697148115,Craig,5
+1990,United States,295.1217547362888,Craig,5
+1991,United States,295.6841375148908,Craig,5
+1992,United States,330.6942928147754,Craig,5
+1993,United States,333.7058602145521,Craig,5
+1994,United States,327.51314901386286,Craig,5
+1995,United States,321.29813658800583,Craig,5
+1493,World,5.8,Castaneda,2
+1494,World,5.8,Castaneda,2
+1495,World,5.8,Castaneda,2
+1496,World,5.8,Castaneda,2
+1497,World,5.8,Castaneda,2
+1498,World,5.8,Castaneda,2
+1499,World,5.8,Castaneda,2
+1500,World,5.8,Castaneda,2
+1501,World,5.8,Castaneda,2
+1502,World,5.8,Castaneda,2
+1503,World,5.8,Castaneda,2
+1504,World,5.8,Castaneda,2
+1505,World,5.8,Castaneda,2
+1506,World,5.8,Castaneda,2
+1507,World,5.8,Castaneda,2
+1508,World,5.8,Castaneda,2
+1509,World,5.8,Castaneda,2
+1510,World,5.8,Castaneda,2
+1511,World,5.8,Castaneda,2
+1512,World,5.8,Castaneda,2
+1513,World,5.8,Castaneda,2
+1514,World,5.8,Castaneda,2
+1515,World,5.8,Castaneda,2
+1516,World,5.8,Castaneda,2
+1517,World,5.8,Castaneda,2
+1518,World,5.8,Castaneda,2
+1519,World,5.8,Castaneda,2
+1520,World,5.8,Castaneda,2
+1521,World,7.16,Castaneda,2
+1522,World,7.16,Castaneda,2
+1523,World,7.16,Castaneda,2
+1524,World,7.16,Castaneda,2
+1525,World,7.16,Castaneda,2
+1526,World,7.16,Castaneda,2
+1527,World,7.16,Castaneda,2
+1528,World,7.16,Castaneda,2
+1529,World,7.16,Castaneda,2
+1530,World,7.16,Castaneda,2
+1531,World,7.16,Castaneda,2
+1532,World,7.16,Castaneda,2
+1533,World,7.16,Castaneda,2
+1534,World,7.16,Castaneda,2
+1535,World,7.16,Castaneda,2
+1536,World,7.16,Castaneda,2
+1537,World,7.16,Castaneda,2
+1538,World,7.16,Castaneda,2
+1539,World,7.16,Castaneda,2
+1540,World,7.16,Castaneda,2
+1541,World,7.16,Castaneda,2
+1542,World,7.16,Castaneda,2
+1543,World,7.16,Castaneda,2
+1544,World,7.16,Castaneda,2
+1545,World,8.5,Castaneda,2
+1546,World,8.5,Castaneda,2
+1547,World,8.5,Castaneda,2
+1548,World,8.5,Castaneda,2
+1549,World,8.5,Castaneda,2
+1550,World,8.5,Castaneda,2
+1551,World,8.5,Castaneda,2
+1552,World,8.5,Castaneda,2
+1553,World,8.5,Castaneda,2
+1554,World,8.5,Castaneda,2
+1555,World,8.5,Castaneda,2
+1556,World,8.5,Castaneda,2
+1557,World,8.5,Castaneda,2
+1558,World,8.5,Castaneda,2
+1559,World,8.5,Castaneda,2
+1560,World,8.5,Castaneda,2
+1561,World,6.84,Castaneda,2
+1562,World,6.84,Castaneda,2
+1563,World,6.84,Castaneda,2
+1564,World,6.84,Castaneda,2
+1565,World,6.84,Castaneda,2
+1566,World,6.84,Castaneda,2
+1567,World,6.84,Castaneda,2
+1568,World,6.84,Castaneda,2
+1569,World,6.84,Castaneda,2
+1570,World,6.84,Castaneda,2
+1571,World,6.84,Castaneda,2
+1572,World,6.84,Castaneda,2
+1573,World,6.84,Castaneda,2
+1574,World,6.84,Castaneda,2
+1575,World,6.84,Castaneda,2
+1576,World,6.84,Castaneda,2
+1577,World,6.84,Castaneda,2
+1578,World,6.84,Castaneda,2
+1579,World,6.84,Castaneda,2
+1580,World,6.84,Castaneda,2
+1581,World,7.38,Castaneda,2
+1582,World,7.38,Castaneda,2
+1583,World,7.38,Castaneda,2
+1584,World,7.38,Castaneda,2
+1585,World,7.38,Castaneda,2
+1586,World,7.38,Castaneda,2
+1587,World,7.38,Castaneda,2
+1588,World,7.38,Castaneda,2
+1589,World,7.38,Castaneda,2
+1590,World,7.38,Castaneda,2
+1591,World,7.38,Castaneda,2
+1592,World,7.38,Castaneda,2
+1593,World,7.38,Castaneda,2
+1594,World,7.38,Castaneda,2
+1595,World,7.38,Castaneda,2
+1596,World,7.38,Castaneda,2
+1597,World,7.38,Castaneda,2
+1598,World,7.38,Castaneda,2
+1599,World,7.38,Castaneda,2
+1600,World,7.38,Castaneda,2
+1601,World,8.52,Castaneda,2
+1602,World,8.52,Castaneda,2
+1603,World,8.52,Castaneda,2
+1604,World,8.52,Castaneda,2
+1605,World,8.52,Castaneda,2
+1606,World,8.52,Castaneda,2
+1607,World,8.52,Castaneda,2
+1608,World,8.52,Castaneda,2
+1609,World,8.52,Castaneda,2
+1610,World,8.52,Castaneda,2
+1611,World,8.52,Castaneda,2
+1612,World,8.52,Castaneda,2
+1613,World,8.52,Castaneda,2
+1614,World,8.52,Castaneda,2
+1615,World,8.52,Castaneda,2
+1616,World,8.52,Castaneda,2
+1617,World,8.52,Castaneda,2
+1618,World,8.52,Castaneda,2
+1619,World,8.52,Castaneda,2
+1620,World,8.52,Castaneda,2
+1621,World,8.3,Castaneda,2
+1622,World,8.3,Castaneda,2
+1623,World,8.3,Castaneda,2
+1624,World,8.3,Castaneda,2
+1625,World,8.3,Castaneda,2
+1626,World,8.3,Castaneda,2
+1627,World,8.3,Castaneda,2
+1628,World,8.3,Castaneda,2
+1629,World,8.3,Castaneda,2
+1630,World,8.3,Castaneda,2
+1631,World,8.3,Castaneda,2
+1632,World,8.3,Castaneda,2
+1633,World,8.3,Castaneda,2
+1634,World,8.3,Castaneda,2
+1635,World,8.3,Castaneda,2
+1636,World,8.3,Castaneda,2
+1637,World,8.3,Castaneda,2
+1638,World,8.3,Castaneda,2
+1639,World,8.3,Castaneda,2
+1640,World,8.3,Castaneda,2
+1641,World,8.77,Castaneda,2
+1642,World,8.77,Castaneda,2
+1643,World,8.77,Castaneda,2
+1644,World,8.77,Castaneda,2
+1645,World,8.77,Castaneda,2
+1646,World,8.77,Castaneda,2
+1647,World,8.77,Castaneda,2
+1648,World,8.77,Castaneda,2
+1649,World,8.77,Castaneda,2
+1650,World,8.77,Castaneda,2
+1651,World,8.77,Castaneda,2
+1652,World,8.77,Castaneda,2
+1653,World,8.77,Castaneda,2
+1654,World,8.77,Castaneda,2
+1655,World,8.77,Castaneda,2
+1656,World,8.77,Castaneda,2
+1657,World,8.77,Castaneda,2
+1658,World,8.77,Castaneda,2
+1659,World,8.77,Castaneda,2
+1660,World,8.77,Castaneda,2
+1661,World,9.26,Castaneda,2
+1662,World,9.26,Castaneda,2
+1663,World,9.26,Castaneda,2
+1664,World,9.26,Castaneda,2
+1665,World,9.26,Castaneda,2
+1666,World,9.26,Castaneda,2
+1667,World,9.26,Castaneda,2
+1668,World,9.26,Castaneda,2
+1669,World,9.26,Castaneda,2
+1670,World,9.26,Castaneda,2
+1671,World,9.26,Castaneda,2
+1672,World,9.26,Castaneda,2
+1673,World,9.26,Castaneda,2
+1674,World,9.26,Castaneda,2
+1675,World,9.26,Castaneda,2
+1676,World,9.26,Castaneda,2
+1677,World,9.26,Castaneda,2
+1678,World,9.26,Castaneda,2
+1679,World,9.26,Castaneda,2
+1680,World,9.26,Castaneda,2
+1681,World,10.76,Castaneda,2
+1682,World,10.76,Castaneda,2
+1683,World,10.76,Castaneda,2
+1684,World,10.76,Castaneda,2
+1685,World,10.76,Castaneda,2
+1686,World,10.76,Castaneda,2
+1687,World,10.76,Castaneda,2
+1688,World,10.76,Castaneda,2
+1689,World,10.76,Castaneda,2
+1690,World,10.76,Castaneda,2
+1691,World,10.76,Castaneda,2
+1692,World,10.76,Castaneda,2
+1693,World,10.76,Castaneda,2
+1694,World,10.76,Castaneda,2
+1695,World,10.76,Castaneda,2
+1696,World,10.76,Castaneda,2
+1697,World,10.76,Castaneda,2
+1698,World,10.76,Castaneda,2
+1699,World,10.76,Castaneda,2
+1700,World,10.76,Castaneda,2
+1701,World,12.82,Castaneda,2
+1702,World,12.82,Castaneda,2
+1703,World,12.82,Castaneda,2
+1704,World,12.82,Castaneda,2
+1705,World,12.82,Castaneda,2
+1706,World,12.82,Castaneda,2
+1707,World,12.82,Castaneda,2
+1708,World,12.82,Castaneda,2
+1709,World,12.82,Castaneda,2
+1710,World,12.82,Castaneda,2
+1711,World,12.82,Castaneda,2
+1712,World,12.82,Castaneda,2
+1713,World,12.82,Castaneda,2
+1714,World,12.82,Castaneda,2
+1715,World,12.82,Castaneda,2
+1716,World,12.82,Castaneda,2
+1717,World,12.82,Castaneda,2
+1718,World,12.82,Castaneda,2
+1719,World,12.82,Castaneda,2
+1720,World,12.82,Castaneda,2
+1721,World,19.08,Castaneda,2
+1722,World,19.08,Castaneda,2
+1723,World,19.08,Castaneda,2
+1724,World,19.08,Castaneda,2
+1725,World,19.08,Castaneda,2
+1726,World,19.08,Castaneda,2
+1727,World,19.08,Castaneda,2
+1728,World,19.08,Castaneda,2
+1729,World,19.08,Castaneda,2
+1730,World,19.08,Castaneda,2
+1731,World,19.08,Castaneda,2
+1732,World,19.08,Castaneda,2
+1733,World,19.08,Castaneda,2
+1734,World,19.08,Castaneda,2
+1735,World,19.08,Castaneda,2
+1736,World,19.08,Castaneda,2
+1737,World,19.08,Castaneda,2
+1738,World,19.08,Castaneda,2
+1739,World,19.08,Castaneda,2
+1740,World,19.08,Castaneda,2
+1741,World,24.61,Castaneda,2
+1742,World,24.61,Castaneda,2
+1743,World,24.61,Castaneda,2
+1744,World,24.61,Castaneda,2
+1745,World,24.61,Castaneda,2
+1746,World,24.61,Castaneda,2
+1747,World,24.61,Castaneda,2
+1748,World,24.61,Castaneda,2
+1749,World,24.61,Castaneda,2
+1750,World,24.61,Castaneda,2
+1751,World,24.61,Castaneda,2
+1752,World,24.61,Castaneda,2
+1753,World,24.61,Castaneda,2
+1754,World,24.61,Castaneda,2
+1755,World,24.61,Castaneda,2
+1756,World,24.61,Castaneda,2
+1757,World,24.61,Castaneda,2
+1758,World,24.61,Castaneda,2
+1759,World,24.61,Castaneda,2
+1760,World,24.61,Castaneda,2
+1761,World,20.7,Castaneda,2
+1762,World,20.7,Castaneda,2
+1763,World,20.7,Castaneda,2
+1764,World,20.7,Castaneda,2
+1765,World,20.7,Castaneda,2
+1766,World,20.7,Castaneda,2
+1767,World,20.7,Castaneda,2
+1768,World,20.7,Castaneda,2
+1769,World,20.7,Castaneda,2
+1770,World,20.7,Castaneda,2
+1771,World,20.7,Castaneda,2
+1772,World,20.7,Castaneda,2
+1773,World,20.7,Castaneda,2
+1774,World,20.7,Castaneda,2
+1775,World,20.7,Castaneda,2
+1776,World,20.7,Castaneda,2
+1777,World,20.7,Castaneda,2
+1778,World,20.7,Castaneda,2
+1779,World,20.7,Castaneda,2
+1780,World,20.7,Castaneda,2
+1781,World,17.79,Castaneda,2
+1782,World,17.79,Castaneda,2
+1783,World,17.79,Castaneda,2
+1784,World,17.79,Castaneda,2
+1785,World,17.79,Castaneda,2
+1786,World,17.79,Castaneda,2
+1787,World,17.79,Castaneda,2
+1788,World,17.79,Castaneda,2
+1789,World,17.79,Castaneda,2
+1790,World,17.79,Castaneda,2
+1791,World,17.79,Castaneda,2
+1792,World,17.79,Castaneda,2
+1793,World,17.79,Castaneda,2
+1794,World,17.79,Castaneda,2
+1795,World,17.79,Castaneda,2
+1796,World,17.79,Castaneda,2
+1797,World,17.79,Castaneda,2
+1798,World,17.79,Castaneda,2
+1799,World,17.79,Castaneda,2
+1800,World,17.79,Castaneda,2
+1801,World,17.78,Castaneda,2
+1802,World,17.78,Castaneda,2
+1803,World,17.78,Castaneda,2
+1804,World,17.78,Castaneda,2
+1805,World,17.78,Castaneda,2
+1806,World,17.78,Castaneda,2
+1807,World,17.78,Castaneda,2
+1808,World,17.78,Castaneda,2
+1809,World,17.78,Castaneda,2
+1810,World,17.78,Castaneda,2
+1811,World,11.44,Castaneda,2
+1812,World,11.44,Castaneda,2
+1813,World,11.44,Castaneda,2
+1814,World,11.44,Castaneda,2
+1815,World,11.44,Castaneda,2
+1816,World,11.44,Castaneda,2
+1817,World,11.44,Castaneda,2
+1818,World,11.44,Castaneda,2
+1819,World,11.44,Castaneda,2
+1820,World,11.44,Castaneda,2
+1821,World,14.22,Castaneda,2
+1822,World,14.22,Castaneda,2
+1823,World,14.22,Castaneda,2
+1824,World,14.22,Castaneda,2
+1825,World,14.22,Castaneda,2
+1826,World,14.22,Castaneda,2
+1827,World,14.22,Castaneda,2
+1828,World,14.22,Castaneda,2
+1829,World,14.22,Castaneda,2
+1830,World,14.22,Castaneda,2
+1831,World,20.29,Castaneda,2
+1832,World,20.29,Castaneda,2
+1833,World,20.29,Castaneda,2
+1834,World,20.29,Castaneda,2
+1835,World,20.29,Castaneda,2
+1836,World,20.29,Castaneda,2
+1837,World,20.29,Castaneda,2
+1838,World,20.29,Castaneda,2
+1839,World,20.29,Castaneda,2
+1840,World,20.29,Castaneda,2
+1841,World,54.76,Castaneda,2
+1842,World,54.76,Castaneda,2
+1843,World,54.76,Castaneda,2
+1844,World,54.76,Castaneda,2
+1845,World,54.76,Castaneda,2
+1846,World,54.76,Castaneda,2
+1847,World,54.76,Castaneda,2
+1848,World,54.76,Castaneda,2
+1849,World,54.76,Castaneda,2
+1850,World,54.76,Castaneda,2
+1851,World,199.39,Castaneda,2
+1852,World,199.39,Castaneda,2
+1853,World,199.39,Castaneda,2
+1854,World,199.39,Castaneda,2
+1855,World,199.39,Castaneda,2
+1856,World,201.75,Castaneda,2
+1857,World,201.75,Castaneda,2
+1858,World,201.75,Castaneda,2
+1859,World,201.75,Castaneda,2
+1860,World,201.75,Castaneda,2
+1861,World,185.06,Castaneda,2
+1862,World,185.06,Castaneda,2
+1863,World,185.06,Castaneda,2
+1864,World,185.06,Castaneda,2
+1865,World,185.06,Castaneda,2
+1866,World,195.03,Castaneda,2
+1867,World,195.03,Castaneda,2
+1868,World,195.03,Castaneda,2
+1869,World,195.03,Castaneda,2
+1870,World,195.03,Castaneda,2
+1871,World,173.9,Castaneda,2
+1872,World,173.9,Castaneda,2
+1873,World,173.9,Castaneda,2
+1874,World,173.9,Castaneda,2
+1875,World,173.9,Castaneda,2
+1876,World,165.96,Castaneda,2
+1877,World,179.44,Castaneda,2
+1878,World,185.85,Castaneda,2
+1879,World,167.31,Castaneda,2
+1880,World,163.51,Castaneda,2
+1881,World,160.68,Castaneda,2
+1882,World,153.82,Castaneda,2
+1883,World,148.58,Castaneda,2
+1884,World,155.75,Castaneda,2
+1885,World,155.97,Castaneda,2
+1886,World,159.74,Castaneda,2
+1887,World,159.15,Castaneda,2
+1888,World,165.81,Castaneda,2
+1889,World,185.81,Castaneda,2
+1890,World,178.82,Castaneda,2
+1891,World,196.58,Castaneda,2
+1892,World,220.66,Castaneda,2
+1893,World,236.97,Castaneda,2
+1894,World,272.6,Castaneda,2
+1895,World,299.07,Castaneda,2
+1896,World,304.31,Castaneda,2
+1897,World,355.2,Castaneda,2
+1898,World,417.41,Castaneda,2
+1899,World,461.51,Castaneda,2
+1900,World,383.04,Castaneda,2
+1901,World,392.7,Castaneda,2
+1902,World,446.48,Castaneda,2
+1903,World,493.07,Castaneda,2
+1904,World,522.67,Castaneda,2
+1905,World,572.19,Castaneda,2
+1906,World,605.88,Castaneda,2
+1907,World,621.43,Castaneda,2
+1908,World,666.79,Castaneda,2
+1909,World,682.99,Castaneda,2
+1910,World,684.94,Castaneda,2
+1911,World,695.3,Castaneda,2
+1912,World,701.14,Castaneda,2
+1913,World,713.45,Castaneda,2
+1914,World,679.1,Castaneda,2
+1915,World,710.86,Castaneda,2
+1916,World,677.81,Castaneda,2
+1917,World,638.93,Castaneda,2
+1918,World,575.42,Castaneda,2
+1919,World,535.25,Castaneda,2
+1920,World,501.55,Castaneda,2
+1921,World,497.02,Castaneda,2
+1922,World,488.59,Castaneda,2
+1923,World,570.24,Castaneda,2
+1924,World,598.75,Castaneda,2
+1925,World,602.64,Castaneda,2
+1926,World,601.99,Castaneda,2
+1927,World,604.58,Castaneda,2
+1928,World,603.29,Castaneda,2
+1929,World,618.84,Castaneda,2
+1930,World,648,Castaneda,2
+1931,World,696.6,Castaneda,2
+1932,World,756.86,Castaneda,2
+1933,World,1378.3,Castaneda,2
+1934,World,849.53,Castaneda,2
+1935,World,920.16,Castaneda,2
+1936,World,1031.62,Castaneda,2
+1937,World,1088.64,Castaneda,2
+1938,World,1164.46,Castaneda,2
+1939,World,1215,Castaneda,2
+1940,World,1273.97,Castaneda,2
+1941,World,1224.07,Castaneda,2
+1942,World,1071.14,Castaneda,2
+1943,World,828.79,Castaneda,2
+1944,World,745.2,Castaneda,2
+1945,World,716.69,Castaneda,2
+1946,World,726.41,Castaneda,2
+1947,World,732.24,Castaneda,2
+1948,World,753.62,Castaneda,2
+1949,World,774.36,Castaneda,2
+1950,World,800.93,Castaneda,2
+1951,World,784.08,Castaneda,2
+1952,World,806.76,Castaneda,2
+1953,World,803.52,Castaneda,2
+1954,World,850.18,Castaneda,2
+1955,World,891,Castaneda,2
+1956,World,928.58,Castaneda,2
+1957,World,965.52,Castaneda,2
+1958,World,995.98,Castaneda,2
+1959,World,1067.9,Castaneda,2
+1960,World,1116.5,Castaneda,2
+1961,World,1151.5,Castaneda,2
+1962,World,1231.85,Castaneda,2
+1963,World,1308.96,Castaneda,2
+1964,World,1352.38,Castaneda,2
+1965,World,1382.83,Castaneda,2
+1966,World,1383.48,Castaneda,2
+1967,World,1354.32,Castaneda,2
+1968,World,1355.62,Castaneda,2
+1969,World,1355.62,Castaneda,2
+1970,World,1393.2,Castaneda,2
+1971,World,1355.62,Castaneda,2
+1972,World,1382.83,Castaneda,2
+1973,World,1350,Castaneda,2
+1974,World,1250,Castaneda,2
+1975,World,1200,Castaneda,2
+1976,World,1210,Castaneda,2
+1977,World,1210,Castaneda,2
+1978,World,1210,Castaneda,2
+1979,World,1210,Castaneda,2
+1980,World,1220,Castaneda,2
+1981,World,1280,Castaneda,2
+1982,World,1340,Castaneda,2
+1983,World,1400,Castaneda,2
+1984,World,1460,Castaneda,2
+1985,World,1530,Castaneda,2
+1986,World,1610,Castaneda,2
+1987,World,1660,Castaneda,2
+1988,World,1870,Castaneda,2
+1989,World,2010,Castaneda,2
+1990,World,2180,Castaneda,2
+1991,World,2160,Castaneda,2
+1992,World,2260,Castaneda,2
+1993,World,2280,Castaneda,2
+1994,World,2260,Castaneda,2
+1995,World,2230,Castaneda,2
+1996,World,2290,Castaneda,2
+1997,World,2450,Castaneda,2
+1998,World,2500,Castaneda,2
+1999,World,2570,Castaneda,2
+2000,World,2590,Castaneda,2
+2001,World,2600,Castaneda,2
+2002,World,2550,Castaneda,2
+2003,World,2540,Castaneda,2
+2004,World,2420,Castaneda,2
+2005,World,2470,Castaneda,2
+2006,World,2370,Castaneda,2
+2007,World,2360,Castaneda,2
+2008,World,2290,Castaneda,2
+2009,World,2450,Castaneda,2
+2010,World,2586,Castaneda,2
+2011,World,2809,Castaneda,2
+2012,World,2847.7,Castaneda,2
+1496,World,46.4,Soetbeer,3
+1506,World,58,Soetbeer,3
+1516,World,58,Soetbeer,3
+1526,World,71.6,Soetbeer,3
+1536,World,71.6,Soetbeer,3
+1546,World,78.35,Soetbeer,3
+1556,World,85.1,Soetbeer,3
+1566,World,68.4,Soetbeer,3
+1576,World,68.4,Soetbeer,3
+1586,World,73.8,Soetbeer,3
+1596,World,73.8,Soetbeer,3
+1606,World,85.2,Soetbeer,3
+1616,World,85.2,Soetbeer,3
+1626,World,83,Soetbeer,3
+1636,World,83,Soetbeer,3
+1646,World,87.77,Soetbeer,3
+1656,World,87.77,Soetbeer,3
+1666,World,92.6,Soetbeer,3
+1676,World,92.6,Soetbeer,3
+1686,World,107.65,Soetbeer,3
+1696,World,107.65,Soetbeer,3
+1706,World,128.2,Soetbeer,3
+1716,World,128.2,Soetbeer,3
+1726,World,190.8,Soetbeer,3
+1736,World,190.8,Soetbeer,3
+1746,World,246.1,Soetbeer,3
+1756,World,246.1,Soetbeer,3
+1766,World,207.05,Soetbeer,3
+1776,World,207.05,Soetbeer,3
+1786,World,177.9,Soetbeer,3
+1796,World,177.9,Soetbeer,3
+1806,World,177.78,Soetbeer,3
+1496,Dominican Republic,1086,TePaske,4
+1506,Dominican Republic,12020,TePaske,4
+1506,Puerto Rico,118,TePaske,4
+1506,Venezuela,620,TePaske,4
+1516,Cuba,1799,TePaske,4
+1516,Dominican Republic,7135,TePaske,4
+1516,Puerto Rico,1777,TePaske,4
+1516,Venezuela,465,TePaske,4
+1526,Cuba,807,TePaske,4
+1526,Dominican Republic,1152,TePaske,4
+1526,Mexico,2358,TePaske,4
+1526,Puerto Rico,1450,TePaske,4
+1526,Venezuela,310,TePaske,4
+1536,Cuba,473,TePaske,4
+1536,Ecuador,257,TePaske,4
+1536,Dominican Republic,1087,TePaske,4
+1536,Mexico,3769,TePaske,4
+1536,Colombia,2264,TePaske,4
+1536,Peru,8541,TePaske,4
+1536,Puerto Rico,689,TePaske,4
+1536,Venezuela,155,TePaske,4
+1546,Chile,3102,TePaske,4
+1546,Cuba,119,TePaske,4
+1546,Ecuador,868,TePaske,4
+1546,Dominican Republic,855,TePaske,4
+1546,Mexico,1256,TePaske,4
+1546,Colombia,2089,TePaske,4
+1546,Peru,4827,TePaske,4
+1546,Puerto Rico,341,TePaske,4
+1546,Venezuela,78,TePaske,4
+1553,Dominican Republic,53,TePaske,4
+1556,Chile,4653,TePaske,4
+1556,Ecuador,2549,TePaske,4
+1556,Mexico,124,TePaske,4
+1556,Colombia,5593,TePaske,4
+1556,Peru,3533,TePaske,4
+1566,Chile,159,TePaske,4
+1566,Ecuador,3226,TePaske,4
+1566,Mexico,124,TePaske,4
+1566,Colombia,7604,TePaske,4
+1566,Peru,1183,TePaske,4
+1576,Chile,4873,TePaske,4
+1576,Ecuador,6143,TePaske,4
+1576,Mexico,78,TePaske,4
+1576,Colombia,7977,TePaske,4
+1576,Peru,1104,TePaske,4
+1586,Chile,1551,TePaske,4
+1586,Ecuador,6442,TePaske,4
+1586,Mexico,82,TePaske,4
+1586,Colombia,6728,TePaske,4
+1586,Peru,1002,TePaske,4
+1596,Chile,776,TePaske,4
+1596,Ecuador,3486,TePaske,4
+1596,Mexico,1483,TePaske,4
+1596,Colombia,12541,TePaske,4
+1596,Peru,161,TePaske,4
+1606,Chile,155,TePaske,4
+1606,Ecuador,2076,TePaske,4
+1606,Mexico,3535,TePaske,4
+1606,Colombia,13934,TePaske,4
+1606,Peru,80,TePaske,4
+1616,Chile,71,TePaske,4
+1616,Ecuador,927,TePaske,4
+1616,Mexico,4010,TePaske,4
+1616,Colombia,11153,TePaske,4
+1616,Peru,1,TePaske,4
+1626,Chile,23,TePaske,4
+1626,Ecuador,1985,TePaske,4
+1626,Mexico,4428,TePaske,4
+1626,Colombia,8951,TePaske,4
+1636,Chile,19,TePaske,4
+1636,Ecuador,635,TePaske,4
+1636,Mexico,3924,TePaske,4
+1636,Colombia,3548,TePaske,4
+1646,Ecuador,131,TePaske,4
+1646,Mexico,2427,TePaske,4
+1646,Colombia,7885,TePaske,4
+1656,Ecuador,202,TePaske,4
+1656,Mexico,2687,TePaske,4
+1656,Colombia,7540,TePaske,4
+1656,Peru,2,TePaske,4
+1666,Ecuador,233,TePaske,4
+1666,Mexico,2943,TePaske,4
+1666,Colombia,4105,TePaske,4
+1666,Peru,70,TePaske,4
+1676,Ecuador,194,TePaske,4
+1676,Mexico,2372,TePaske,4
+1676,Colombia,4406,TePaske,4
+1676,Peru,80,TePaske,4
+1686,Ecuador,194,TePaske,4
+1686,Mexico,2186,TePaske,4
+1686,Colombia,6437,TePaske,4
+1686,Peru,267,TePaske,4
+1696,Brazil,8654,TePaske,4
+1696,Chile,60,TePaske,4
+1696,Ecuador,339,TePaske,4
+1696,Mexico,2740,TePaske,4
+1696,Colombia,4950,TePaske,4
+1696,Peru,550,TePaske,4
+1706,Brazil,86540,TePaske,4
+1706,Chile,15,TePaske,4
+1706,Ecuador,291,TePaske,4
+1706,Mexico,2212,TePaske,4
+1706,Colombia,5140,TePaske,4
+1706,Peru,620,TePaske,4
+1716,Brazil,93126,TePaske,4
+1716,Chile,188,TePaske,4
+1716,Ecuador,339,TePaske,4
+1716,Mexico,2498,TePaske,4
+1716,Colombia,7499,TePaske,4
+1716,Peru,404,TePaske,4
+1726,Brazil,206630,TePaske,4
+1726,Chile,254,TePaske,4
+1726,Ecuador,144,TePaske,4
+1726,Mexico,2555,TePaske,4
+1726,Colombia,8570,TePaske,4
+1726,Peru,332,TePaske,4
+1736,Brazil,275860,TePaske,4
+1736,Chile,426,TePaske,4
+1736,Ecuador,96,TePaske,4
+1736,Mexico,4816,TePaske,4
+1736,Colombia,10210,TePaske,4
+1736,Peru,286,TePaske,4
+1746,Brazil,290860,TePaske,4
+1746,Chile,709,TePaske,4
+1746,Ecuador,48,TePaske,4
+1746,Mexico,7411,TePaske,4
+1746,Colombia,14793,TePaske,4
+1746,Peru,257,TePaske,4
+1756,Brazil,223360,TePaske,4
+1756,Chile,1108,TePaske,4
+1756,Ecuador,2012,TePaske,4
+1756,Mexico,7493,TePaske,4
+1756,Colombia,17759,TePaske,4
+1756,Peru,191,TePaske,4
+1766,Brazil,215860,TePaske,4
+1766,Chile,6673,TePaske,4
+1766,Ecuador,1676,TePaske,4
+1766,Mexico,9897,TePaske,4
+1766,Colombia,20501,TePaske,4
+1766,Peru,1299,TePaske,4
+1776,Brazil,215860,TePaske,4
+1776,Chile,9134,TePaske,4
+1776,Ecuador,1789,TePaske,4
+1776,Mexico,12220,TePaske,4
+1776,Colombia,22681,TePaske,4
+1776,Peru,5844,TePaske,4
+1786,Brazil,185860,TePaske,4
+1786,Chile,9243,TePaske,4
+1786,Ecuador,4049,TePaske,4
+1786,Mexico,8738,TePaske,4
+1786,Colombia,27869,TePaske,4
+1786,Peru,11758,TePaske,4
+1796,Brazil,140860,TePaske,4
+1796,Chile,9137,TePaske,4
+1796,Ecuador,4846,TePaske,4
+1796,Mexico,15422,TePaske,4
+1796,Colombia,33130,TePaske,4
+1796,Peru,15725,TePaske,4
+1806,Brazil,44758,TePaske,4
+1806,Chile,11560,TePaske,4
+1806,Ecuador,914,TePaske,4
+1806,Mexico,23843,TePaske,4
+1806,Colombia,34535,TePaske,4
+1806,Peru,11747,TePaske,4

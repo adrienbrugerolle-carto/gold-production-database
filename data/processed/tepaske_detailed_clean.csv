@@ -1,0 +1,354 @@
+year,country,region,province,geographic_level,production_tonnes,source
+1496,Hispaniola,Caribbean,NA,region,1086,TePaske
+1506,Hispaniola,Caribbean,NA,region,12020,TePaske
+1506,Puerto Rico,Caribbean,NA,region,118,TePaske
+1506,Tierra Firme,Caribbean,NA,region,620,TePaske
+1516,Cuba,Caribbean,NA,region,1799,TePaske
+1516,Hispaniola,Caribbean,NA,region,7135,TePaske
+1516,Puerto Rico,Caribbean,NA,region,1777,TePaske
+1516,Tierra Firme,Caribbean,NA,region,465,TePaske
+1526,Mexico,New Spain,caja_mexico,province,2358,TePaske
+1526,Cuba,Caribbean,NA,region,807,TePaske
+1526,Hispaniola,Caribbean,NA,region,1152,TePaske
+1526,Puerto Rico,Caribbean,NA,region,1450,TePaske
+1526,Tierra Firme,Caribbean,NA,region,310,TePaske
+1536,Mexico,New Spain,caja_mexico,province,3769,TePaske
+1536,Peru,Viceroyalty of Peru,caja_lima,province,8541,TePaske
+1536,Cuba,Caribbean,NA,region,473,TePaske
+1536,Ecuador,South America,NA,region,257,TePaske
+1536,Hispaniola,Caribbean,NA,region,1087,TePaske
+1536,New Granada,South America,NA,region,2264,TePaske
+1536,Puerto Rico,Caribbean,NA,region,689,TePaske
+1536,Tierra Firme,Caribbean,NA,region,155,TePaske
+1546,Mexico,New Spain,caja_mexico,province,1256,TePaske
+1546,Peru,Viceroyalty of Peru,caja_lima,province,4827,TePaske
+1546,Chile,South America,NA,region,3102,TePaske
+1546,Cuba,Caribbean,NA,region,119,TePaske
+1546,Ecuador,South America,NA,region,868,TePaske
+1546,Hispaniola,Caribbean,NA,region,855,TePaske
+1546,New Granada,South America,NA,region,2089,TePaske
+1546,Puerto Rico,Caribbean,NA,region,341,TePaske
+1546,Tierra Firme,Caribbean,NA,region,78,TePaske
+1553,Hispaniola,Caribbean,NA,region,53,TePaske
+1556,Mexico,New Spain,caja_mexico,province,124,TePaske
+1556,Peru,Viceroyalty of Peru,caja_lima,province,3533,TePaske
+1556,Chile,South America,NA,region,4653,TePaske
+1556,Ecuador,South America,NA,region,2549,TePaske
+1556,New Granada,South America,NA,region,5593,TePaske
+1566,Mexico,New Spain,caja_mexico,province,124,TePaske
+1566,Peru,Viceroyalty of Peru,caja_lima,province,1183,TePaske
+1566,Chile,South America,NA,region,159,TePaske
+1566,Ecuador,South America,NA,region,3226,TePaske
+1566,New Granada,South America,NA,region,7604,TePaske
+1576,Mexico,New Spain,caja_mexico,province,78,TePaske
+1576,Peru,Viceroyalty of Peru,caja_lima,province,1104,TePaske
+1576,Chile,South America,NA,region,4873,TePaske
+1576,Ecuador,South America,NA,region,6143,TePaske
+1576,New Granada,South America,NA,region,7977,TePaske
+1586,Mexico,New Spain,caja_mexico,province,82,TePaske
+1586,Peru,Viceroyalty of Peru,caja_cuzco,province,638,TePaske
+1586,Peru,Viceroyalty of Peru,caja_huancavelica,province,65,TePaske
+1586,Peru,Viceroyalty of Peru,caja_lima,province,299,TePaske
+1586,Chile,South America,NA,region,1551,TePaske
+1586,Ecuador,South America,NA,region,6442,TePaske
+1586,New Granada,South America,NA,region,6728,TePaske
+1596,Mexico,New Spain,caja_mexico,province,1483,TePaske
+1596,Peru,Viceroyalty of Peru,caja_cuzco,province,105,TePaske
+1596,Peru,Viceroyalty of Peru,caja_lima,province,56,TePaske
+1596,Chile,South America,NA,region,776,TePaske
+1596,Ecuador,South America,NA,region,3486,TePaske
+1596,New Granada,South America,NA,region,12541,TePaske
+1606,Mexico,New Spain,caja_durango,province,6,TePaske
+1606,Mexico,New Spain,caja_mexico,province,3526,TePaske
+1606,Mexico,New Spain,caja_zacatecas,province,3,TePaske
+1606,Peru,Viceroyalty of Peru,caja_cuzco,province,55,TePaske
+1606,Peru,Viceroyalty of Peru,caja_lima,province,25,TePaske
+1606,Chile,South America,NA,region,155,TePaske
+1606,Ecuador,South America,NA,region,2076,TePaske
+1606,New Granada,South America,NA,region,13934,TePaske
+1616,Mexico,New Spain,caja_mexico,province,4010,TePaske
+1616,Peru,Viceroyalty of Peru,caja_lima,province,1,TePaske
+1616,Chile,South America,NA,region,71,TePaske
+1616,Ecuador,South America,NA,region,927,TePaske
+1616,New Granada,South America,NA,region,11153,TePaske
+1626,Mexico,New Spain,caja_mexico,province,3260,TePaske
+1626,Mexico,New Spain,caja_san luis potosi,province,1168,TePaske
+1626,Chile,South America,NA,region,23,TePaske
+1626,Ecuador,South America,NA,region,1985,TePaske
+1626,New Granada,South America,NA,region,8951,TePaske
+1636,Mexico,New Spain,caja_mexico,province,143,TePaske
+1636,Mexico,New Spain,caja_san luis potosi,province,3781,TePaske
+1636,Chile,South America,NA,region,19,TePaske
+1636,Ecuador,South America,NA,region,635,TePaske
+1636,New Granada,South America,NA,region,3548,TePaske
+1646,Mexico,New Spain,caja_guadaljara,province,4,TePaske
+1646,Mexico,New Spain,caja_mexico,province,65,TePaske
+1646,Mexico,New Spain,caja_san luis potosi,province,2358,TePaske
+1646,Ecuador,South America,NA,region,131,TePaske
+1646,New Granada,South America,NA,region,7885,TePaske
+1656,Mexico,New Spain,caja_durango,province,11,TePaske
+1656,Mexico,New Spain,caja_guadaljara,province,16,TePaske
+1656,Mexico,New Spain,caja_mexico,province,724,TePaske
+1656,Mexico,New Spain,caja_san luis potosi,province,1936,TePaske
+1656,Peru,Viceroyalty of Peru,caja_trujillo,province,2,TePaske
+1656,Ecuador,South America,NA,region,202,TePaske
+1656,New Granada,South America,NA,region,7540,TePaske
+1666,Mexico,New Spain,caja_guadaljara,province,98,TePaske
+1666,Mexico,New Spain,caja_guanajuato,province,113,TePaske
+1666,Mexico,New Spain,caja_mexico,province,517,TePaske
+1666,Mexico,New Spain,caja_san luis potosi,province,2215,TePaske
+1666,Peru,Viceroyalty of Peru,caja_lima,province,70,TePaske
+1666,Ecuador,South America,NA,region,233,TePaske
+1666,New Granada,South America,NA,region,4105,TePaske
+1676,Mexico,New Spain,caja_guadaljara,province,503,TePaske
+1676,Mexico,New Spain,caja_guanajuato,province,286,TePaske
+1676,Mexico,New Spain,caja_mexico,province,49,TePaske
+1676,Mexico,New Spain,caja_san luis potosi,province,1532,TePaske
+1676,Mexico,New Spain,caja_zacatecas,province,2,TePaske
+1676,Peru,Viceroyalty of Peru,caja_cuzco,province,11,TePaske
+1676,Peru,Viceroyalty of Peru,caja_la-paz,province,4,TePaske
+1676,Peru,Viceroyalty of Peru,caja_lima,province,65,TePaske
+1676,Ecuador,South America,NA,region,194,TePaske
+1676,New Granada,South America,NA,region,4406,TePaske
+1686,Mexico,New Spain,caja_guadaljara,province,422,TePaske
+1686,Mexico,New Spain,caja_guanajuato,province,232,TePaske
+1686,Mexico,New Spain,caja_mexico,province,38,TePaske
+1686,Mexico,New Spain,caja_san luis potosi,province,1494,TePaske
+1686,Peru,Viceroyalty of Peru,caja_carabaya,province,1,TePaske
+1686,Peru,Viceroyalty of Peru,caja_cuzco,province,109,TePaske
+1686,Peru,Viceroyalty of Peru,caja_la-paz,province,38,TePaske
+1686,Peru,Viceroyalty of Peru,caja_lima,province,1,TePaske
+1686,Peru,Viceroyalty of Peru,caja_potosi,province,13,TePaske
+1686,Peru,Viceroyalty of Peru,caja_trujillo,province,105,TePaske
+1686,Ecuador,South America,NA,region,194,TePaske
+1686,New Granada,South America,NA,region,6437,TePaske
+1696,Brazil,Colonial Brazil,minas_gerais,province,4327,TePaske
+1696,Mexico,New Spain,caja_guadaljara,province,273,TePaske
+1696,Mexico,New Spain,caja_guanajuato,province,457,TePaske
+1696,Mexico,New Spain,caja_mexico,province,274,TePaske
+1696,Mexico,New Spain,caja_san luis potosi,province,1736,TePaske
+1696,Peru,Viceroyalty of Peru,caja_cuzco,province,80,TePaske
+1696,Peru,Viceroyalty of Peru,caja_la-paz,province,12,TePaske
+1696,Peru,Viceroyalty of Peru,caja_lima,province,13,TePaske
+1696,Peru,Viceroyalty of Peru,caja_oruro,province,212,TePaske
+1696,Peru,Viceroyalty of Peru,caja_potosi,province,7,TePaske
+1696,Peru,Viceroyalty of Peru,caja_trujillo,province,226,TePaske
+1696,Brazil,South America,NA,country,4327,TePaske
+1696,Chile,South America,NA,region,60,TePaske
+1696,Ecuador,South America,NA,region,339,TePaske
+1696,New Granada,South America,NA,region,4950,TePaske
+1706,Brazil,Colonial Brazil,minas_gerais,province,43270,TePaske
+1706,Mexico,New Spain,caja_guadaljara,province,66,TePaske
+1706,Mexico,New Spain,caja_guanajuato,province,162,TePaske
+1706,Mexico,New Spain,caja_mexico,province,307,TePaske
+1706,Mexico,New Spain,caja_san luis potosi,province,1677,TePaske
+1706,Peru,Viceroyalty of Peru,caja_carabaya,province,8,TePaske
+1706,Peru,Viceroyalty of Peru,caja_chucuito,province,5,TePaske
+1706,Peru,Viceroyalty of Peru,caja_cuzco,province,82,TePaske
+1706,Peru,Viceroyalty of Peru,caja_la-paz,province,43,TePaske
+1706,Peru,Viceroyalty of Peru,caja_lima,province,66,TePaske
+1706,Peru,Viceroyalty of Peru,caja_oruro,province,229,TePaske
+1706,Peru,Viceroyalty of Peru,caja_potosi,province,25,TePaske
+1706,Peru,Viceroyalty of Peru,caja_trujillo,province,162,TePaske
+1706,Brazil,South America,NA,country,43270,TePaske
+1706,Chile,South America,NA,region,15,TePaske
+1706,Ecuador,South America,NA,region,291,TePaske
+1706,New Granada,South America,NA,region,5140,TePaske
+1716,Brazil,Colonial Brazil,mato_grosso-goais,province,2378,TePaske
+1716,Brazil,Colonial Brazil,minas_gerais,province,43270,TePaske
+1716,Brazil,Colonial Brazil,sao_paulo-bahia-ceara,province,915,TePaske
+1716,Mexico,New Spain,caja_guadaljara,province,58,TePaske
+1716,Mexico,New Spain,caja_guanajuato,province,168,TePaske
+1716,Mexico,New Spain,caja_mexico,province,317,TePaske
+1716,Mexico,New Spain,caja_san luis potosi,province,1955,TePaske
+1716,Peru,Viceroyalty of Peru,caja_carabaya,province,8,TePaske
+1716,Peru,Viceroyalty of Peru,caja_chucuito,province,21,TePaske
+1716,Peru,Viceroyalty of Peru,caja_cuzco,province,20,TePaske
+1716,Peru,Viceroyalty of Peru,caja_la-paz,province,43,TePaske
+1716,Peru,Viceroyalty of Peru,caja_oruro,province,229,TePaske
+1716,Peru,Viceroyalty of Peru,caja_potosi,province,14,TePaske
+1716,Peru,Viceroyalty of Peru,caja_trujillo,province,69,TePaske
+1716,Brazil,South America,NA,country,46563,TePaske
+1716,Chile,South America,NA,region,188,TePaske
+1716,Ecuador,South America,NA,region,339,TePaske
+1716,New Granada,South America,NA,region,7499,TePaske
+1726,Brazil,Colonial Brazil,mato_grosso-goais,province,23780,TePaske
+1726,Brazil,Colonial Brazil,minas_gerais,province,70385,TePaske
+1726,Brazil,Colonial Brazil,sao_paulo-bahia-ceara,province,9150,TePaske
+1726,Mexico,New Spain,caja_guadaljara,province,224,TePaske
+1726,Mexico,New Spain,caja_guanajuato,province,284,TePaske
+1726,Mexico,New Spain,caja_mexico,province,306,TePaske
+1726,Mexico,New Spain,caja_san luis potosi,province,1736,TePaske
+1726,Mexico,New Spain,caja_zimapan,province,5,TePaske
+1726,Peru,Viceroyalty of Peru,caja_carabaya,province,9,TePaske
+1726,Peru,Viceroyalty of Peru,caja_cuzco,province,17,TePaske
+1726,Peru,Viceroyalty of Peru,caja_la-paz,province,9,TePaske
+1726,Peru,Viceroyalty of Peru,caja_oruro,province,292,TePaske
+1726,Peru,Viceroyalty of Peru,caja_trujillo,province,5,TePaske
+1726,Brazil,South America,NA,country,103315,TePaske
+1726,Chile,South America,NA,region,254,TePaske
+1726,Ecuador,South America,NA,region,144,TePaske
+1726,New Granada,South America,NA,region,8570,TePaske
+1736,Brazil,Colonial Brazil,mato_grosso-goais,province,23780,TePaske
+1736,Brazil,Colonial Brazil,minas_gerais,province,105000,TePaske
+1736,Brazil,Colonial Brazil,sao_paulo-bahia-ceara,province,9150,TePaske
+1736,Mexico,New Spain,caja_guadaljara,province,370,TePaske
+1736,Mexico,New Spain,caja_guanajuato,province,2182,TePaske
+1736,Mexico,New Spain,caja_mexico,province,687,TePaske
+1736,Mexico,New Spain,caja_pachuca,province,5,TePaske
+1736,Mexico,New Spain,caja_san luis potosi,province,1561,TePaske
+1736,Mexico,New Spain,caja_zacatecas,province,5,TePaske
+1736,Mexico,New Spain,caja_zimapan,province,6,TePaske
+1736,Peru,Viceroyalty of Peru,caja_chucuito,province,1,TePaske
+1736,Peru,Viceroyalty of Peru,caja_cuzco,province,39,TePaske
+1736,Peru,Viceroyalty of Peru,caja_oruro,province,243,TePaske
+1736,Peru,Viceroyalty of Peru,caja_trujillo,province,3,TePaske
+1736,Brazil,South America,NA,country,137930,TePaske
+1736,Chile,South America,NA,region,426,TePaske
+1736,Ecuador,South America,NA,region,96,TePaske
+1736,New Granada,South America,NA,region,10210,TePaske
+1746,Brazil,Colonial Brazil,mato_grosso-goais,province,23780,TePaske
+1746,Brazil,Colonial Brazil,minas_gerais,province,112500,TePaske
+1746,Brazil,Colonial Brazil,sao_paulo-bahia-ceara,province,9150,TePaske
+1746,Mexico,New Spain,caja_durango,province,584,TePaske
+1746,Mexico,New Spain,caja_guadaljara,province,404,TePaske
+1746,Mexico,New Spain,caja_guanajuato,province,3911,TePaske
+1746,Mexico,New Spain,caja_mexico,province,1001,TePaske
+1746,Mexico,New Spain,caja_pachuca,province,52,TePaske
+1746,Mexico,New Spain,caja_san luis potosi,province,1243,TePaske
+1746,Mexico,New Spain,caja_zacatecas,province,7,TePaske
+1746,Mexico,New Spain,caja_zimapan,province,209,TePaske
+1746,Peru,Viceroyalty of Peru,caja_cuzco,province,1,TePaske
+1746,Peru,Viceroyalty of Peru,caja_la-paz,province,1,TePaske
+1746,Peru,Viceroyalty of Peru,caja_oruro,province,255,TePaske
+1746,Brazil,South America,NA,country,145430,TePaske
+1746,Chile,South America,NA,region,709,TePaske
+1746,Ecuador,South America,NA,region,48,TePaske
+1746,New Granada,South America,NA,region,14793,TePaske
+1756,Brazil,Colonial Brazil,mato_grosso-goais,province,23780,TePaske
+1756,Brazil,Colonial Brazil,minas_gerais,province,78750,TePaske
+1756,Brazil,Colonial Brazil,sao_paulo-bahia-ceara,province,9150,TePaske
+1756,Mexico,New Spain,caja_durango,province,2859,TePaske
+1756,Mexico,New Spain,caja_guadaljara,province,605,TePaske
+1756,Mexico,New Spain,caja_guanajuato,province,1136,TePaske
+1756,Mexico,New Spain,caja_mexico,province,910,TePaske
+1756,Mexico,New Spain,caja_pachuca,province,37,TePaske
+1756,Mexico,New Spain,caja_san luis potosi,province,904,TePaske
+1756,Mexico,New Spain,caja_zacatecas,province,18,TePaske
+1756,Mexico,New Spain,caja_zimapan,province,1024,TePaske
+1756,Peru,Viceroyalty of Peru,caja_la-paz,province,21,TePaske
+1756,Peru,Viceroyalty of Peru,caja_oruro,province,170,TePaske
+1756,Brazil,South America,NA,country,111680,TePaske
+1756,Chile,South America,NA,region,1108,TePaske
+1756,Ecuador,South America,NA,region,2012,TePaske
+1756,New Granada,South America,NA,region,17759,TePaske
+1766,Brazil,Colonial Brazil,mato_grosso-goais,province,23780,TePaske
+1766,Brazil,Colonial Brazil,minas_gerais,province,75000,TePaske
+1766,Brazil,Colonial Brazil,sao_paulo-bahia-ceara,province,9150,TePaske
+1766,Mexico,New Spain,caja_durango,province,3529,TePaske
+1766,Mexico,New Spain,caja_guadaljara,province,1675,TePaske
+1766,Mexico,New Spain,caja_guanajuato,province,1695,TePaske
+1766,Mexico,New Spain,caja_mexico,province,1312,TePaske
+1766,Mexico,New Spain,caja_pachuca,province,22,TePaske
+1766,Mexico,New Spain,caja_rosario,province,180,TePaske
+1766,Mexico,New Spain,caja_san luis potosi,province,1117,TePaske
+1766,Mexico,New Spain,caja_zacatecas,province,73,TePaske
+1766,Mexico,New Spain,caja_zimapan,province,294,TePaske
+1766,Peru,Viceroyalty of Peru,caja_lima,province,1217,TePaske
+1766,Peru,Viceroyalty of Peru,caja_oruro,province,68,TePaske
+1766,Peru,Viceroyalty of Peru,caja_trujillo,province,14,TePaske
+1766,Brazil,South America,NA,country,107930,TePaske
+1766,Chile,South America,NA,region,6673,TePaske
+1766,Ecuador,South America,NA,region,1676,TePaske
+1766,New Granada,South America,NA,region,20501,TePaske
+1776,Brazil,Colonial Brazil,mato_grosso-goais,province,23780,TePaske
+1776,Brazil,Colonial Brazil,minas_gerais,province,75000,TePaske
+1776,Brazil,Colonial Brazil,sao_paulo-bahia-ceara,province,9150,TePaske
+1776,Mexico,New Spain,caja_durango,province,1000,TePaske
+1776,Mexico,New Spain,caja_guadaljara,province,537,TePaske
+1776,Mexico,New Spain,caja_guanajuato,province,2461,TePaske
+1776,Mexico,New Spain,caja_mexico,province,1649,TePaske
+1776,Mexico,New Spain,caja_pachuca,province,21,TePaske
+1776,Mexico,New Spain,caja_rosario,province,4739,TePaske
+1776,Mexico,New Spain,caja_san luis potosi,province,1468,TePaske
+1776,Mexico,New Spain,caja_zacatecas,province,106,TePaske
+1776,Mexico,New Spain,caja_zimapan,province,239,TePaske
+1776,Peru,Viceroyalty of Peru,caja_la-paz,province,685,TePaske
+1776,Peru,Viceroyalty of Peru,caja_lima,province,4252,TePaske
+1776,Peru,Viceroyalty of Peru,caja_potosi,province,178,TePaske
+1776,Peru,Viceroyalty of Peru,caja_trujillo,province,729,TePaske
+1776,Brazil,South America,NA,country,107930,TePaske
+1776,Chile,South America,NA,region,9134,TePaske
+1776,Ecuador,South America,NA,region,1789,TePaske
+1776,New Granada,South America,NA,region,22681,TePaske
+1786,Brazil,Colonial Brazil,mato_grosso-goais,province,23780,TePaske
+1786,Brazil,Colonial Brazil,minas_gerais,province,60000,TePaske
+1786,Brazil,Colonial Brazil,sao_paulo-bahia-ceara,province,9150,TePaske
+1786,Mexico,New Spain,caja_chihuahua,province,18,TePaske
+1786,Mexico,New Spain,caja_durango,province,1289,TePaske
+1786,Mexico,New Spain,caja_guadaljara,province,634,TePaske
+1786,Mexico,New Spain,caja_guanajuato,province,2111,TePaske
+1786,Mexico,New Spain,caja_mexico,province,798,TePaske
+1786,Mexico,New Spain,caja_pachuca,province,32,TePaske
+1786,Mexico,New Spain,caja_rosario,province,2901,TePaske
+1786,Mexico,New Spain,caja_san luis potosi,province,650,TePaske
+1786,Mexico,New Spain,caja_zacatecas,province,171,TePaske
+1786,Mexico,New Spain,caja_zimapan,province,134,TePaske
+1786,Peru,Viceroyalty of Peru,caja_arequipa,province,57,TePaske
+1786,Peru,Viceroyalty of Peru,caja_arica,province,97,TePaske
+1786,Peru,Viceroyalty of Peru,caja_cuzco,province,2,TePaske
+1786,Peru,Viceroyalty of Peru,caja_la-paz,province,2944,TePaske
+1786,Peru,Viceroyalty of Peru,caja_lima,province,5904,TePaske
+1786,Peru,Viceroyalty of Peru,caja_potosi,province,429,TePaske
+1786,Peru,Viceroyalty of Peru,caja_trujillo,province,2325,TePaske
+1786,Brazil,South America,NA,country,92930,TePaske
+1786,Chile,South America,NA,region,9243,TePaske
+1786,Ecuador,South America,NA,region,4049,TePaske
+1786,New Granada,South America,NA,region,27869,TePaske
+1796,Brazil,Colonial Brazil,mato_grosso-goais,province,23780,TePaske
+1796,Brazil,Colonial Brazil,minas_gerais,province,37500,TePaske
+1796,Brazil,Colonial Brazil,sao_paulo-bahia-ceara,province,9150,TePaske
+1796,Mexico,New Spain,caja_chihuahua,province,264,TePaske
+1796,Mexico,New Spain,caja_durango,province,5428,TePaske
+1796,Mexico,New Spain,caja_guadaljara,province,490,TePaske
+1796,Mexico,New Spain,caja_guanajuato,province,2384,TePaske
+1796,Mexico,New Spain,caja_mexico,province,2079,TePaske
+1796,Mexico,New Spain,caja_pachuca,province,18,TePaske
+1796,Mexico,New Spain,caja_rosario,province,4279,TePaske
+1796,Mexico,New Spain,caja_san luis potosi,province,372,TePaske
+1796,Mexico,New Spain,caja_zacatecas,province,48,TePaske
+1796,Mexico,New Spain,caja_zimapan,province,60,TePaske
+1796,Peru,Viceroyalty of Peru,caja_arequipa,province,254,TePaske
+1796,Peru,Viceroyalty of Peru,caja_arica,province,3,TePaske
+1796,Peru,Viceroyalty of Peru,caja_chucuito,province,5,TePaske
+1796,Peru,Viceroyalty of Peru,caja_la-paz,province,3506,TePaske
+1796,Peru,Viceroyalty of Peru,caja_lima,province,4611,TePaske
+1796,Peru,Viceroyalty of Peru,caja_potosi,province,1674,TePaske
+1796,Peru,Viceroyalty of Peru,caja_trujillo,province,5672,TePaske
+1796,Brazil,South America,NA,country,70430,TePaske
+1796,Chile,South America,NA,region,9137,TePaske
+1796,Ecuador,South America,NA,region,4846,TePaske
+1796,New Granada,South America,NA,region,33130,TePaske
+1806,Brazil,Colonial Brazil,mato_grosso-goais,province,2378,TePaske
+1806,Brazil,Colonial Brazil,minas_gerais,province,3750,TePaske
+1806,Brazil,Colonial Brazil,sao_paulo-bahia-ceara,province,915,TePaske
+1806,Mexico,New Spain,caja_chihuahua,province,1417,TePaske
+1806,Mexico,New Spain,caja_durango,province,9797,TePaske
+1806,Mexico,New Spain,caja_guadaljara,province,357,TePaske
+1806,Mexico,New Spain,caja_guanajuato,province,3727,TePaske
+1806,Mexico,New Spain,caja_mexico,province,3340,TePaske
+1806,Mexico,New Spain,caja_pachuca,province,27,TePaske
+1806,Mexico,New Spain,caja_rosario,province,4849,TePaske
+1806,Mexico,New Spain,caja_san luis potosi,province,264,TePaske
+1806,Mexico,New Spain,caja_zacatecas,province,20,TePaske
+1806,Mexico,New Spain,caja_zimapan,province,45,TePaske
+1806,Peru,Viceroyalty of Peru,caja_arequipa,province,80,TePaske
+1806,Peru,Viceroyalty of Peru,caja_la-paz,province,4227,TePaske
+1806,Peru,Viceroyalty of Peru,caja_lima,province,2392,TePaske
+1806,Peru,Viceroyalty of Peru,caja_potosi,province,1160,TePaske
+1806,Peru,Viceroyalty of Peru,caja_puno,province,169,TePaske
+1806,Peru,Viceroyalty of Peru,caja_trujillo,province,3719,TePaske
+1806,Brazil,South America,NA,country,37715,TePaske
+1806,Chile,South America,NA,region,11560,TePaske
+1806,Ecuador,South America,NA,region,914,TePaske
+1806,New Granada,South America,NA,region,34535,TePaske
