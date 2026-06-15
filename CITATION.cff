@@ -1,0 +1,78 @@
+
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as follows:"
+title: "Gold Production Historical Database"
+version: 1.0
+date-released: 2026-06-15
+
+authors:
+  - family-names: "Brugerolle"
+    given-names: "Adrien"
+
+references:
+  - type: article
+    authors:
+      - family-names: "Craig"
+        given-names: "J. R."
+      - family-names: "Rimstidt"
+        given-names: "J. D."
+    year: 1998
+    title: "Gold production history of the United States"
+    journal: "Ore Geology Reviews"
+    volume: 13
+    issue: 6
+    pages: "407-464"
+    doi: "10.1016/S0169-1368(98)00009-2"
+
+  - type: book
+    authors:
+      - family-names: "TePaske"
+        given-names: "John J."
+    year: 2010
+    title: "A new world of gold and silver"
+    publisher: "Brill"
+    doi: "10.1163/ej.9789004185652.i-354"
+
+  - type: book
+    authors:
+      - family-names: "Soetbeer"
+        given-names: "Adolf"
+    year: 1880
+    title: "Edelmetall-produktion und werthverhaltniss zwischen gold und silber seit der entdeckung Amerikas bis zur gegenwart"
+    publisher: "Justus Perthes"
+
+  - type: conference-paper
+    authors:
+      - family-names: "Castaneda"
+        given-names: "Juan E."
+    year: 2013
+    title: "A new estimate of the stock of gold (1492-2012)"
+    publisher: "Conference: Transfers of Precious Metals and their Consequences"
+
+  - type: data
+    authors:
+      - name: "British Geological Survey (BGS)"
+    year: 2024
+    title: "World mineral statistics dataset"
+    url: "https://www.bgs.ac.uk/mineralsuk/statistics/world-mineral-statistics/"
+
+  - type: data
+    authors:
+      - family-names: "Klein Goldewijk"
+        given-names: "Kees"
+      - family-names: "Fink-Jensen"
+        given-names: "Jonathan"
+    year: 2015
+    title: "Gold production"
+    publisher: "IISH Data Collection"
+    doi: "10.10622/MRQ2XJ"
+
+repository-code: "https://github.com/adrienbrugerolle-carto/gold-production-database"
+license: "MIT"
+keywords:
+  - gold production
+  - historical mining
+  - economic history
+  - mineral statistics
+  - time series
+
