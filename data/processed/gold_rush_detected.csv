@@ -1,0 +1,38 @@
+peak_group,entity,parent,level,start_year,end_year,peak_year,peak_production,duration,type,decline_pct,high_group,mean_production,after_prod,continent
+11,Canada,World,country,1897,1900,1900,41.9,4,Rush (pic aigu),47.7326968973747,NA,NA,NA,Autre
+16,France,World,country,1911,1912,1912,2.8,2,Rush (pic aigu),92.85714285714285,NA,NA,NA,Autre
+21,Peru,World,country,1776,1796,1796,15.725,21,Rush (pic aigu),99.36406995230524,NA,NA,NA,Autre
+9,South Africa,World,country,1893,1895,1895,66,3,Rush (pic aigu),86.06060606060606,NA,NA,NA,Autre
+54,United States,World,country,1849,1852,1852,125.94686896397279,4,Rush (pic aigu),44.851948988462155,NA,NA,NA,Autre
+18,Nevada,United States,state,1877,1878,1878,31.889072399667814,2,Rush (pic aigu),88.10872601574631,NA,NA,NA,Amérique du Nord
+46,Nevada,United States,state,1909,1910,1910,28.4057578839652,2,Rush (pic aigu),39.59223226555272,NA,NA,NA,Amérique du Nord
+65,New Mexico,United States,state,1914,1915,1915,2.198428028005611,2,Rush (pic aigu),67.12695066566687,NA,NA,NA,Amérique du Nord
+83,Oregon,United States,state,1938,1940,1940,3.5272015850354737,3,Rush (pic aigu),96.06091603322693,NA,NA,NA,Amérique du Nord
+103,Washington,United States,state,1937,1941,1939,2.8123804458378823,5,Rush (pic aigu),47.71400132714002,NA,NA,NA,Amérique du Nord
+NA,Australia,World,country,1852,1950,1903,119.2,99,Boom minier (plateau),42.73184868822453,1,52.656565656565654,68.26363636363637,Autre
+NA,Brazil,World,country,1741,1780,1746,290.86,40,Boom minier (plateau),88.5868240265545,56,34.8985,33.196363636363635,Autre
+NA,Canada,World,country,1898,1950,1941,166.8,53,Boom minier (plateau),NA,12,64.15471698113208,NA,Autre
+NA,Chile,World,country,1800,1816,1806,11.56,17,Boom minier (plateau),12.874668584011143,254,10.779175630252102,10.071688311688312,Autre
+NA,Colombia,World,country,1934,1950,1941,20.4,17,Boom minier (plateau),NA,253,14.641176470588235,NA,Autre
+NA,Ghana,World,country,1934,1950,1941,27.7,17,Boom minier (plateau),NA,39,19.205882352941178,NA,Autre
+NA,India,World,country,1897,1933,1913,18.3,37,Boom minier (plateau),29.110779930452065,12,14.22972972972973,12.972727272727273,Autre
+NA,Japan,World,country,1928,1943,1940,27,16,Boom minier (plateau),88.95061728395062,54,17.95,2.9833333333333334,Autre
+NA,Mexico,World,country,1896,1913,1910,37.5,18,Boom minier (plateau),45.57575757575758,228,23.27777777777778,20.40909090909091,Autre
+NA,Mexico,World,country,1916,1950,1938,28.7,35,Boom minier (plateau),49.812717770034844,230,20.58657142857143,14.40375,Autre
+NA,New Granada,World,country,1592,1621,1606,13.934,30,Boom minier (plateau),19.391742891814655,56,12.215666666666667,11.231954545454546,Autre
+NA,New Granada,World,country,1735,1806,1806,34.535,72,Boom minier (plateau),NA,169,22.548243055555556,NA,Autre
+NA,Russia,World,country,1841,1919,1910,55,79,Boom minier (plateau),71.54762940408925,80,32.44050632911392,15.648803827750909,Autre
+NA,Russia,World,country,1924,1940,1940,103.894689515,17,Boom minier (plateau),NA,84,47.46414859154706,NA,Autre
+NA,South Africa,World,country,1902,1950,1941,448.1,49,Boom minier (plateau),NA,8,298.369387755102,NA,Autre
+NA,United States,World,country,1849,1950,1940,151.47023237441175,102,Boom minier (plateau),62.19754350933925,54,84.83344856883242,57.259468689639725,Autre
+NA,Zimbabwe,World,country,1905,1950,1916,28.9,46,Boom minier (plateau),36.55237496067946,7,20.08695652173913,18.336363636363636,Autre
+NA,Alaska,United States,state,1899,1942,1906,33.15728739965226,44,Boom minier (plateau),38.3933080511976,19,17.536502103587733,20.427107906882842,Amérique du Nord
+NA,California,United States,state,1849,1942,1852,122.3186742434846,94,Boom minier (plateau),59.54179969407944,1,33.45408845537197,49.48793423697547,Amérique du Nord
+NA,Colorado,United States,state,1882,1942,1900,43.28014631096679,61,Boom minier (plateau),26.776678474179068,23,18.066763148771663,31.691160690124942,Amérique du Nord
+NA,Nevada,United States,state,1903,1920,1910,28.4057578839652,18,Boom minier (plateau),70.5467147591832,25,15.017538930377532,8.366428894380075,Amérique du Nord
+NA,South Dakota,United States,state,1895,1942,1939,19.238647992112146,48,Boom minier (plateau),49.24637715970799,15,11.522367708945684,9.76431084148801,Amérique du Nord
+NA,Utah,United States,state,1899,1913,1906,7.851741952741309,15,Boom minier (plateau),38.634572024420656,34,6.339787314117578,4.818255052837815,Amérique du Nord
+NA,Utah,United States,state,1935,1950,1950,14.231447526803459,16,Boom minier (plateau),NA,45,9.85161481709574,NA,Amérique du Nord
+NA,mato_grosso-goais,Brazil,province,1718,1804,1726,23.78,87,Boom minier (plateau),0,2,22.0088,23.78,Amérique du Sud
+NA,minas_gerais,Brazil,province,1697,1805,1746,112.5,109,Boom minier (plateau),26.36363636363636,1,64.61556422018349,82.8409090909091,Amérique du Sud
+NA,sao_paulo-bahia-ceara,Brazil,province,1721,1801,1726,9.15,81,Boom minier (plateau),0,5,8.845,9.15,Amérique du Sud
