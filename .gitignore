@@ -1,29 +1,32 @@
-
-# RStudio
-.Rproj.user/
+# R
+.Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+*.Rproj
+.DS_Store
+.Rproj.user
 
-# Fichiers temporaires
-*.lock*
-*.~lock*
+# Données générées (sauf les scripts)
+data/
+fusion/
+outputs/
+
+# Sauvegardes
+backup/
+*.bak
 *.tmp
 *.log
 
-# Données brutes trop lourdes (optionnel)
-DATA/*.csv
-DATA/*.xlsx
-data/raw/
+# IDE
+.vscode/
+.idea/
 
-# Fichiers système
-.DS_Store
+# OS
 Thumbs.db
+.DS_Store
 
-# Bibliothèque personnelle (si ce n'est pas des données publiques)
-Biblio/
-
-# Fichiers de verrouillage
-*.~
-# 
-
+# Fichiers temporaires
+*~
+*.swp
+*.swo
