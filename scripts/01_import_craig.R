@@ -1,73 +1,72 @@
 # scripts/01_import_craig.R (version corrigée)
-# Importation des donnees Craig & Rimstidt (1998)
+# Importation des données Craig & Rimstidt (1998)
 
 library(tidyverse)
 
 cat("\n--- IMPORTATION: CRAIG & RIMSTIDT (1998) ---\n")
 
-# Lire le fichier avec col_names = TRUE pour voir la structure
-craig_test <- read_csv("data-raw/raw/craig_states_1799_1995_V2.csv", 
-                       show_col_types = FALSE)
-
-cat("  Colonnes :", paste(names(craig_test), collapse = ", "), "\n")
-cat("  Dimensions :", nrow(craig_test), "x", ncol(craig_test), "\n")
-
-# Re-lire avec col_names = FALSE pour tout avoir en brut
-craig_raw <- read_csv("data-raw/raw/craig_states_1799_1995_V2.csv", 
-                      show_col_types = FALSE, 
+# Lire le fichier
+craig_raw <- read_csv("data-raw/raw/craig_states_1799_1995_V2.csv",
+                      show_col_types = FALSE,
                       col_names = FALSE)
 
-# Afficher les premières lignes pour debug
-cat("  Premieres lignes (brut) :\n")
-print(head(craig_raw, 5))
+cat("  Dimensions :", nrow(craig_raw), "x", ncol(craig_raw), "\n")
 
-# La premiere ligne contient les annees (colonne 1 = NA, colonnes 2:25 = annees)
-years <- as.numeric(craig_raw[1, 2:ncol(craig_raw)])
-years <- years[!is.na(years)]
-cat("  Annees trouvees :", length(years), "(", min(years), "-", max(years), ")\n")
+# Ligne 1 = noms des états (colonnes 2 à n)
+state_names <- as.character(craig_raw[1, 2:ncol(craig_raw)])
+state_names <- state_names[!is.na(state_names) & state_names != "NA"]
+cat("  États :", length(state_names), "\n")
 
-# Les lignes suivantes contiennent les etats
+# Ligne 2 = années (colonne 1), valeurs à partir de la colonne 2
+# Les données commencent à la ligne 3
+years <- as.numeric(craig_raw[2, 1])
+# Les années sont en colonne 1, on les extrait de la ligne 2
+years <- as.numeric(craig_raw[2, 1])
+# En fait, les années sont dans la colonne 1 de chaque ligne
+# Les données commencent à la ligne 2
+
+# Approche plus simple : extraire par état
 all_craig <- list()
 
-for (i in 2:nrow(craig_raw)) {
-  state_name <- as.character(craig_raw[i, 1])
-  if (!is.na(state_name) && state_name != "NA" && state_name != "") {
-    # Les valeurs commencent à la colonne 2
-    values <- as.numeric(craig_raw[i, 2:ncol(craig_raw)])
-    values <- values[!is.na(values)]
-    
-    if (length(values) > 0 && sum(values, na.rm = TRUE) > 0) {
-      # S'assurer que values et years ont la même longueur
-      n_obs <- min(length(values), length(years))
-      
-      state_data <- tibble(
-        year = years[1:n_obs],
-        production_kg = values[1:n_obs] * 0.0311035,  # onces -> kg
-        source = "Craig & Rimstidt (1998)",
-        country = state_name,
-        unit = "kg"
-      ) %>%
-        filter(!is.na(year), !is.na(production_kg), production_kg > 0)
-      
-      if (nrow(state_data) > 0) {
-        all_craig[[state_name]] <- state_data
-        cat("    ", state_name, ":", nrow(state_data), "observations\n")
-      }
-    }
+# Les états sont en ligne 1, colonnes 2 à n
+# Les données commencent à la ligne 2
+
+for (i in 1:length(state_names)) {
+  state_name <- state_names[i]
+  col_index <- i + 1  # +1 car colonne 1 = années
+  
+  # Extraire les données pour cet état
+  state_data <- craig_raw %>%
+    # Les années sont dans la colonne 1
+    mutate(
+      year = as.numeric(X1),
+      value = as.numeric(.[[col_index]])
+    ) %>%
+    filter(!is.na(year), !is.na(value), value > 0) %>%
+    mutate(
+      production_kg = value * 0.0311035,  # onces -> kg
+      source = "craig",
+      country = state_name,
+      unit = "kg"
+    ) %>%
+    select(year, production_kg, source, country, unit)
+  
+  if (nrow(state_data) > 0) {
+    all_craig[[state_name]] <- state_data
+    cat("    ", state_name, ":", nrow(state_data), "observations\n")
   }
 }
 
-craig <- bind_rows(all_craig)
-
-cat("\n  Total Craig :", nrow(craig), "observations\n")
-if (nrow(craig) > 0) {
+if (length(all_craig) > 0) {
+  craig <- bind_rows(all_craig)
+  cat("\n  Total Craig :", nrow(craig), "observations\n")
+  cat("  États :", n_distinct(craig$country), "\n")
   cat("  Periode :", min(craig$year), "-", max(craig$year), "\n")
-  cat("  Pays :", n_distinct(craig$country), "\n")
+  
+  save(craig, file = "data/craig.rda")
+  cat("  Sauvegarde : data/craig.rda\n")
 } else {
-  cat("  Aucune donnee Craig importee\n")
+  cat("\n  Aucune donnee Craig importee\n")
 }
-
-save(craig, file = "data/craig.rda")
-cat("  Sauvegarde : data/craig.rda\n")
 
 cat("--- IMPORTATION CRAIG TERMINEE ---\n")

@@ -1,27 +1,39 @@
 # scripts/01_import_soetbeer.R
 # Importation des donnees Soetbeer (1880)
+# Source: data-raw/raw/soetbeer_1493_1810_world.csv
 
 library(tidyverse)
 
 cat("\n--- IMPORTATION: SOETBEER (1880) ---\n")
 
-soetbeer_raw <- read_csv("data-raw/raw/soetbeer_1493_1810_world.csv", 
+if (!file.exists("data-raw/raw/soetbeer_1493_1810_world.csv")) {
+  stop("Fichier source non trouve: data-raw/raw/soetbeer_1493_1810_world.csv")
+}
+
+soetbeer_raw <- read_csv("data-raw/raw/soetbeer_1493_1810_world.csv",
                          show_col_types = FALSE)
 
-cat("  Colonnes :", paste(names(soetbeer_raw), collapse = ", "), "\n")
+# Detection automatique des colonnes
+col_names <- names(soetbeer_raw)
 
-# Le fichier a les colonnes: decade, silver_dm, silver_kg, gold_dm, gold_kg
-# On veut la colonne gold_kg (production d'or en kg)
+year_col <- col_names[str_detect(tolower(col_names), "year|annee|an|decade")][1]
+if (is.na(year_col)) year_col <- col_names[1]
+
+prod_col <- col_names[str_detect(tolower(col_names), "production|prod|tonnes|or|gold|kg")][1]
+if (is.na(prod_col)) prod_col <- col_names[2]
 
 soetbeer <- soetbeer_raw %>%
   mutate(
-    year = as.numeric(str_extract(decade, "^[0-9]{4}")),
-    production_kg = gold_kg,
-    source = "Soetbeer (1880)",
+    year = as.numeric(str_extract(.[[year_col]], "^[0-9]{4}")),
+    production_kg = as.numeric(.[[prod_col]]) * 1000  # CORRECTION: tonnes -> kg
+  ) %>%
+  filter(!is.na(year), !is.na(production_kg), 
+         production_kg > 0, year > 1400, year < 2030) %>%
+  mutate(
     country = "World",
+    source = "soetbeer",
     unit = "kg"
   ) %>%
-  filter(!is.na(year), !is.na(production_kg), production_kg > 0) %>%
   select(year, production_kg, source, country, unit)
 
 cat("  Observations :", nrow(soetbeer), "\n")

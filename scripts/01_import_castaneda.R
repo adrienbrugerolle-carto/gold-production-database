@@ -1,21 +1,17 @@
-
 # scripts/01_import_castaneda.R
 # Importation des donnees Castaneda (2013)
 # Source: data-raw/raw/Castaneda_world_1492_2012.csv
 
 library(tidyverse)
 
-cat("
---- IMPORTATION: CASTANEDA (2013) ---
-")
+cat("\n--- IMPORTATION: CASTANEDA (2013) ---\n")
 
-source_file <- "data-raw/raw/Castaneda_world_1492_2012.csv"
-
-if (!file.exists(source_file)) {
-  stop("Fichier source non trouve: ", source_file)
+if (!file.exists("data-raw/raw/Castaneda_world_1492_2012.csv")) {
+  stop("Fichier source non trouve: data-raw/raw/Castaneda_world_1492_2012.csv")
 }
 
-castaneda_raw <- read_csv(source_file, show_col_types = FALSE)
+castaneda_raw <- read_csv("data-raw/raw/Castaneda_world_1492_2012.csv",
+                          show_col_types = FALSE)
 
 castaneda <- castaneda_raw %>%
   rename(
@@ -23,23 +19,18 @@ castaneda <- castaneda_raw %>%
     production_kg = production_tonnes
   ) %>%
   mutate(
-    production_kg = production_kg * 1000,  # tonnes -> kg
-    source = "Castaneda (2013)",
+    production_kg = production_kg * 1000,  # CORRECTION: tonnes -> kg
+    source = "castaneda",
     country = "World",
     unit = "kg"
   ) %>%
   filter(!is.na(year), !is.na(production_kg), production_kg > 0) %>%
   select(year, production_kg, source, country, unit)
 
-cat("  Observations :", nrow(castaneda), "
-")
-cat("  Periode :", min(castaneda$year), "-", max(castaneda$year), "
-")
+cat("  Observations :", nrow(castaneda), "\n")
+cat("  Periode :", min(castaneda$year), "-", max(castaneda$year), "\n")
 
 save(castaneda, file = "data/castaneda.rda")
-cat("  Sauvegarde : data/castaneda.rda
-")
+cat("  Sauvegarde : data/castaneda.rda\n")
 
-cat("--- IMPORTATION CASTANEDA TERMINEE ---
-")
-
+cat("--- IMPORTATION CASTANEDA TERMINEE ---\n")
